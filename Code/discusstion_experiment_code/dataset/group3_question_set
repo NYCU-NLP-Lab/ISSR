@@ -1,0 +1,3902 @@
+[
+  {
+    "questions": "Sue is so _____ that she always breaks something when she is shopping at a store.",
+    "year": 97,
+    "quest_index": 5,
+    "answer": "C",
+    "correct_option_ch": "\u7b28\u62d9",
+    "correct_option_en": "clumsy",
+    "t_option_correct": 65,
+    "h_option_correct": 95,
+    "l_option_correct": 30,
+    "P": 65,
+    "Ph": 95,
+    "Pl": 30,
+    "Pa": 97,
+    "Pb": 88,
+    "Pc": 70,
+    "Pd": 43,
+    "Pe": 25,
+    "D": 65,
+    "D1": 9,
+    "D2": 18,
+    "D3": 27,
+    "D4": 18,
+    "options_en": [
+      "religious",
+      "visual",
+      "clumsy",
+      "intimate"
+    ],
+    "options_ch": [
+      "\u5b97\u6559",
+      "\u89c6\u89c9",
+      "\u7b28\u62d9",
+      "\u4eb2\u5bc6"
+    ],
+    "t_options_rate": [
+      12,
+      12,
+      65,
+      11
+    ],
+    "h_options_rate": [
+      1,
+      1,
+      95,
+      3
+    ],
+    "l_options_rate": [
+      25,
+      26,
+      30,
+      19
+    ],
+    "origin_questions": "Sue is so clumsy that she always breaks something when she is shopping at a store.",
+    "distractors": [
+      "religious",
+      "visual",
+      "intimate"
+    ]
+  },
+  {
+    "questions": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+    "year": 93,
+    "quest_index": 7,
+    "answer": "B",
+    "correct_option_ch": null,
+    "correct_option_en": "disconnected",
+    "t_option_correct": 65,
+    "h_option_correct": 81,
+    "l_option_correct": 45,
+    "P": 65,
+    "Ph": 81,
+    "Pl": 45,
+    "Pa": 84,
+    "Pb": 74,
+    "Pc": 68,
+    "Pd": 58,
+    "Pe": 39,
+    "D": 36,
+    "D1": 10,
+    "D2": 6,
+    "D3": 10,
+    "D4": 19,
+    "options_en": [
+      "interrupted",
+      "disconnected",
+      "excluded",
+      "discriminated"
+    ],
+    "options_ch": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "t_options_rate": [
+      19,
+      65,
+      9,
+      8
+    ],
+    "h_options_rate": [
+      17,
+      81,
+      2,
+      1
+    ],
+    "l_options_rate": [
+      16,
+      45,
+      22,
+      17
+    ],
+    "origin_questions": "John had failed to pay his phone bills for months, so his telephone was disconnected last week.",
+    "distractors": [
+      "interrupted",
+      "excluded",
+      "discriminated"
+    ]
+  },
+  {
+    "questions": "To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+    "year": 104,
+    "quest_index": 3,
+    "answer": "C",
+    "correct_option_ch": "\u8d1f\u62c5\u5f97\u8d77",
+    "correct_option_en": "affordable",
+    "t_option_correct": 66,
+    "h_option_correct": 98,
+    "l_option_correct": 26,
+    "P": 66,
+    "Ph": 98,
+    "Pl": 26,
+    "Pa": 99,
+    "Pb": 94,
+    "Pc": 75,
+    "Pd": 37,
+    "Pe": 23,
+    "D": 72,
+    "D1": 5,
+    "D2": 19,
+    "D3": 38,
+    "D4": 14,
+    "options_en": [
+      "technical",
+      "significant",
+      "affordable",
+      "expressive"
+    ],
+    "options_ch": [
+      "\u6280\u672f",
+      "\u6709\u610f\u4e49",
+      "\u8d1f\u62c5\u5f97\u8d77",
+      "\u8868\u73b0"
+    ],
+    "t_options_rate": [
+      16,
+      10,
+      66,
+      9
+    ],
+    "h_options_rate": [
+      2,
+      0,
+      98,
+      0
+    ],
+    "l_options_rate": [
+      27,
+      24,
+      26,
+      23
+    ],
+    "origin_questions": "To stick to a tight budget, Robert bought a more affordable LED TV instead of a fancy, expensive 3D TV.",
+    "distractors": [
+      "technical",
+      "significant",
+      "expressive"
+    ]
+  },
+  {
+    "questions": "To ______ the new product, the company offered some free samples before they officially launched it.",
+    "year": 104,
+    "quest_index": 11,
+    "answer": "C",
+    "correct_option_ch": "\u4fc3\u9500",
+    "correct_option_en": "promote",
+    "t_option_correct": 66,
+    "h_option_correct": 88,
+    "l_option_correct": 39,
+    "P": 66,
+    "Ph": 88,
+    "Pl": 39,
+    "Pa": 92,
+    "Pb": 82,
+    "Pc": 72,
+    "Pd": 53,
+    "Pe": 32,
+    "D": 49,
+    "D1": 10,
+    "D2": 10,
+    "D3": 19,
+    "D4": 21,
+    "options_en": [
+      "contribute",
+      "impress",
+      "promote",
+      "estimate"
+    ],
+    "options_ch": [
+      "\u8d21\u732e",
+      "\u7ed9\u76ee\u6807\u6781\u6df1\u7684\u5370\u8c61",
+      "\u4fc3\u9500",
+      "\u4f30\u8ba1"
+    ],
+    "t_options_rate": [
+      10,
+      16,
+      66,
+      8
+    ],
+    "h_options_rate": [
+      1,
+      5,
+      88,
+      6
+    ],
+    "l_options_rate": [
+      20,
+      29,
+      39,
+      11
+    ],
+    "origin_questions": "To promote the new product, the company offered some free samples before they officially launched it.",
+    "distractors": [
+      "contribute",
+      "impress",
+      "estimate"
+    ]
+  },
+  {
+    "questions": "John\u2019s part-time experience at the cafeteria is good _______ for running his own restaurant.",
+    "year": 102,
+    "quest_index": 7,
+    "answer": "A",
+    "correct_option_ch": "\u51c6\u5907",
+    "correct_option_en": "preparation",
+    "t_option_correct": 66,
+    "h_option_correct": 91,
+    "l_option_correct": 34,
+    "P": 66,
+    "Ph": 91,
+    "Pl": 34,
+    "Pa": 94,
+    "Pb": 85,
+    "Pc": 73,
+    "Pd": 50,
+    "Pe": 27,
+    "D": 57,
+    "D1": 9,
+    "D2": 12,
+    "D3": 23,
+    "D4": 23,
+    "options_en": [
+      "preparation",
+      "recognition",
+      "formation",
+      "calculation"
+    ],
+    "options_ch": [
+      "\u51c6\u5907",
+      "\u8fa8\u8ba4",
+      "\u5f62\u6210",
+      "\u8ba1\u7b97"
+    ],
+    "t_options_rate": [
+      66,
+      10,
+      16,
+      7
+    ],
+    "h_options_rate": [
+      91,
+      2,
+      6,
+      1
+    ],
+    "l_options_rate": [
+      34,
+      22,
+      27,
+      17
+    ],
+    "origin_questions": "John\u2019s part-time experience at the cafeteria is good preparation for running his own restaurant.",
+    "distractors": [
+      "recognition",
+      "formation",
+      "calculation"
+    ]
+  },
+  {
+    "questions": "A _____ mistake found in parenthood is that parents often set unrealistic goals for their children.",
+    "year": 95,
+    "quest_index": 2,
+    "answer": "B",
+    "correct_option_ch": "\u666e\u904d",
+    "correct_option_en": "common",
+    "t_option_correct": 66,
+    "h_option_correct": 97,
+    "l_option_correct": 31,
+    "P": 66,
+    "Ph": 97,
+    "Pl": 31,
+    "Pa": 98,
+    "Pb": 91,
+    "Pc": 72,
+    "Pd": 43,
+    "Pe": 27,
+    "D": 66,
+    "D1": 7,
+    "D2": 19,
+    "D3": 29,
+    "D4": 16,
+    "options_en": [
+      "terrific",
+      "common",
+      "straight",
+      "favorable"
+    ],
+    "options_ch": [
+      "\u6781\u597d",
+      "\u666e\u904d",
+      "\u76f4",
+      "\u8d5e\u540c"
+    ],
+    "t_options_rate": [
+      14,
+      66,
+      12,
+      8
+    ],
+    "h_options_rate": [
+      2,
+      97,
+      1,
+      0
+    ],
+    "l_options_rate": [
+      24,
+      31,
+      26,
+      19
+    ],
+    "origin_questions": "A common mistake found in parenthood is that parents often set unrealistic goals for their children.",
+    "distractors": [
+      "terrific",
+      "straight",
+      "favorable"
+    ]
+  },
+  {
+    "questions": "In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+    "year": 93,
+    "quest_index": 2,
+    "answer": "D",
+    "correct_option_ch": null,
+    "correct_option_en": "observe",
+    "t_option_correct": 66,
+    "h_option_correct": 92,
+    "l_option_correct": 40,
+    "P": 66,
+    "Ph": 92,
+    "Pl": 40,
+    "Pa": 96,
+    "Pb": 83,
+    "Pc": 66,
+    "Pd": 52,
+    "Pe": 33,
+    "D": 52,
+    "D1": 13,
+    "D2": 17,
+    "D3": 14,
+    "D4": 19,
+    "options_en": [
+      "design",
+      "seize",
+      "quote",
+      "observe"
+    ],
+    "options_ch": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "t_options_rate": [
+      16,
+      9,
+      8,
+      66
+    ],
+    "h_options_rate": [
+      2,
+      3,
+      3,
+      92
+    ],
+    "l_options_rate": [
+      28,
+      17,
+      16,
+      40
+    ],
+    "origin_questions": "In order to write a report on stars, we decided to observe the stars in the sky every night.",
+    "distractors": [
+      "design",
+      "seize",
+      "quote"
+    ]
+  },
+  {
+    "questions": "The principal of this school is a man of exceptional _____. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "year": 105,
+    "quest_index": 6,
+    "answer": "D",
+    "correct_option_ch": "\u6177\u6168",
+    "correct_option_en": "generosity",
+    "t_option_correct": 67,
+    "h_option_correct": 96,
+    "l_option_correct": 33,
+    "P": 67,
+    "Ph": 96,
+    "Pl": 33,
+    "Pa": 99,
+    "Pb": 91,
+    "Pc": 72,
+    "Pd": 47,
+    "Pe": 26,
+    "D": 63,
+    "D1": 8,
+    "D2": 19,
+    "D3": 25,
+    "D4": 21,
+    "options_en": [
+      "security",
+      "maturity",
+      "facility",
+      "generosity"
+    ],
+    "options_ch": [
+      "\u5b89\u5168",
+      "\u6210\u719f",
+      "\u8bbe\u5907",
+      "\u6177\u6168"
+    ],
+    "t_options_rate": [
+      9,
+      13,
+      12,
+      67
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      2,
+      96
+    ],
+    "l_options_rate": [
+      19,
+      26,
+      22,
+      33
+    ],
+    "origin_questions": "The principal of this school is a man of exceptional generosity. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "distractors": [
+      "security",
+      "maturity",
+      "facility"
+    ]
+  },
+  {
+    "questions": "Betty was _______ to accept her friend\u2019s suggestion because she thought she could come up with a better idea herself.",
+    "year": 102,
+    "quest_index": 5,
+    "answer": "C",
+    "correct_option_ch": "\u4e0d\u60c5\u613f",
+    "correct_option_en": "reluctant",
+    "t_option_correct": 67,
+    "h_option_correct": 95,
+    "l_option_correct": 38,
+    "P": 67,
+    "Ph": 95,
+    "Pl": 38,
+    "Pa": 98,
+    "Pb": 89,
+    "Pc": 70,
+    "Pd": 45,
+    "Pe": 35,
+    "D": 57,
+    "D1": 9,
+    "D2": 19,
+    "D3": 25,
+    "D4": 10,
+    "options_en": [
+      "tolerable",
+      "sensitive",
+      "reluctant",
+      "modest"
+    ],
+    "options_ch": [
+      "\u53ef\u5bb9\u5fcd",
+      "\u654f\u611f",
+      "\u4e0d\u60c5\u613f",
+      "\u8c26\u865a"
+    ],
+    "t_options_rate": [
+      11,
+      13,
+      67,
+      9
+    ],
+    "h_options_rate": [
+      2,
+      1,
+      95,
+      2
+    ],
+    "l_options_rate": [
+      17,
+      30,
+      38,
+      15
+    ],
+    "origin_questions": "Betty was reluctant to accept her friend\u2019s suggestion because she thought she could come up with a better idea herself.",
+    "distractors": [
+      "tolerable",
+      "sensitive",
+      "modest"
+    ]
+  },
+  {
+    "questions": "Dr. Chu\u2019s speech on the new energy source attracted great _____ from the audience at the conference.",
+    "year": 100,
+    "quest_index": 9,
+    "answer": "A",
+    "correct_option_ch": "\u6ce8\u610f",
+    "correct_option_en": "attention",
+    "t_option_correct": 67,
+    "h_option_correct": 98,
+    "l_option_correct": 29,
+    "P": 67,
+    "Ph": 98,
+    "Pl": 29,
+    "Pa": 99,
+    "Pb": 94,
+    "Pc": 76,
+    "Pd": 41,
+    "Pe": 24,
+    "D": 69,
+    "D1": 5,
+    "D2": 18,
+    "D3": 35,
+    "D4": 17,
+    "options_en": [
+      "attention",
+      "fortune",
+      "solution",
+      "influence"
+    ],
+    "options_ch": [
+      "\u6ce8\u610f",
+      "\u5e78\u8fd0",
+      "\u89e3\u7b54",
+      "\u5f71\u54cd"
+    ],
+    "t_options_rate": [
+      67,
+      6,
+      11,
+      15
+    ],
+    "h_options_rate": [
+      98,
+      0,
+      0,
+      2
+    ],
+    "l_options_rate": [
+      29,
+      17,
+      28,
+      27
+    ],
+    "origin_questions": "Dr. Chu\u2019s speech on the new energy source attracted great attention from the audience at the conference.",
+    "distractors": [
+      "fortune",
+      "solution",
+      "influence"
+    ]
+  },
+  {
+    "questions": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+    "year": 93,
+    "quest_index": 9,
+    "answer": "A",
+    "correct_option_ch": null,
+    "correct_option_en": "spiritually",
+    "t_option_correct": 67,
+    "h_option_correct": 96,
+    "l_option_correct": 31,
+    "P": 67,
+    "Ph": 96,
+    "Pl": 31,
+    "Pa": 98,
+    "Pb": 91,
+    "Pc": 73,
+    "Pd": 47,
+    "Pe": 23,
+    "D": 65,
+    "D1": 7,
+    "D2": 18,
+    "D3": 26,
+    "D4": 24,
+    "options_en": [
+      "spiritually",
+      "typically",
+      "historically",
+      "officially"
+    ],
+    "options_ch": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "t_options_rate": [
+      67,
+      14,
+      12,
+      8
+    ],
+    "h_options_rate": [
+      96,
+      2,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      31,
+      28,
+      27,
+      14
+    ],
+    "origin_questions": "Jessica is a very religious girl; she believes that she is always spiritually supported by her god.",
+    "distractors": [
+      "typically",
+      "historically",
+      "officially"
+    ]
+  },
+  {
+    "questions": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+    "year": 101,
+    "quest_index": 5,
+    "answer": "B",
+    "correct_option_ch": "\u6210\u719f",
+    "correct_option_en": "mature",
+    "t_option_correct": 68,
+    "h_option_correct": 94,
+    "l_option_correct": 37,
+    "P": 68,
+    "Ph": 94,
+    "Pl": 37,
+    "Pa": 97,
+    "Pb": 88,
+    "Pc": 73,
+    "Pd": 52,
+    "Pe": 30,
+    "D": 57,
+    "D1": 9,
+    "D2": 15,
+    "D3": 21,
+    "D4": 22,
+    "options_en": [
+      "diligent",
+      "mature",
+      "familiar",
+      "sincere"
+    ],
+    "options_ch": [
+      "\u52e4\u52c9",
+      "\u6210\u719f",
+      "\u719f\u6089",
+      "\u771f\u8bda"
+    ],
+    "t_options_rate": [
+      16,
+      68,
+      9,
+      7
+    ],
+    "h_options_rate": [
+      4,
+      94,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      27,
+      37,
+      22,
+      14
+    ],
+    "origin_questions": "According to recent research, children under the age of 12 are generally not mature enough to recognize risk and deal with dangerous situations.",
+    "distractors": [
+      "diligent",
+      "familiar",
+      "sincere"
+    ]
+  },
+  {
+    "questions": "This information came from a very _____ source, so you don\u2019t have to worry about being cheated. ",
+    "year": 98,
+    "quest_index": 6,
+    "answer": "A",
+    "correct_option_ch": "\u53ef\u9760",
+    "correct_option_en": "reliable",
+    "t_option_correct": 68,
+    "h_option_correct": 96,
+    "l_option_correct": 37,
+    "P": 68,
+    "Ph": 96,
+    "Pl": 37,
+    "Pa": 98,
+    "Pb": 90,
+    "Pc": 72,
+    "Pd": 50,
+    "Pe": 31,
+    "D": 59,
+    "D1": 8,
+    "D2": 18,
+    "D3": 22,
+    "D4": 19,
+    "options_en": [
+      "reliable",
+      "flexible",
+      "clumsy",
+      "brutal"
+    ],
+    "options_ch": [
+      "\u53ef\u9760",
+      "\u6709\u5f39\u6027",
+      "\u52a8\u4f5c\u7b28\u62d9",
+      "\u51f6\u6b8b"
+    ],
+    "t_options_rate": [
+      68,
+      15,
+      11,
+      6
+    ],
+    "h_options_rate": [
+      96,
+      2,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      37,
+      28,
+      23,
+      12
+    ],
+    "origin_questions": "This information came from a very reliable source, so you don\u2019t have to worry about being cheated. ",
+    "distractors": [
+      "flexible",
+      "clumsy",
+      "brutal"
+    ]
+  },
+  {
+    "questions": "We hope that there will be no war in the world and that all people live in peace and _____ with each other. ",
+    "year": 98,
+    "quest_index": 7,
+    "answer": "B",
+    "correct_option_ch": "\u548c\u8c10",
+    "correct_option_en": "harmony",
+    "t_option_correct": 68,
+    "h_option_correct": 92,
+    "l_option_correct": 40,
+    "P": 68,
+    "Ph": 92,
+    "Pl": 40,
+    "Pa": 95,
+    "Pb": 84,
+    "Pc": 72,
+    "Pd": 56,
+    "Pe": 33,
+    "D": 52,
+    "D1": 11,
+    "D2": 12,
+    "D3": 16,
+    "D4": 23,
+    "options_en": [
+      "complaint",
+      "harmony",
+      "mission",
+      "texture"
+    ],
+    "options_ch": [
+      "\u62b1\u6028",
+      "\u548c\u8c10",
+      "\u4efb\u52a1",
+      "\u7ec4\u7ec7"
+    ],
+    "t_options_rate": [
+      12,
+      68,
+      8,
+      12
+    ],
+    "h_options_rate": [
+      2,
+      92,
+      1,
+      5
+    ],
+    "l_options_rate": [
+      25,
+      40,
+      19,
+      16
+    ],
+    "origin_questions": "We hope that there will be no war in the world and that all people live in peace and harmony with each other. ",
+    "distractors": [
+      "complaint",
+      "mission",
+      "texture"
+    ]
+  },
+  {
+    "questions": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy. ",
+    "year": 98,
+    "quest_index": 11,
+    "answer": "D",
+    "correct_option_ch": "\u9886\u5bfc",
+    "correct_option_en": "leadership",
+    "t_option_correct": 68,
+    "h_option_correct": 91,
+    "l_option_correct": 38,
+    "P": 68,
+    "Ph": 91,
+    "Pl": 38,
+    "Pa": 95,
+    "Pb": 84,
+    "Pc": 74,
+    "Pd": 57,
+    "Pe": 28,
+    "D": 53,
+    "D1": 11,
+    "D2": 10,
+    "D3": 17,
+    "D4": 29,
+    "options_en": [
+      "adoption",
+      "fragrance",
+      "identity",
+      "leadership"
+    ],
+    "options_ch": [
+      "\u91c7\u7528",
+      "\u9999\u6c14",
+      "\u8eab\u5206",
+      "\u9886\u5bfc"
+    ],
+    "t_options_rate": [
+      10,
+      9,
+      13,
+      68
+    ],
+    "h_options_rate": [
+      3,
+      1,
+      4,
+      91
+    ],
+    "l_options_rate": [
+      17,
+      21,
+      24,
+      38
+    ],
+    "origin_questions": "Under the leadership of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy. ",
+    "distractors": [
+      "adoption",
+      "fragrance",
+      "identity"
+    ]
+  },
+  {
+    "questions": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+    "year": 94,
+    "quest_index": 11,
+    "answer": "B",
+    "correct_option_ch": "\u53d6\u4ee3",
+    "correct_option_en": "replace",
+    "t_option_correct": 68,
+    "h_option_correct": 98,
+    "l_option_correct": 32,
+    "P": 68,
+    "Ph": 98,
+    "Pl": 32,
+    "Pa": 99,
+    "Pb": 94,
+    "Pc": 74,
+    "Pd": 41,
+    "Pe": 29,
+    "D": 66,
+    "D1": 5,
+    "D2": 20,
+    "D3": 33,
+    "D4": 12,
+    "options_en": [
+      "apply",
+      "replace",
+      "inform",
+      "persuade"
+    ],
+    "options_ch": [
+      "\u5e94\u7528",
+      "\u53d6\u4ee3",
+      "\u901a\u77e5",
+      "\u8bf4\u670d"
+    ],
+    "t_options_rate": [
+      10,
+      68,
+      12,
+      10
+    ],
+    "h_options_rate": [
+      1,
+      98,
+      0,
+      1
+    ],
+    "l_options_rate": [
+      20,
+      32,
+      28,
+      20
+    ],
+    "origin_questions": "The rise of oil prices made scientists search for new energy resources to replace oil.",
+    "distractors": [
+      "apply",
+      "inform",
+      "persuade"
+    ]
+  },
+  {
+    "questions": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+    "year": 104,
+    "quest_index": 10,
+    "answer": "B",
+    "correct_option_ch": "\u72c2\u6012",
+    "correct_option_en": "furiously",
+    "t_option_correct": 69,
+    "h_option_correct": 97,
+    "l_option_correct": 35,
+    "P": 69,
+    "Ph": 97,
+    "Pl": 35,
+    "Pa": 99,
+    "Pb": 92,
+    "Pc": 75,
+    "Pd": 47,
+    "Pe": 31,
+    "D": 62,
+    "D1": 7,
+    "D2": 17,
+    "D3": 28,
+    "D4": 16,
+    "options_en": [
+      "evidently",
+      "furiously",
+      "obediently",
+      "suspiciously"
+    ],
+    "options_ch": [
+      "\u660e\u663e",
+      "\u72c2\u6012",
+      "\u670d\u4ece",
+      "\u731c\u7591"
+    ],
+    "t_options_rate": [
+      8,
+      69,
+      14,
+      10
+    ],
+    "h_options_rate": [
+      1,
+      97,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      16,
+      35,
+      29,
+      19
+    ],
+    "origin_questions": "The angry passengers argued furiously with the airline staff because their flight was cancelled without any reason.",
+    "distractors": [
+      "evidently",
+      "obediently",
+      "suspiciously"
+    ]
+  },
+  {
+    "questions": "Lost and scared, the little dog _______ along the streets, looking for its master. ",
+    "year": 103,
+    "quest_index": 1,
+    "answer": "C",
+    "correct_option_ch": "\u5f98\u5f8a",
+    "correct_option_en": "wandered",
+    "t_option_correct": 69,
+    "h_option_correct": 96,
+    "l_option_correct": 37,
+    "P": 69,
+    "Ph": 96,
+    "Pl": 37,
+    "Pa": 98,
+    "Pb": 91,
+    "Pc": 74,
+    "Pd": 47,
+    "Pe": 33,
+    "D": 59,
+    "D1": 7,
+    "D2": 17,
+    "D3": 27,
+    "D4": 14,
+    "options_en": [
+      "dismissed",
+      "glided",
+      "wandered",
+      "marched"
+    ],
+    "options_ch": [
+      "\u89e3\u6563",
+      "\u6ed1\u884c",
+      "\u5f98\u5f8a",
+      "\u524d\u8fdb"
+    ],
+    "t_options_rate": [
+      15,
+      11,
+      69,
+      5
+    ],
+    "h_options_rate": [
+      1,
+      2,
+      96,
+      1
+    ],
+    "l_options_rate": [
+      31,
+      23,
+      37,
+      9
+    ],
+    "origin_questions": "Lost and scared, the little dog wandered along the streets, looking for its master. ",
+    "distractors": [
+      "dismissed",
+      "glided",
+      "marched"
+    ]
+  },
+  {
+    "questions": "The restaurant has a _______ charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+    "year": 103,
+    "quest_index": 6,
+    "answer": "B",
+    "correct_option_ch": "\u6700\u5c11",
+    "correct_option_en": "minimum",
+    "t_option_correct": 69,
+    "h_option_correct": 95,
+    "l_option_correct": 36,
+    "P": 69,
+    "Ph": 95,
+    "Pl": 36,
+    "Pa": 98,
+    "Pb": 90,
+    "Pc": 75,
+    "Pd": 50,
+    "Pe": 31,
+    "D": 59,
+    "D1": 8,
+    "D2": 15,
+    "D3": 25,
+    "D4": 19,
+    "options_en": [
+      "definite",
+      "minimum",
+      "flexible",
+      "numerous"
+    ],
+    "options_ch": [
+      "\u660e\u786e",
+      "\u6700\u5c11",
+      "\u6709\u5f39\u6027",
+      "\u8bb8\u591a"
+    ],
+    "t_options_rate": [
+      13,
+      69,
+      8,
+      10
+    ],
+    "h_options_rate": [
+      3,
+      95,
+      0,
+      1
+    ],
+    "l_options_rate": [
+      22,
+      36,
+      20,
+      22
+    ],
+    "origin_questions": "The restaurant has a minimum charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+    "distractors": [
+      "definite",
+      "flexible",
+      "numerous"
+    ]
+  },
+  {
+    "questions": "Though Kevin failed in last year\u2019s singing contest, he did not feel ______. This year he practiced day and night and finally won first place in the competition.",
+    "year": 102,
+    "quest_index": 14,
+    "answer": "D",
+    "correct_option_ch": "\u6cae\u4e27",
+    "correct_option_en": "frustrated",
+    "t_option_correct": 69,
+    "h_option_correct": 98,
+    "l_option_correct": 31,
+    "P": 69,
+    "Ph": 98,
+    "Pl": 31,
+    "Pa": 99,
+    "Pb": 95,
+    "Pc": 81,
+    "Pd": 51,
+    "Pe": 21,
+    "D": 67,
+    "D1": 4,
+    "D2": 14,
+    "D3": 30,
+    "D4": 30,
+    "options_en": [
+      "relieved",
+      "suspected",
+      "discounted",
+      "frustrated"
+    ],
+    "options_ch": [
+      "\u653e\u5fc3",
+      "\u6709\u5acc\u7591",
+      "\u6298\u6263",
+      "\u6cae\u4e27"
+    ],
+    "t_options_rate": [
+      8,
+      8,
+      15,
+      69
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      2,
+      98
+    ],
+    "l_options_rate": [
+      19,
+      20,
+      30,
+      31
+    ],
+    "origin_questions": "Though Kevin failed in last year\u2019s singing contest, he did not feel frustrated. This year he practiced day and night and finally won first place in the competition.",
+    "distractors": [
+      "relieved",
+      "suspected",
+      "discounted"
+    ]
+  },
+  {
+    "questions": "Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
+    "year": 101,
+    "quest_index": 13,
+    "answer": "D",
+    "correct_option_ch": "\u541d\u556c",
+    "correct_option_en": "stingy",
+    "t_option_correct": 69,
+    "h_option_correct": 94,
+    "l_option_correct": 34,
+    "P": 69,
+    "Ph": 94,
+    "Pl": 34,
+    "Pa": 96,
+    "Pb": 90,
+    "Pc": 80,
+    "Pd": 57,
+    "Pe": 22,
+    "D": 60,
+    "D1": 6,
+    "D2": 10,
+    "D3": 23,
+    "D4": 35,
+    "options_en": [
+      "absolute",
+      "precise",
+      "economic",
+      "stingy"
+    ],
+    "options_ch": [
+      "\u7edd\u5bf9",
+      "\u7cbe\u786e",
+      "\u7ecf\u6d4e\u4e0a",
+      "\u541d\u556c"
+    ],
+    "t_options_rate": [
+      8,
+      12,
+      11,
+      69
+    ],
+    "h_options_rate": [
+      1,
+      2,
+      3,
+      94
+    ],
+    "l_options_rate": [
+      18,
+      25,
+      23,
+      34
+    ],
+    "origin_questions": "Although Mr. Chen is rich, he is a very stingy person and is never willing to spend any money to help those who are in need.",
+    "distractors": [
+      "absolute",
+      "precise",
+      "economic"
+    ]
+  },
+  {
+    "questions": "I could not ______ the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+    "year": 99,
+    "quest_index": 6,
+    "answer": "B",
+    "correct_option_ch": "\u6297\u62d2",
+    "correct_option_en": "resist",
+    "t_option_correct": 69,
+    "h_option_correct": 95,
+    "l_option_correct": 40,
+    "P": 69,
+    "Ph": 95,
+    "Pl": 40,
+    "Pa": 97,
+    "Pb": 88,
+    "Pc": 74,
+    "Pd": 51,
+    "Pe": 35,
+    "D": 55,
+    "D1": 9,
+    "D2": 14,
+    "D3": 23,
+    "D4": 16,
+    "options_en": [
+      "insist",
+      "resist",
+      "obtain",
+      "contain"
+    ],
+    "options_ch": [
+      "\u575a\u6301",
+      "\u6297\u62d2",
+      "\u83b7\u5f97",
+      "\u5305\u542b"
+    ],
+    "t_options_rate": [
+      11,
+      69,
+      11,
+      8
+    ],
+    "h_options_rate": [
+      2,
+      95,
+      3,
+      0
+    ],
+    "l_options_rate": [
+      21,
+      40,
+      19,
+      19
+    ],
+    "origin_questions": "I could not resist the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+    "distractors": [
+      "insist",
+      "obtain",
+      "contain"
+    ]
+  },
+  {
+    "questions": "Robert was the only _____ to the car accident. The police had to count on him to find out exactly how the accident happened.",
+    "year": 99,
+    "quest_index": 14,
+    "answer": "C",
+    "correct_option_ch": "\u76ee\u51fb\u8bc1\u4eba",
+    "correct_option_en": "witness",
+    "t_option_correct": 69,
+    "h_option_correct": 97,
+    "l_option_correct": 36,
+    "P": 69,
+    "Ph": 97,
+    "Pl": 36,
+    "Pa": 99,
+    "Pb": 92,
+    "Pc": 76,
+    "Pd": 49,
+    "Pe": 31,
+    "D": 61,
+    "D1": 7,
+    "D2": 16,
+    "D3": 27,
+    "D4": 18,
+    "options_en": [
+      "dealer",
+      "guide",
+      "witness",
+      "client"
+    ],
+    "options_ch": [
+      "\u5546\u4eba",
+      "\u5bfc\u6e38",
+      "\u76ee\u51fb\u8bc1\u4eba",
+      "\u5ba2\u6237"
+    ],
+    "t_options_rate": [
+      8,
+      11,
+      69,
+      11
+    ],
+    "h_options_rate": [
+      1,
+      0,
+      97,
+      2
+    ],
+    "l_options_rate": [
+      17,
+      28,
+      36,
+      20
+    ],
+    "origin_questions": "Robert was the only witness to the car accident. The police had to count on him to find out exactly how the accident happened.",
+    "distractors": [
+      "dealer",
+      "guide",
+      "client"
+    ]
+  },
+  {
+    "questions": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+    "year": 105,
+    "quest_index": 11,
+    "answer": "B",
+    "correct_option_ch": "\u75d2",
+    "correct_option_en": "itchy",
+    "t_option_correct": 70,
+    "h_option_correct": 94,
+    "l_option_correct": 37,
+    "P": 70,
+    "Ph": 94,
+    "Pl": 37,
+    "Pa": 97,
+    "Pb": 90,
+    "Pc": 78,
+    "Pd": 55,
+    "Pe": 28,
+    "D": 57,
+    "D1": 7,
+    "D2": 12,
+    "D3": 23,
+    "D4": 27,
+    "options_en": [
+      "alert",
+      "itchy",
+      "steady",
+      "flexible"
+    ],
+    "options_ch": [
+      "\u8b66\u9192",
+      "\u75d2",
+      "\u7a33\u5b9a",
+      "\u5f39\u6027"
+    ],
+    "t_options_rate": [
+      7,
+      70,
+      17,
+      7
+    ],
+    "h_options_rate": [
+      1,
+      94,
+      4,
+      0
+    ],
+    "l_options_rate": [
+      15,
+      37,
+      30,
+      18
+    ],
+    "origin_questions": "In winter, our skin tends to become dry and itchy, a problem which is usually treated by applying lotions or creams.",
+    "distractors": [
+      "alert",
+      "steady",
+      "flexible"
+    ]
+  },
+  {
+    "questions": "It rained so hard yesterday that the baseball game had to be _______ until next Saturday.",
+    "year": 102,
+    "quest_index": 1,
+    "answer": "B",
+    "correct_option_ch": "\u5ef6\u671f",
+    "correct_option_en": "postponed",
+    "t_option_correct": 70,
+    "h_option_correct": 95,
+    "l_option_correct": 42,
+    "P": 70,
+    "Ph": 95,
+    "Pl": 42,
+    "Pa": 98,
+    "Pb": 90,
+    "Pc": 74,
+    "Pd": 52,
+    "Pe": 37,
+    "D": 53,
+    "D1": 8,
+    "D2": 16,
+    "D3": 22,
+    "D4": 15,
+    "options_en": [
+      "surrendered",
+      "postponed",
+      "abandoned",
+      "opposed"
+    ],
+    "options_ch": [
+      "\u6295\u964d",
+      "\u5ef6\u671f",
+      "\u629b\u5f03",
+      "\u53cd\u5bf9"
+    ],
+    "t_options_rate": [
+      7,
+      70,
+      14,
+      9
+    ],
+    "h_options_rate": [
+      1,
+      95,
+      2,
+      1
+    ],
+    "l_options_rate": [
+      16,
+      42,
+      26,
+      17
+    ],
+    "origin_questions": "It rained so hard yesterday that the baseball game had to be postponed until next Saturday.",
+    "distractors": [
+      "surrendered",
+      "abandoned",
+      "opposed"
+    ]
+  },
+  {
+    "questions": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+    "year": 105,
+    "quest_index": 8,
+    "answer": "D",
+    "correct_option_ch": "\u8bb8\u591a",
+    "correct_option_en": "numerous",
+    "t_option_correct": 71,
+    "h_option_correct": 96,
+    "l_option_correct": 37,
+    "P": 71,
+    "Ph": 96,
+    "Pl": 37,
+    "Pa": 98,
+    "Pb": 93,
+    "Pc": 82,
+    "Pd": 56,
+    "Pe": 28,
+    "D": 59,
+    "D1": 5,
+    "D2": 11,
+    "D3": 26,
+    "D4": 28,
+    "options_en": [
+      "durable",
+      "private",
+      "realistic",
+      "numerous"
+    ],
+    "options_ch": [
+      "\u8010\u7528",
+      "\u79c1\u4eba",
+      "\u5b9e\u9645",
+      "\u8bb8\u591a"
+    ],
+    "t_options_rate": [
+      6,
+      11,
+      11,
+      71
+    ],
+    "h_options_rate": [
+      1,
+      2,
+      1,
+      96
+    ],
+    "l_options_rate": [
+      13,
+      24,
+      26,
+      37
+    ],
+    "origin_questions": "Most of the area is covered by woods, where bird species are so numerous that it is a paradise for birdwatchers.",
+    "distractors": [
+      "durable",
+      "private",
+      "realistic"
+    ]
+  },
+  {
+    "questions": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work\u2014from as early as 6 a.m. to as late as 11 a.m.",
+    "year": 104,
+    "quest_index": 1,
+    "answer": "D",
+    "correct_option_ch": "\u5f39\u6027",
+    "correct_option_en": "flexible",
+    "t_option_correct": 71,
+    "h_option_correct": 98,
+    "l_option_correct": 31,
+    "P": 71,
+    "Ph": 98,
+    "Pl": 31,
+    "Pa": 99,
+    "Pb": 95,
+    "Pc": 84,
+    "Pd": 55,
+    "Pe": 19,
+    "D": 67,
+    "D1": 4,
+    "D2": 11,
+    "D3": 29,
+    "D4": 36,
+    "options_en": [
+      "relative",
+      "severe",
+      "primitive",
+      "flexible"
+    ],
+    "options_ch": [
+      "\u76f8\u5bf9",
+      "\u4e25\u91cd",
+      "\u539f\u59cb",
+      "\u5f39\u6027"
+    ],
+    "t_options_rate": [
+      7,
+      11,
+      12,
+      71
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      1,
+      98
+    ],
+    "l_options_rate": [
+      16,
+      26,
+      26,
+      31
+    ],
+    "origin_questions": "Nowadays many companies adopt a flexible work schedule which allows their employees to decide when to arrive at work\u2014from as early as 6 a.m. to as late as 11 a.m.",
+    "distractors": [
+      "relative",
+      "severe",
+      "primitive"
+    ]
+  },
+  {
+    "questions": "Tom was very ill a week ago, but now he looks healthy. We are ______ by his quick recovery. ",
+    "year": 96,
+    "quest_index": 15,
+    "answer": "A",
+    "correct_option_ch": "\u5927\u611f\u60ca\u5947",
+    "correct_option_en": "amazed",
+    "t_option_correct": 71,
+    "h_option_correct": 98,
+    "l_option_correct": 32,
+    "P": 71,
+    "Ph": 98,
+    "Pl": 32,
+    "Pa": 99,
+    "Pb": 95,
+    "Pc": 84,
+    "Pd": 55,
+    "Pe": 22,
+    "D": 66,
+    "D1": 4,
+    "D2": 11,
+    "D3": 29,
+    "D4": 33,
+    "options_en": [
+      "amazed",
+      "convinced",
+      "advised",
+      "confirmed"
+    ],
+    "options_ch": [
+      "\u5927\u611f\u60ca\u5947",
+      "\u88ab\u8bf4\u670d",
+      "\u88ab\u529d\u544a",
+      "\u88ab\u8bc1\u5b9e"
+    ],
+    "t_options_rate": [
+      71,
+      12,
+      9,
+      9
+    ],
+    "h_options_rate": [
+      98,
+      1,
+      0,
+      1
+    ],
+    "l_options_rate": [
+      32,
+      25,
+      24,
+      18
+    ],
+    "origin_questions": "Tom was very ill a week ago, but now he looks healthy. We are amazed by his quick recovery. ",
+    "distractors": [
+      "convinced",
+      "advised",
+      "confirmed"
+    ]
+  },
+  {
+    "questions": "To make fresh lemonade, cut the lemon in half, _____ the juice into a bowl, and then add as much water and sugar as you like.",
+    "year": 100,
+    "quest_index": 11,
+    "answer": "B",
+    "correct_option_ch": "\u6324",
+    "correct_option_en": "squeeze",
+    "t_option_correct": 72,
+    "h_option_correct": 96,
+    "l_option_correct": 39,
+    "P": 72,
+    "Ph": 96,
+    "Pl": 39,
+    "Pa": 98,
+    "Pb": 92,
+    "Pc": 83,
+    "Pd": 60,
+    "Pe": 29,
+    "D": 57,
+    "D1": 6,
+    "D2": 9,
+    "D3": 23,
+    "D4": 31,
+    "options_en": [
+      "decrease",
+      "squeeze",
+      "freeze",
+      "cease"
+    ],
+    "options_ch": [
+      "\u51cf\u5c11",
+      "\u6324",
+      "\u4f7f\u76ee\u6807\u51b0\u51bb",
+      "\u505c\u6b62"
+    ],
+    "t_options_rate": [
+      7,
+      72,
+      14,
+      7
+    ],
+    "h_options_rate": [
+      0,
+      96,
+      1,
+      3
+    ],
+    "l_options_rate": [
+      16,
+      39,
+      33,
+      12
+    ],
+    "origin_questions": "To make fresh lemonade, cut the lemon in half, squeeze the juice into a bowl, and then add as much water and sugar as you like.",
+    "distractors": [
+      "decrease",
+      "freeze",
+      "cease"
+    ]
+  },
+  {
+    "questions": "Amy did not _____ changes in the course schedule and therefore missed the class.",
+    "year": 97,
+    "quest_index": 1,
+    "answer": "C",
+    "correct_option_ch": "\u6ce8\u610f",
+    "correct_option_en": "notice",
+    "t_option_correct": 72,
+    "h_option_correct": 96,
+    "l_option_correct": 40,
+    "P": 72,
+    "Ph": 96,
+    "Pl": 40,
+    "Pa": 98,
+    "Pb": 92,
+    "Pc": 81,
+    "Pd": 55,
+    "Pe": 33,
+    "D": 56,
+    "D1": 6,
+    "D2": 11,
+    "D3": 26,
+    "D4": 22,
+    "options_en": [
+      "arrest",
+      "alarm",
+      "notice",
+      "delay"
+    ],
+    "options_ch": [
+      "\u902e\u6355",
+      "\u4f7f\u6050\u614c",
+      "\u6ce8\u610f",
+      "\u5ef6\u8bef"
+    ],
+    "t_options_rate": [
+      8,
+      10,
+      72,
+      10
+    ],
+    "h_options_rate": [
+      1,
+      2,
+      96,
+      1
+    ],
+    "l_options_rate": [
+      15,
+      23,
+      40,
+      22
+    ],
+    "origin_questions": "Amy did not notice changes in the course schedule and therefore missed the class.",
+    "distractors": [
+      "arrest",
+      "alarm",
+      "delay"
+    ]
+  },
+  {
+    "questions": "It is not easy for old people to _____ their backs, so they need help when their backs itch.",
+    "year": 97,
+    "quest_index": 2,
+    "answer": "B",
+    "correct_option_ch": "\u6293",
+    "correct_option_en": "scratch",
+    "t_option_correct": 72,
+    "h_option_correct": 93,
+    "l_option_correct": 50,
+    "P": 72,
+    "Ph": 93,
+    "Pl": 50,
+    "Pa": 96,
+    "Pb": 87,
+    "Pc": 75,
+    "Pd": 61,
+    "Pe": 44,
+    "D": 43,
+    "D1": 9,
+    "D2": 12,
+    "D3": 14,
+    "D4": 17,
+    "options_en": [
+      "label",
+      "scratch",
+      "lighten",
+      "squeeze"
+    ],
+    "options_ch": [
+      "\u8d34\u6807\u7b7e",
+      "\u6293",
+      "\u4f7f\u53d8\u4eae",
+      "\u6324\u538b"
+    ],
+    "t_options_rate": [
+      7,
+      72,
+      10,
+      10
+    ],
+    "h_options_rate": [
+      2,
+      93,
+      1,
+      4
+    ],
+    "l_options_rate": [
+      13,
+      50,
+      22,
+      15
+    ],
+    "origin_questions": "It is not easy for old people to scratch their backs, so they need help when their backs itch.",
+    "distractors": [
+      "label",
+      "lighten",
+      "squeeze"
+    ]
+  },
+  {
+    "questions": "Mr. Johnson was disappointed at his students for having a passive learning _____.",
+    "year": 95,
+    "quest_index": 5,
+    "answer": "C",
+    "correct_option_ch": "\u6001\u5ea6",
+    "correct_option_en": "attitude",
+    "t_option_correct": 72,
+    "h_option_correct": 98,
+    "l_option_correct": 38,
+    "P": 72,
+    "Ph": 98,
+    "Pl": 38,
+    "Pa": 99,
+    "Pb": 95,
+    "Pc": 82,
+    "Pd": 54,
+    "Pe": 31,
+    "D": 60,
+    "D1": 4,
+    "D2": 13,
+    "D3": 28,
+    "D4": 23,
+    "options_en": [
+      "result",
+      "progress",
+      "attitude",
+      "energy"
+    ],
+    "options_ch": [
+      "\u7ed3\u679c",
+      "\u8fdb\u6b65",
+      "\u6001\u5ea6",
+      "\u7cbe\u529b"
+    ],
+    "t_options_rate": [
+      7,
+      14,
+      72,
+      7
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      98,
+      0
+    ],
+    "l_options_rate": [
+      16,
+      30,
+      38,
+      16
+    ],
+    "origin_questions": "Mr. Johnson was disappointed at his students for having a passive learning attitude.",
+    "distractors": [
+      "result",
+      "progress",
+      "energy"
+    ]
+  },
+  {
+    "questions": "The book is not only informative but also _______, making me laugh and feel relaxed while reading it.",
+    "year": 102,
+    "quest_index": 10,
+    "answer": "C",
+    "correct_option_ch": "\u6709\u8da3",
+    "correct_option_en": "entertaining",
+    "t_option_correct": 73,
+    "h_option_correct": 99,
+    "l_option_correct": 38,
+    "P": 73,
+    "Ph": 99,
+    "Pl": 38,
+    "Pa": 100,
+    "Pb": 97,
+    "Pc": 83,
+    "Pd": 55,
+    "Pe": 31,
+    "D": 61,
+    "D1": 3,
+    "D2": 14,
+    "D3": 28,
+    "D4": 24,
+    "options_en": [
+      "understanding",
+      "infecting",
+      "entertaining",
+      "annoying"
+    ],
+    "options_ch": [
+      "\u7406\u89e3",
+      "\u611f\u67d3",
+      "\u6709\u8da3",
+      "\u607c\u4eba"
+    ],
+    "t_options_rate": [
+      8,
+      10,
+      73,
+      9
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      99,
+      0
+    ],
+    "l_options_rate": [
+      19,
+      23,
+      38,
+      19
+    ],
+    "origin_questions": "The book is not only informative but also entertaining, making me laugh and feel relaxed while reading it.",
+    "distractors": [
+      "understanding",
+      "infecting",
+      "annoying"
+    ]
+  },
+  {
+    "questions": "Traveling is a good way for us to _____ different cultures and broaden our horizons.",
+    "year": 101,
+    "quest_index": 3,
+    "answer": "B",
+    "correct_option_ch": "\u63a2\u7d22",
+    "correct_option_en": "explore",
+    "t_option_correct": 73,
+    "h_option_correct": 96,
+    "l_option_correct": 48,
+    "P": 73,
+    "Ph": 96,
+    "Pl": 48,
+    "Pa": 98,
+    "Pb": 90,
+    "Pc": 76,
+    "Pd": 59,
+    "Pe": 42,
+    "D": 48,
+    "D1": 8,
+    "D2": 14,
+    "D3": 17,
+    "D4": 17,
+    "options_en": [
+      "assume",
+      "explore",
+      "occupy",
+      "inspire"
+    ],
+    "options_ch": [
+      "\u4ee5\u4e3a",
+      "\u63a2\u7d22",
+      "\u5360\u636e",
+      "\u6fc0\u52b1"
+    ],
+    "t_options_rate": [
+      9,
+      73,
+      8,
+      10
+    ],
+    "h_options_rate": [
+      2,
+      96,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      15,
+      48,
+      16,
+      21
+    ],
+    "origin_questions": "Traveling is a good way for us to explore different cultures and broaden our horizons.",
+    "distractors": [
+      "assume",
+      "occupy",
+      "inspire"
+    ]
+  },
+  {
+    "questions": "Mr. Lin is a very ________ writer; he publishes at least five novels every year.",
+    "year": 99,
+    "quest_index": 1,
+    "answer": "C",
+    "correct_option_ch": "\u591a\u4ea7",
+    "correct_option_en": "productive",
+    "t_option_correct": 73,
+    "h_option_correct": 97,
+    "l_option_correct": 46,
+    "P": 73,
+    "Ph": 97,
+    "Pl": 46,
+    "Pa": 99,
+    "Pb": 93,
+    "Pc": 78,
+    "Pd": 55,
+    "Pe": 42,
+    "D": 51,
+    "D1": 6,
+    "D2": 15,
+    "D3": 23,
+    "D4": 13,
+    "options_en": [
+      "moderate",
+      "temporary",
+      "productive",
+      "reluctant"
+    ],
+    "options_ch": [
+      "\u4e2d\u5eb8",
+      "\u6682\u65f6",
+      "\u591a\u4ea7",
+      "\u52c9\u5f3a"
+    ],
+    "t_options_rate": [
+      11,
+      10,
+      73,
+      6
+    ],
+    "h_options_rate": [
+      1,
+      1,
+      97,
+      1
+    ],
+    "l_options_rate": [
+      20,
+      23,
+      46,
+      11
+    ],
+    "origin_questions": "Mr. Lin is a very productive writer; he publishes at least five novels every year.",
+    "distractors": [
+      "moderate",
+      "temporary",
+      "reluctant"
+    ]
+  },
+  {
+    "questions": "Many people try to save a lot of money before _____, since having enough money would give them a sense of security for their future.",
+    "year": 105,
+    "quest_index": 10,
+    "answer": "C",
+    "correct_option_ch": "\u9000\u4f11",
+    "correct_option_en": "retirement",
+    "t_option_correct": 74,
+    "h_option_correct": 99,
+    "l_option_correct": 38,
+    "P": 74,
+    "Ph": 99,
+    "Pl": 38,
+    "Pa": 100,
+    "Pb": 97,
+    "Pc": 87,
+    "Pd": 57,
+    "Pe": 29,
+    "D": 61,
+    "D1": 3,
+    "D2": 10,
+    "D3": 30,
+    "D4": 28,
+    "options_en": [
+      "isolation",
+      "promotion",
+      "retirement",
+      "announcement"
+    ],
+    "options_ch": [
+      "\u9694\u79bb",
+      "\u664b\u5347",
+      "\u9000\u4f11",
+      "\u5ba3\u5e03"
+    ],
+    "t_options_rate": [
+      7,
+      11,
+      74,
+      8
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      99,
+      0
+    ],
+    "l_options_rate": [
+      15,
+      28,
+      38,
+      19
+    ],
+    "origin_questions": "Many people try to save a lot of money before retirement, since having enough money would give them a sense of security for their future.",
+    "distractors": [
+      "isolation",
+      "promotion",
+      "announcement"
+    ]
+  },
+  {
+    "questions": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the _______ that could make us sick.",
+    "year": 102,
+    "quest_index": 12,
+    "answer": "D",
+    "correct_option_ch": "\u75c5\u6bd2",
+    "correct_option_en": "virus",
+    "t_option_correct": 74,
+    "h_option_correct": 99,
+    "l_option_correct": 38,
+    "P": 74,
+    "Ph": 99,
+    "Pl": 38,
+    "Pa": 100,
+    "Pb": 97,
+    "Pc": 87,
+    "Pd": 61,
+    "Pe": 26,
+    "D": 61,
+    "D1": 3,
+    "D2": 10,
+    "D3": 26,
+    "D4": 35,
+    "options_en": [
+      "poison",
+      "misery",
+      "leak",
+      "virus"
+    ],
+    "options_ch": [
+      "\u6bd2\u836f",
+      "\u60b2\u60e8",
+      "\u6f0f\u6d1e",
+      "\u75c5\u6bd2"
+    ],
+    "t_options_rate": [
+      10,
+      9,
+      7,
+      74
+    ],
+    "h_options_rate": [
+      1,
+      0,
+      0,
+      99
+    ],
+    "l_options_rate": [
+      20,
+      24,
+      18,
+      38
+    ],
+    "origin_questions": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the virus that could make us sick.",
+    "distractors": [
+      "poison",
+      "misery",
+      "leak"
+    ]
+  },
+  {
+    "questions": "The doors of these department stores slide open _____ when you approach them. You don\u2019t have to open them yourself. ",
+    "year": 98,
+    "quest_index": 3,
+    "answer": "C",
+    "correct_option_ch": "\u81ea\u52a8",
+    "correct_option_en": "automatically",
+    "t_option_correct": 74,
+    "h_option_correct": 98,
+    "l_option_correct": 42,
+    "P": 74,
+    "Ph": 98,
+    "Pl": 42,
+    "Pa": 99,
+    "Pb": 94,
+    "Pc": 83,
+    "Pd": 59,
+    "Pe": 34,
+    "D": 56,
+    "D1": 5,
+    "D2": 11,
+    "D3": 24,
+    "D4": 25,
+    "options_en": [
+      "necessarily",
+      "diligently",
+      "automatically",
+      "intentionally"
+    ],
+    "options_ch": [
+      "\u5fc5\u8981",
+      "\u52e4\u52c9",
+      "\u81ea\u52a8",
+      "\u6709\u610f\u56fe"
+    ],
+    "t_options_rate": [
+      7,
+      10,
+      74,
+      9
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      98,
+      1
+    ],
+    "l_options_rate": [
+      19,
+      21,
+      42,
+      19
+    ],
+    "origin_questions": "The doors of these department stores slide open automatically when you approach them. You don\u2019t have to open them yourself. ",
+    "distractors": [
+      "necessarily",
+      "diligently",
+      "intentionally"
+    ]
+  },
+  {
+    "questions": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+    "year": 101,
+    "quest_index": 7,
+    "answer": "D",
+    "correct_option_ch": "\u4e50\u89c2",
+    "correct_option_en": "optimistic",
+    "t_option_correct": 75,
+    "h_option_correct": 100,
+    "l_option_correct": 35,
+    "P": 75,
+    "Ph": 100,
+    "Pl": 35,
+    "Pa": 100,
+    "Pb": 99,
+    "Pc": 92,
+    "Pd": 61,
+    "Pe": 22,
+    "D": 65,
+    "D1": 1,
+    "D2": 7,
+    "D3": 31,
+    "D4": 39,
+    "options_en": [
+      "efficient",
+      "practical",
+      "changeable",
+      "optimistic"
+    ],
+    "options_ch": [
+      "\u6709\u6548\u7387",
+      "\u5b9e\u9645",
+      "\u6613\u53d8",
+      "\u4e50\u89c2"
+    ],
+    "t_options_rate": [
+      7,
+      8,
+      10,
+      75
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      0,
+      100
+    ],
+    "l_options_rate": [
+      18,
+      22,
+      26,
+      35
+    ],
+    "origin_questions": "Research suggests that people with outgoing personalities tend to be more optimistic, often expecting that good things will happen.",
+    "distractors": [
+      "efficient",
+      "practical",
+      "changeable"
+    ]
+  },
+  {
+    "questions": "Applying to college means sending in applications, writing study plans, and so on. It\u2019s a long _____, and it makes students nervous.",
+    "year": 100,
+    "quest_index": 8,
+    "answer": "C",
+    "correct_option_ch": "\u8fc7\u7a0b",
+    "correct_option_en": "process",
+    "t_option_correct": 75,
+    "h_option_correct": 98,
+    "l_option_correct": 40,
+    "P": 75,
+    "Ph": 98,
+    "Pl": 40,
+    "Pa": 99,
+    "Pb": 96,
+    "Pc": 89,
+    "Pd": 61,
+    "Pe": 31,
+    "D": 58,
+    "D1": 3,
+    "D2": 7,
+    "D3": 28,
+    "D4": 30,
+    "options_en": [
+      "errand",
+      "operation",
+      "process",
+      "display"
+    ],
+    "options_ch": [
+      "\u5dee\u4e8b",
+      "\u64cd\u4f5c",
+      "\u8fc7\u7a0b",
+      "\u5c55\u793a"
+    ],
+    "t_options_rate": [
+      6,
+      14,
+      75,
+      5
+    ],
+    "h_options_rate": [
+      1,
+      1,
+      98,
+      0
+    ],
+    "l_options_rate": [
+      13,
+      32,
+      40,
+      15
+    ],
+    "origin_questions": "Applying to college means sending in applications, writing study plans, and so on. It\u2019s a long process, and it makes students nervous.",
+    "distractors": [
+      "errand",
+      "operation",
+      "display"
+    ]
+  },
+  {
+    "questions": "The children were so _____ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+    "year": 100,
+    "quest_index": 14,
+    "answer": "C",
+    "correct_option_ch": "\u9ad8\u5174",
+    "correct_option_en": "delighted",
+    "t_option_correct": 75,
+    "h_option_correct": 98,
+    "l_option_correct": 44,
+    "P": 75,
+    "Ph": 98,
+    "Pl": 44,
+    "Pa": 99,
+    "Pb": 95,
+    "Pc": 85,
+    "Pd": 61,
+    "Pe": 36,
+    "D": 54,
+    "D1": 4,
+    "D2": 10,
+    "D3": 24,
+    "D4": 25,
+    "options_en": [
+      "admirable",
+      "fearful",
+      "delighted",
+      "intense"
+    ],
+    "options_ch": [
+      "\u4ee4\u4eba\u94a6\u4f69",
+      "\u53ef\u6015",
+      "\u9ad8\u5174",
+      "\u5f3a\u70c8"
+    ],
+    "t_options_rate": [
+      9,
+      8,
+      75,
+      7
+    ],
+    "h_options_rate": [
+      1,
+      0,
+      98,
+      1
+    ],
+    "l_options_rate": [
+      20,
+      20,
+      44,
+      16
+    ],
+    "origin_questions": "The children were so delighted to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+    "distractors": [
+      "admirable",
+      "fearful",
+      "intense"
+    ]
+  },
+  {
+    "questions": "Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+    "year": 99,
+    "quest_index": 9,
+    "answer": "A",
+    "correct_option_ch": "\u5fd7\u613f",
+    "correct_option_en": "voluntary",
+    "t_option_correct": 75,
+    "h_option_correct": 99,
+    "l_option_correct": 36,
+    "P": 75,
+    "Ph": 99,
+    "Pl": 36,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 89,
+    "Pd": 60,
+    "Pe": 25,
+    "D": 63,
+    "D1": 2,
+    "D2": 9,
+    "D3": 29,
+    "D4": 35,
+    "options_en": [
+      "voluntary",
+      "competitive",
+      "sorrowful",
+      "realistic"
+    ],
+    "options_ch": [
+      "\u5fd7\u613f",
+      "\u7ade\u4e89",
+      "\u4f24\u5fc3",
+      "\u73b0\u5b9e"
+    ],
+    "t_options_rate": [
+      75,
+      12,
+      7,
+      6
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      36,
+      30,
+      18,
+      15
+    ],
+    "origin_questions": "Those college students work at the orphanage on a voluntary basis, helping the children with their studies without receiving any pay.",
+    "distractors": [
+      "competitive",
+      "sorrowful",
+      "realistic"
+    ]
+  },
+  {
+    "questions": "While adapting to western ways of living, many Asian immigrants in the US still try hard to _____ their own cultures and traditions. ",
+    "year": 98,
+    "quest_index": 9,
+    "answer": "C",
+    "correct_option_ch": "\u4fdd\u5b58",
+    "correct_option_en": "preserve",
+    "t_option_correct": 75,
+    "h_option_correct": 95,
+    "l_option_correct": 49,
+    "P": 75,
+    "Ph": 95,
+    "Pl": 49,
+    "Pa": 97,
+    "Pb": 90,
+    "Pc": 82,
+    "Pd": 66,
+    "Pe": 41,
+    "D": 46,
+    "D1": 7,
+    "D2": 8,
+    "D3": 16,
+    "D4": 25,
+    "options_en": [
+      "volunteer",
+      "scatter",
+      "preserve",
+      "motivate"
+    ],
+    "options_ch": [
+      "\u81ea\u613f",
+      "\u6563\u5f00",
+      "\u4fdd\u5b58",
+      "\u6fc0\u52b1"
+    ],
+    "t_options_rate": [
+      6,
+      8,
+      75,
+      11
+    ],
+    "h_options_rate": [
+      0,
+      3,
+      95,
+      3
+    ],
+    "l_options_rate": [
+      17,
+      17,
+      49,
+      18
+    ],
+    "origin_questions": "While adapting to western ways of living, many Asian immigrants in the US still try hard to preserve their own cultures and traditions. ",
+    "distractors": [
+      "volunteer",
+      "scatter",
+      "motivate"
+    ]
+  },
+  {
+    "questions": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+    "year": 105,
+    "quest_index": 5,
+    "answer": "A",
+    "correct_option_ch": "\u53d7\u4f24",
+    "correct_option_en": "injury",
+    "t_option_correct": 76,
+    "h_option_correct": 99,
+    "l_option_correct": 39,
+    "P": 76,
+    "Ph": 99,
+    "Pl": 39,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 90,
+    "Pd": 64,
+    "Pe": 26,
+    "D": 60,
+    "D1": 2,
+    "D2": 8,
+    "D3": 26,
+    "D4": 38,
+    "options_en": [
+      "injury",
+      "offense",
+      "sacrifice",
+      "victim"
+    ],
+    "options_ch": [
+      "\u53d7\u4f24",
+      "\u5192\u72af",
+      "\u727a\u7272",
+      "\u53d7\u5bb3\u8005"
+    ],
+    "t_options_rate": [
+      76,
+      7,
+      9,
+      9
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      39,
+      17,
+      24,
+      20
+    ],
+    "origin_questions": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of injury in case of an accident.",
+    "distractors": [
+      "offense",
+      "sacrifice",
+      "victim"
+    ]
+  },
+  {
+    "questions": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution. ",
+    "year": 105,
+    "quest_index": 15,
+    "answer": "D",
+    "correct_option_ch": "\u73af\u5883",
+    "correct_option_en": "environmentally",
+    "t_option_correct": 76,
+    "h_option_correct": 99,
+    "l_option_correct": 41,
+    "P": 76,
+    "Ph": 99,
+    "Pl": 41,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 89,
+    "Pd": 64,
+    "Pe": 29,
+    "D": 58,
+    "D1": 2,
+    "D2": 9,
+    "D3": 25,
+    "D4": 35,
+    "options_en": [
+      "liberally",
+      "individually",
+      "financially",
+      "environmentally"
+    ],
+    "options_ch": [
+      "\u81ea\u7531",
+      "\u5355\u72ec",
+      "\u8d22\u52a1\u4e0a",
+      "\u73af\u5883"
+    ],
+    "t_options_rate": [
+      5,
+      9,
+      10,
+      76
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      0,
+      99
+    ],
+    "l_options_rate": [
+      13,
+      22,
+      24,
+      41
+    ],
+    "origin_questions": "In line with the worldwide green movement, carmakers have been working hard to make their new models more environmentally friendly to reduce pollution. ",
+    "distractors": [
+      "liberally",
+      "individually",
+      "financially"
+    ]
+  },
+  {
+    "questions": "At the Book Fair, exhibitors from 21 countries will _______ textbooks, novels, and comic books.",
+    "year": 103,
+    "quest_index": 7,
+    "answer": "C",
+    "correct_option_ch": "\u9648\u5217",
+    "correct_option_en": "display",
+    "t_option_correct": 76,
+    "h_option_correct": 98,
+    "l_option_correct": 46,
+    "P": 76,
+    "Ph": 98,
+    "Pl": 46,
+    "Pa": 99,
+    "Pb": 96,
+    "Pc": 86,
+    "Pd": 62,
+    "Pe": 39,
+    "D": 52,
+    "D1": 3,
+    "D2": 10,
+    "D3": 24,
+    "D4": 23,
+    "options_en": [
+      "predict",
+      "require",
+      "display",
+      "target"
+    ],
+    "options_ch": [
+      "\u9884\u8a00",
+      "\u9700\u8981",
+      "\u9648\u5217",
+      "\u628a\u76ee\u6807\u4f5c\u4e3a\u76ee\u6807"
+    ],
+    "t_options_rate": [
+      7,
+      11,
+      76,
+      6
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      98,
+      1
+    ],
+    "l_options_rate": [
+      16,
+      25,
+      46,
+      13
+    ],
+    "origin_questions": "At the Book Fair, exhibitors from 21 countries will display textbooks, novels, and comic books.",
+    "distractors": [
+      "predict",
+      "require",
+      "target"
+    ]
+  },
+  {
+    "questions": "The government is doing its best to ____ the cultures of the tribal people for fear that they may soon die out.",
+    "year": 99,
+    "quest_index": 5,
+    "answer": "A",
+    "correct_option_ch": "\u4fdd\u5b58",
+    "correct_option_en": "preserve",
+    "t_option_correct": 77,
+    "h_option_correct": 98,
+    "l_option_correct": 45,
+    "P": 77,
+    "Ph": 98,
+    "Pl": 45,
+    "Pa": 99,
+    "Pb": 96,
+    "Pc": 87,
+    "Pd": 67,
+    "Pe": 34,
+    "D": 53,
+    "D1": 3,
+    "D2": 9,
+    "D3": 20,
+    "D4": 33,
+    "options_en": [
+      "preserve",
+      "frustrate",
+      "hesitate",
+      "overthrow"
+    ],
+    "options_ch": [
+      "\u4fdd\u5b58",
+      "\u4f7f\u632b\u6298",
+      "\u72b9\u7591",
+      "\u63a8\u7ffb"
+    ],
+    "t_options_rate": [
+      77,
+      9,
+      9,
+      6
+    ],
+    "h_options_rate": [
+      98,
+      0,
+      1,
+      1
+    ],
+    "l_options_rate": [
+      45,
+      22,
+      20,
+      13
+    ],
+    "origin_questions": "The government is doing its best to preserve the cultures of the tribal people for fear that they may soon die out.",
+    "distractors": [
+      "frustrate",
+      "hesitate",
+      "overthrow"
+    ]
+  },
+  {
+    "questions": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+    "year": 97,
+    "quest_index": 14,
+    "answer": "A",
+    "correct_option_ch": "\u8868\u6f14",
+    "correct_option_en": "performed",
+    "t_option_correct": 77,
+    "h_option_correct": 99,
+    "l_option_correct": 46,
+    "P": 77,
+    "Ph": 99,
+    "Pl": 46,
+    "Pa": 100,
+    "Pb": 97,
+    "Pc": 88,
+    "Pd": 66,
+    "Pe": 36,
+    "D": 53,
+    "D1": 3,
+    "D2": 9,
+    "D3": 22,
+    "D4": 30,
+    "options_en": [
+      "performed",
+      "pretended",
+      "postponed",
+      "persuaded"
+    ],
+    "options_ch": [
+      "\u8868\u6f14",
+      "\u5047\u88c5",
+      "\u5ef6\u671f",
+      "\u8bf4\u670d"
+    ],
+    "t_options_rate": [
+      77,
+      10,
+      8,
+      5
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      46,
+      23,
+      19,
+      12
+    ],
+    "origin_questions": "Hseu Fang-yi, a young Taiwanese dancer, recently performed at Lincoln Center in New York and won a great deal of praise.",
+    "distractors": [
+      "pretended",
+      "postponed",
+      "persuaded"
+    ]
+  },
+  {
+    "questions": "To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",
+    "year": 104,
+    "quest_index": 2,
+    "answer": "C",
+    "correct_option_ch": "\u5956\u8d4f",
+    "correct_option_en": "reward",
+    "t_option_correct": 78,
+    "h_option_correct": 98,
+    "l_option_correct": 49,
+    "P": 78,
+    "Ph": 98,
+    "Pl": 49,
+    "Pa": 99,
+    "Pb": 96,
+    "Pc": 87,
+    "Pd": 63,
+    "Pe": 43,
+    "D": 49,
+    "D1": 3,
+    "D2": 9,
+    "D3": 24,
+    "D4": 20,
+    "options_en": [
+      "settle",
+      "declare",
+      "reward",
+      "neglect"
+    ],
+    "options_ch": [
+      "\u5b89\u987f",
+      "\u5ba3\u5e03",
+      "\u5956\u8d4f",
+      "\u5ffd\u7565"
+    ],
+    "t_options_rate": [
+      5,
+      10,
+      78,
+      7
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      98,
+      1
+    ],
+    "l_options_rate": [
+      12,
+      25,
+      49,
+      14
+    ],
+    "origin_questions": "To teach children right from wrong, some parents will reward their children when they behave well and punish them when they misbehave.",
+    "distractors": [
+      "settle",
+      "declare",
+      "neglect"
+    ]
+  },
+  {
+    "questions": "The ______ capacity of this elevator is 400 kilograms. For safety reasons, it shouldn\u2019t be overloaded.",
+    "year": 104,
+    "quest_index": 7,
+    "answer": "D",
+    "correct_option_ch": "\u6700\u5927",
+    "correct_option_en": "maximum",
+    "t_option_correct": 78,
+    "h_option_correct": 100,
+    "l_option_correct": 43,
+    "P": 78,
+    "Ph": 100,
+    "Pl": 43,
+    "Pa": 100,
+    "Pb": 99,
+    "Pc": 93,
+    "Pd": 68,
+    "Pe": 31,
+    "D": 57,
+    "D1": 1,
+    "D2": 6,
+    "D3": 25,
+    "D4": 37,
+    "options_en": [
+      "delicate",
+      "automatic",
+      "essential",
+      "maximum"
+    ],
+    "options_ch": [
+      "\u7cbe\u7f8e",
+      "\u81ea\u52a8",
+      "\u5fc5\u8981",
+      "\u6700\u5927"
+    ],
+    "t_options_rate": [
+      5,
+      9,
+      8,
+      78
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      0,
+      100
+    ],
+    "l_options_rate": [
+      14,
+      22,
+      20,
+      43
+    ],
+    "origin_questions": "The maximum capacity of this elevator is 400 kilograms. For safety reasons, it shouldn\u2019t be overloaded.",
+    "distractors": [
+      "delicate",
+      "automatic",
+      "essential"
+    ]
+  },
+  {
+    "questions": "As more people rely on the Internet for information, it has ________ newspapers as the most important source of news.",
+    "year": 102,
+    "quest_index": 2,
+    "answer": "C",
+    "correct_option_ch": "\u53d6\u4ee3",
+    "correct_option_en": "replaced",
+    "t_option_correct": 78,
+    "h_option_correct": 98,
+    "l_option_correct": 50,
+    "P": 78,
+    "Ph": 98,
+    "Pl": 50,
+    "Pa": 99,
+    "Pb": 96,
+    "Pc": 88,
+    "Pd": 64,
+    "Pe": 44,
+    "D": 48,
+    "D1": 3,
+    "D2": 8,
+    "D3": 24,
+    "D4": 20,
+    "options_en": [
+      "distributed",
+      "subtracted",
+      "replaced",
+      "transferred"
+    ],
+    "options_ch": [
+      "\u5206\u914d",
+      "\u51cf\u53bb",
+      "\u53d6\u4ee3",
+      "\u8f6c\u79fb"
+    ],
+    "t_options_rate": [
+      6,
+      7,
+      78,
+      9
+    ],
+    "h_options_rate": [
+      0,
+      1,
+      98,
+      1
+    ],
+    "l_options_rate": [
+      14,
+      16,
+      50,
+      20
+    ],
+    "origin_questions": "As more people rely on the Internet for information, it has replaced newspapers as the most important source of news.",
+    "distractors": [
+      "distributed",
+      "subtracted",
+      "transferred"
+    ]
+  },
+  {
+    "questions": "In order to stay healthy and fit, John exercises _____. He works out twice a week in a gym.",
+    "year": 101,
+    "quest_index": 2,
+    "answer": "A",
+    "correct_option_ch": "\u89c4\u5f8b",
+    "correct_option_en": "regularly",
+    "t_option_correct": 78,
+    "h_option_correct": 99,
+    "l_option_correct": 42,
+    "P": 78,
+    "Ph": 99,
+    "Pl": 42,
+    "Pa": 100,
+    "Pb": 99,
+    "Pc": 94,
+    "Pd": 71,
+    "Pe": 27,
+    "D": 57,
+    "D1": 1,
+    "D2": 5,
+    "D3": 23,
+    "D4": 44,
+    "options_en": [
+      "regularly",
+      "directly",
+      "hardly",
+      "gradually"
+    ],
+    "options_ch": [
+      "\u89c4\u5f8b",
+      "\u76f4\u63a5",
+      "\u51e0\u4e4e\u4e0d",
+      "\u9010\u6e10"
+    ],
+    "t_options_rate": [
+      78,
+      5,
+      13,
+      4
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      42,
+      13,
+      35,
+      10
+    ],
+    "origin_questions": "In order to stay healthy and fit, John exercises regularly. He works out twice a week in a gym.",
+    "distractors": [
+      "directly",
+      "hardly",
+      "gradually"
+    ]
+  },
+  {
+    "questions": "No one could beat Paul at running. He has won the running championship _____ for three years.",
+    "year": 101,
+    "quest_index": 8,
+    "answer": "C",
+    "correct_option_ch": "\u8fde\u7eed\u4e0d\u65ad",
+    "correct_option_en": "continuously",
+    "t_option_correct": 79,
+    "h_option_correct": 99,
+    "l_option_correct": 49,
+    "P": 79,
+    "Ph": 99,
+    "Pl": 49,
+    "Pa": 99,
+    "Pb": 97,
+    "Pc": 91,
+    "Pd": 70,
+    "Pe": 38,
+    "D": 50,
+    "D1": 2,
+    "D2": 6,
+    "D3": 21,
+    "D4": 32,
+    "options_en": [
+      "rapidly",
+      "urgently",
+      "continuously",
+      "temporarily"
+    ],
+    "options_ch": [
+      "\u8fc5\u901f",
+      "\u7d27\u6025",
+      "\u8fde\u7eed\u4e0d\u65ad",
+      "\u6682\u65f6"
+    ],
+    "t_options_rate": [
+      7,
+      6,
+      79,
+      7
+    ],
+    "h_options_rate": [
+      1,
+      0,
+      99,
+      0
+    ],
+    "l_options_rate": [
+      16,
+      17,
+      49,
+      18
+    ],
+    "origin_questions": "No one could beat Paul at running. He has won the running championship continuously for three years.",
+    "distractors": [
+      "rapidly",
+      "urgently",
+      "temporarily"
+    ]
+  },
+  {
+    "questions": "Using a heating pad or taking warm baths can sometimes help to _____ pain in the lower back.",
+    "year": 99,
+    "quest_index": 2,
+    "answer": "B",
+    "correct_option_ch": "\u51cf\u8f7b",
+    "correct_option_en": "relieve",
+    "t_option_correct": 79,
+    "h_option_correct": 99,
+    "l_option_correct": 49,
+    "P": 79,
+    "Ph": 99,
+    "Pl": 49,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 90,
+    "Pd": 66,
+    "Pe": 41,
+    "D": 50,
+    "D1": 2,
+    "D2": 8,
+    "D3": 24,
+    "D4": 25,
+    "options_en": [
+      "polish",
+      "relieve",
+      "switch",
+      "maintain"
+    ],
+    "options_ch": [
+      "\u64e6\u4eae",
+      "\u51cf\u8f7b",
+      "\u6253\u5f00\u6216\u5173\u6389\u5f00\u5173",
+      "\u7ef4\u6301"
+    ],
+    "t_options_rate": [
+      5,
+      79,
+      9,
+      7
+    ],
+    "h_options_rate": [
+      0,
+      99,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      13,
+      49,
+      23,
+      15
+    ],
+    "origin_questions": "Using a heating pad or taking warm baths can sometimes help to relieve pain in the lower back.",
+    "distractors": [
+      "polish",
+      "switch",
+      "maintain"
+    ]
+  },
+  {
+    "questions": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural _____ in Taiwan in recent decades.",
+    "year": 99,
+    "quest_index": 13,
+    "answer": "A",
+    "correct_option_ch": "\u707e\u96be",
+    "correct_option_en": "disaster",
+    "t_option_correct": 79,
+    "h_option_correct": 99,
+    "l_option_correct": 47,
+    "P": 79,
+    "Ph": 99,
+    "Pl": 47,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 92,
+    "Pd": 70,
+    "Pe": 35,
+    "D": 52,
+    "D1": 2,
+    "D2": 6,
+    "D3": 22,
+    "D4": 35,
+    "options_en": [
+      "disaster",
+      "barrier",
+      "anxiety",
+      "collapse"
+    ],
+    "options_ch": [
+      "\u707e\u96be",
+      "\u969c\u788d\u7269",
+      "\u7126\u8651",
+      "\u5012\u584c"
+    ],
+    "t_options_rate": [
+      79,
+      7,
+      7,
+      7
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      47,
+      18,
+      20,
+      15
+    ],
+    "origin_questions": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural disaster in Taiwan in recent decades.",
+    "distractors": [
+      "barrier",
+      "anxiety",
+      "collapse"
+    ]
+  },
+  {
+    "questions": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+    "year": 93,
+    "quest_index": 5,
+    "answer": "D",
+    "correct_option_ch": null,
+    "correct_option_en": "landmark",
+    "t_option_correct": 79,
+    "h_option_correct": 99,
+    "l_option_correct": 49,
+    "P": 79,
+    "Ph": 99,
+    "Pl": 49,
+    "Pa": 99,
+    "Pb": 97,
+    "Pc": 91,
+    "Pd": 74,
+    "Pe": 36,
+    "D": 50,
+    "D1": 2,
+    "D2": 6,
+    "D3": 17,
+    "D4": 38,
+    "options_en": [
+      "incident",
+      "geography",
+      "skylight",
+      "landmark"
+    ],
+    "options_ch": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "t_options_rate": [
+      3,
+      6,
+      12,
+      79
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      1,
+      99
+    ],
+    "l_options_rate": [
+      8,
+      15,
+      28,
+      49
+    ],
+    "origin_questions": "As the tallest building in the world, Taipei 101 has become a new landmark of Taipei City.",
+    "distractors": [
+      "incident",
+      "geography",
+      "skylight"
+    ]
+  },
+  {
+    "questions": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his _______ and fell to the ground.",
+    "year": 103,
+    "quest_index": 11,
+    "answer": "C",
+    "correct_option_ch": "\u5e73\u8861",
+    "correct_option_en": "balance",
+    "t_option_correct": 80,
+    "h_option_correct": 99,
+    "l_option_correct": 50,
+    "P": 80,
+    "Ph": 99,
+    "Pl": 50,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 93,
+    "Pd": 73,
+    "Pe": 38,
+    "D": 49,
+    "D1": 2,
+    "D2": 5,
+    "D3": 20,
+    "D4": 35,
+    "options_en": [
+      "volume",
+      "weight",
+      "balance",
+      "direction"
+    ],
+    "options_ch": [
+      "\u97f3\u91cf",
+      "\u4f53\u91cd",
+      "\u5e73\u8861",
+      "\u65b9\u5411"
+    ],
+    "t_options_rate": [
+      5,
+      8,
+      80,
+      7
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      99,
+      0
+    ],
+    "l_options_rate": [
+      12,
+      22,
+      50,
+      16
+    ],
+    "origin_questions": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his balance and fell to the ground.",
+    "distractors": [
+      "volume",
+      "weight",
+      "direction"
+    ]
+  },
+  {
+    "questions": "The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event.",
+    "year": 101,
+    "quest_index": 4,
+    "answer": "D",
+    "correct_option_ch": "\u4f20\u8bf4",
+    "correct_option_en": "legend",
+    "t_option_correct": 80,
+    "h_option_correct": 97,
+    "l_option_correct": 51,
+    "P": 80,
+    "Ph": 97,
+    "Pl": 51,
+    "Pa": 98,
+    "Pb": 95,
+    "Pc": 91,
+    "Pd": 76,
+    "Pe": 38,
+    "D": 46,
+    "D1": 3,
+    "D2": 4,
+    "D3": 15,
+    "D4": 38,
+    "options_en": [
+      "figure",
+      "rumor",
+      "miracle",
+      "legend"
+    ],
+    "options_ch": [
+      "\u4eba\u7269",
+      "\u8c23\u8a00",
+      "\u5947\u8ff9",
+      "\u4f20\u8bf4"
+    ],
+    "t_options_rate": [
+      5,
+      9,
+      7,
+      80
+    ],
+    "h_options_rate": [
+      0,
+      3,
+      0,
+      97
+    ],
+    "l_options_rate": [
+      13,
+      19,
+      17,
+      51
+    ],
+    "origin_questions": "The story about Hou-I shooting down nine suns is a well-known Chinese legend, but it may not be a true historical event.",
+    "distractors": [
+      "figure",
+      "rumor",
+      "miracle"
+    ]
+  },
+  {
+    "questions": "We were forced to _____ our plan for the weekend picnic because of the bad weather.",
+    "year": 100,
+    "quest_index": 5,
+    "answer": "D",
+    "correct_option_ch": "\u53d6\u6d88",
+    "correct_option_en": "cancel",
+    "t_option_correct": 80,
+    "h_option_correct": 99,
+    "l_option_correct": 47,
+    "P": 80,
+    "Ph": 99,
+    "Pl": 47,
+    "Pa": 99,
+    "Pb": 99,
+    "Pc": 95,
+    "Pd": 78,
+    "Pe": 30,
+    "D": 52,
+    "D1": 0,
+    "D2": 4,
+    "D3": 17,
+    "D4": 48,
+    "options_en": [
+      "maintain",
+      "record",
+      "propose",
+      "cancel"
+    ],
+    "options_ch": [
+      "\u4fdd\u6301",
+      "\u8bb0\u5f55",
+      "\u63d0\u8bae",
+      "\u53d6\u6d88"
+    ],
+    "t_options_rate": [
+      5,
+      6,
+      9,
+      80
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      1,
+      99
+    ],
+    "l_options_rate": [
+      13,
+      17,
+      22,
+      47
+    ],
+    "origin_questions": "We were forced to cancel our plan for the weekend picnic because of the bad weather.",
+    "distractors": [
+      "maintain",
+      "record",
+      "propose"
+    ]
+  },
+  {
+    "questions": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.",
+    "year": 100,
+    "quest_index": 15,
+    "answer": "A",
+    "correct_option_ch": "\u5e73\u5747",
+    "correct_option_en": "average",
+    "t_option_correct": 80,
+    "h_option_correct": 99,
+    "l_option_correct": 48,
+    "P": 80,
+    "Ph": 99,
+    "Pl": 48,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 93,
+    "Pd": 76,
+    "Pe": 32,
+    "D": 51,
+    "D1": 2,
+    "D2": 5,
+    "D3": 17,
+    "D4": 44,
+    "options_en": [
+      "average",
+      "considerate",
+      "promising",
+      "enjoyable"
+    ],
+    "options_ch": [
+      "\u5e73\u5747",
+      "\u4f53\u8d34",
+      "\u6709\u524d\u9014",
+      "\u6709\u4e50\u8da3"
+    ],
+    "t_options_rate": [
+      80,
+      10,
+      7,
+      4
+    ],
+    "h_options_rate": [
+      99,
+      1,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      48,
+      24,
+      18,
+      10
+    ],
+    "origin_questions": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the average rainfall of the season in the area.",
+    "distractors": [
+      "considerate",
+      "promising",
+      "enjoyable"
+    ]
+  },
+  {
+    "questions": "Simon loves his work. To him, work always comes first, and family and friends are _____.",
+    "year": 97,
+    "quest_index": 10,
+    "answer": "A",
+    "correct_option_ch": "\u7b2c\u4e8c",
+    "correct_option_en": "secondary",
+    "t_option_correct": 80,
+    "h_option_correct": 99,
+    "l_option_correct": 48,
+    "P": 80,
+    "Ph": 99,
+    "Pl": 48,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 94,
+    "Pd": 75,
+    "Pe": 34,
+    "D": 51,
+    "D1": 2,
+    "D2": 4,
+    "D3": 19,
+    "D4": 41,
+    "options_en": [
+      "secondary",
+      "temporary",
+      "sociable",
+      "capable"
+    ],
+    "options_ch": [
+      "\u7b2c\u4e8c",
+      "\u6682\u65f6",
+      "\u5584\u4ea4\u9645",
+      "\u6709\u80fd\u529b"
+    ],
+    "t_options_rate": [
+      80,
+      9,
+      6,
+      5
+    ],
+    "h_options_rate": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "l_options_rate": [
+      48,
+      22,
+      17,
+      13
+    ],
+    "origin_questions": "Simon loves his work. To him, work always comes first, and family and friends are secondary.",
+    "distractors": [
+      "temporary",
+      "sociable",
+      "capable"
+    ]
+  },
+  {
+    "questions": "Before John got on the stage to give the speech, he took a deep _______ to calm himself down.",
+    "year": 103,
+    "quest_index": 8,
+    "answer": "D",
+    "correct_option_ch": "\u547c\u5438",
+    "correct_option_en": "breath",
+    "t_option_correct": 81,
+    "h_option_correct": 100,
+    "l_option_correct": 46,
+    "P": 81,
+    "Ph": 100,
+    "Pl": 46,
+    "Pa": 100,
+    "Pb": 100,
+    "Pc": 97,
+    "Pd": 78,
+    "Pe": 30,
+    "D": 54,
+    "D1": 0,
+    "D2": 3,
+    "D3": 19,
+    "D4": 48,
+    "options_en": [
+      "order",
+      "rest",
+      "effort",
+      "breath"
+    ],
+    "options_ch": [
+      "\u6307\u793a",
+      "\u4f11\u606f",
+      "\u52aa\u529b",
+      "\u547c\u5438"
+    ],
+    "t_options_rate": [
+      4,
+      7,
+      8,
+      81
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      0,
+      100
+    ],
+    "l_options_rate": [
+      12,
+      19,
+      23,
+      46
+    ],
+    "origin_questions": "Before John got on the stage to give the speech, he took a deep breath to calm himself down.",
+    "distractors": [
+      "order",
+      "rest",
+      "effort"
+    ]
+  },
+  {
+    "questions": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men\u2019s swimming _____ in the 2008 Olympics.",
+    "year": 99,
+    "quest_index": 8,
+    "answer": "D",
+    "correct_option_ch": "\u6bd4\u8d5b",
+    "correct_option_en": "contests",
+    "t_option_correct": 81,
+    "h_option_correct": 99,
+    "l_option_correct": 52,
+    "P": 81,
+    "Ph": 99,
+    "Pl": 52,
+    "Pa": 99,
+    "Pb": 97,
+    "Pc": 92,
+    "Pd": 76,
+    "Pe": 39,
+    "D": 47,
+    "D1": 2,
+    "D2": 5,
+    "D3": 16,
+    "D4": 37,
+    "options_en": [
+      "drills",
+      "techniques",
+      "routines",
+      "contests"
+    ],
+    "options_ch": [
+      "\u7ec3\u4e60",
+      "\u6280\u672f",
+      "\u60ef\u4f8b",
+      "\u6bd4\u8d5b"
+    ],
+    "t_options_rate": [
+      4,
+      7,
+      9,
+      81
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      1,
+      99
+    ],
+    "l_options_rate": [
+      9,
+      19,
+      20,
+      52
+    ],
+    "origin_questions": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men\u2019s swimming contests in the 2008 Olympics.",
+    "distractors": [
+      "drills",
+      "techniques",
+      "routines"
+    ]
+  },
+  {
+    "questions": "The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on.",
+    "year": 101,
+    "quest_index": 1,
+    "answer": "C",
+    "correct_option_ch": "\u610f\u5916\u7684\u4e8b",
+    "correct_option_en": "surprise",
+    "t_option_correct": 85,
+    "h_option_correct": 99,
+    "l_option_correct": 62,
+    "P": 85,
+    "Ph": 99,
+    "Pl": 62,
+    "Pa": 100,
+    "Pb": 98,
+    "Pc": 95,
+    "Pd": 83,
+    "Pe": 49,
+    "D": 37,
+    "D1": 2,
+    "D2": 3,
+    "D3": 12,
+    "D4": 34,
+    "options_en": [
+      "vision",
+      "focus",
+      "surprise",
+      "conclusion"
+    ],
+    "options_ch": [
+      "\u61a7\u61ac",
+      "\u7126\u70b9",
+      "\u610f\u5916\u7684\u4e8b",
+      "\u7ed3\u8bba"
+    ],
+    "t_options_rate": [
+      4,
+      7,
+      85,
+      4
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      99,
+      0
+    ],
+    "l_options_rate": [
+      10,
+      18,
+      62,
+      10
+    ],
+    "origin_questions": "The ending of the movie did not come as a surprise to John because he had already read the novel that the movie was based on.",
+    "distractors": [
+      "vision",
+      "focus",
+      "conclusion"
+    ]
+  },
+  {
+    "questions": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself _____ in class.",
+    "year": 99,
+    "quest_index": 3,
+    "answer": "D",
+    "correct_option_ch": "\u6e05\u9192",
+    "correct_option_en": "awake",
+    "t_option_correct": 87,
+    "h_option_correct": 100,
+    "l_option_correct": 63,
+    "P": 87,
+    "Ph": 100,
+    "Pl": 63,
+    "Pa": 100,
+    "Pb": 100,
+    "Pc": 99,
+    "Pd": 91,
+    "Pe": 46,
+    "D": 37,
+    "D1": 0,
+    "D2": 1,
+    "D3": 8,
+    "D4": 45,
+    "options_en": [
+      "acceptable",
+      "amazed",
+      "accurate",
+      "awake"
+    ],
+    "options_ch": [
+      "\u53ef\u63a5\u53d7",
+      "\u4ee4\u4eba\u60ca\u8bb6",
+      "\u6b63\u786e",
+      "\u6e05\u9192"
+    ],
+    "t_options_rate": [
+      4,
+      4,
+      5,
+      87
+    ],
+    "h_options_rate": [
+      0,
+      0,
+      0,
+      100
+    ],
+    "l_options_rate": [
+      11,
+      13,
+      13,
+      63
+    ],
+    "origin_questions": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself awake in class.",
+    "distractors": [
+      "acceptable",
+      "amazed",
+      "accurate"
+    ]
+  }
+]

@@ -1,0 +1,981 @@
+{
+  "zh_has_similar_mean_to_en": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "en_to_en_ranking": [
+    [
+      0,
+      "a performance of music by players or singers not involving theatrical staging"
+    ],
+    [
+      0,
+      "an unhappy and worried mental state"
+    ],
+    [
+      0,
+      "distinctive manner of oral expression"
+    ],
+    [
+      0,
+      "place limits on (extent or access)"
+    ],
+    [
+      0,
+      "any physical damage to the body caused by violence or accident or fracture etc."
+    ],
+    [
+      0,
+      "the trait of being willing to give your money or time"
+    ],
+    [
+      0,
+      "give an exhibition of to an interested audience"
+    ],
+    [
+      0,
+      "amounting to a large indefinite number"
+    ],
+    [
+      0,
+      "now and then or here and there"
+    ],
+    [
+      0,
+      "the state of being retired from one's business or occupation"
+    ],
+    [
+      1,
+      "causing an irritating cutaneous sensation; being affect with an itch"
+    ],
+    [
+      2,
+      "overcome by conquest"
+    ],
+    [
+      0,
+      "destroy completely; damage irreparably"
+    ],
+    [
+      0,
+      "a person who represents others"
+    ],
+    [
+      0,
+      "for the environment"
+    ],
+    [
+      0,
+      "capable of being changed"
+    ],
+    [
+      0,
+      "a recompense for worthy acts or retribution for wrongdoing"
+    ],
+    [
+      0,
+      "that you have the financial means for"
+    ],
+    [
+      0,
+      "artwork that helps make something clear or attractive"
+    ],
+    [
+      0,
+      "the act of departing"
+    ],
+    [
+      0,
+      "in a swift manner"
+    ],
+    [
+      0,
+      "the largest possible quantity"
+    ],
+    [
+      3,
+      "marked by close acquaintance, association, or familiarity; ;  - V.L. Parrington"
+    ],
+    [
+      0,
+      "a brief description given for purposes of identification"
+    ],
+    [
+      0,
+      "(of the elements) in a wild and stormy manner"
+    ],
+    [
+      0,
+      "contribute to the progress or growth of"
+    ],
+    [
+      0,
+      "make certain of"
+    ],
+    [
+      0,
+      "an authoritative rule"
+    ],
+    [
+      0,
+      "act together or towards others or with others"
+    ],
+    [
+      3,
+      "testing objects or persons in order to identify those with particular characteristics"
+    ],
+    [
+      0,
+      "move about aimlessly or without any destination, often in search of food or employment"
+    ],
+    [
+      5,
+      "not having a protective covering"
+    ],
+    [
+      0,
+      "with respect to moral principles"
+    ],
+    [
+      0,
+      "make loose or looser"
+    ],
+    [
+      0,
+      "get or ask advice from"
+    ],
+    [
+      0,
+      "the smallest possible quantity"
+    ],
+    [
+      0,
+      "something intended to communicate a particular impression"
+    ],
+    [
+      0,
+      "the process of taking in and expelling air during breathing"
+    ],
+    [
+      0,
+      "a document certifying the successful completion of a course of study"
+    ],
+    [
+      4,
+      "having no deviations"
+    ],
+    [
+      0,
+      "a state of equilibrium"
+    ],
+    [
+      0,
+      "terminate, end, or take out"
+    ],
+    [
+      0,
+      "a person who belongs to an early stage of civilization"
+    ],
+    [
+      0,
+      "condition of heightened watchfulness or preparation for action"
+    ],
+    [
+      1,
+      "have care of or look after"
+    ],
+    [
+      0,
+      "hold back to a later time"
+    ],
+    [
+      0,
+      "substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)"
+    ],
+    [
+      1,
+      "arrange for and reserve (something for someone else) in advance"
+    ],
+    [
+      0,
+      "a statement that expresses a personal opinion or belief or adds information"
+    ],
+    [
+      0,
+      "unwillingness to do something contrary to your custom"
+    ],
+    [
+      2,
+      "give an incentive for action"
+    ],
+    [
+      0,
+      "the activity of putting or setting in order in advance of some act or purpose"
+    ],
+    [
+      0,
+      "without variation or change, in every case"
+    ],
+    [
+      1,
+      "a group of birds"
+    ],
+    [
+      0,
+      "provide entertainment for"
+    ],
+    [
+      2,
+      "not moving or operating freely"
+    ],
+    [
+      0,
+      "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    ],
+    [
+      0,
+      "an abrupt failure of function or complete physical exhaustion"
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      0,
+      "more readily or willingly"
+    ],
+    [
+      0,
+      "the astonishment you feel when something totally unexpected happens to you"
+    ],
+    [
+      0,
+      "in a regular manner"
+    ],
+    [
+      0,
+      "inquire into"
+    ],
+    [
+      0,
+      "a story about mythical or supernatural beings or events"
+    ],
+    [
+      0,
+      "develop and reach maturity; undergo maturation"
+    ],
+    [
+      0,
+      "the feeling that comes when something burdensome is removed or reduced"
+    ],
+    [
+      0,
+      "expecting the best in this best of all possible worlds"
+    ],
+    [
+      0,
+      "at every point"
+    ],
+    [
+      5,
+      "produced in a particular country"
+    ],
+    [
+      0,
+      "speaking of yourself in superlatives"
+    ],
+    [
+      0,
+      "to a great extent or degree"
+    ],
+    [
+      0,
+      "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech"
+    ],
+    [
+      0,
+      "unwilling to spend"
+    ],
+    [
+      0,
+      "make sense of; assign a meaning to"
+    ],
+    [
+      0,
+      "capability to perform or produce"
+    ],
+    [
+      0,
+      "for a short time"
+    ],
+    [
+      0,
+      "become less clearly visible or distinguishable; disappear gradually or seemingly"
+    ],
+    [
+      0,
+      "worth having or seeking or achieving"
+    ],
+    [
+      0,
+      "without deviation"
+    ],
+    [
+      1,
+      "postpone indefinitely or annul something that was scheduled"
+    ],
+    [
+      0,
+      "a politician who is running for public office"
+    ],
+    [
+      0,
+      "fail to agree with; be in violation of; as of rules or patterns"
+    ],
+    [
+      0,
+      "a particular course of action intended to achieve a result"
+    ],
+    [
+      0,
+      "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others"
+    ],
+    [
+      0,
+      "a deliberate act of omission"
+    ],
+    [
+      0,
+      "the act of gripping and pressing firmly"
+    ],
+    [
+      2,
+      "exercising influence or control"
+    ],
+    [
+      0,
+      "a list of divisions (chapters or articles) and the pages on which they start"
+    ],
+    [
+      0,
+      "give pleasure to or be pleasing to"
+    ],
+    [
+      2,
+      "an intermediate scale value regarded as normal or usual"
+    ],
+    [
+      0,
+      "producing or capable of producing (especially abundantly)"
+    ],
+    [
+      0,
+      "provide physical relief, as from pain"
+    ],
+    [
+      0,
+      "stop sleeping"
+    ],
+    [
+      0,
+      "a general and progressive increase in prices"
+    ],
+    [
+      1,
+      "a reservation where animals are protected"
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      0,
+      "closely constrained or constricted or constricting"
+    ],
+    [
+      0,
+      "an occasion on which a winner is selected from among two or more contestants"
+    ],
+    [
+      0,
+      "(military) a person who freely enlists for service"
+    ],
+    [
+      0,
+      "a specific piece of work required to be done as a duty or for a specific fee"
+    ],
+    [
+      0,
+      "from appearances alone; ; ; -Thomas Hardy"
+    ],
+    [
+      0,
+      "intensely or extremely bad or unpleasant in degree or quality"
+    ],
+    [
+      0,
+      "a state of extreme (usually irremediable) ruin and misfortune"
+    ],
+    [
+      0,
+      "someone who sees an event and reports what happened"
+    ],
+    [
+      1,
+      "almost not"
+    ],
+    [
+      0,
+      "evoking lifelike images within the mind"
+    ],
+    [
+      6,
+      "the act of folding"
+    ],
+    [
+      1,
+      "in a mechanical manner; by a mechanism"
+    ],
+    [
+      0,
+      "of surpassing excellence"
+    ],
+    [
+      0,
+      "an attitude of mind especially one that favors one alternative over others"
+    ],
+    [
+      0,
+      "worthy of reliance or trust"
+    ],
+    [
+      0,
+      "compatibility in opinion and action"
+    ],
+    [
+      0,
+      "give to, and receive from, one another"
+    ],
+    [
+      3,
+      "keep or maintain in unaltered condition; cause to remain or last"
+    ],
+    [
+      0,
+      "showing reason or sound judgment"
+    ],
+    [
+      0,
+      "the activity of leading"
+    ],
+    [
+      0,
+      "with regard to technique"
+    ],
+    [
+      0,
+      "the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians"
+    ],
+    [
+      0,
+      "the act of rewriting something"
+    ],
+    [
+      0,
+      "a phenomenon that follows and is caused by some previous phenomenon"
+    ],
+    [
+      1,
+      "the act of noticing or paying attention"
+    ],
+    [
+      12,
+      "scrape or rub as if to relieve itching"
+    ],
+    [
+      2,
+      "convert food into absorbable substances"
+    ],
+    [
+      0,
+      "put up with something or somebody unpleasant"
+    ],
+    [
+      0,
+      "lacking grace in movement or posture"
+    ],
+    [
+      0,
+      "a distinctive odor that is pleasant"
+    ],
+    [
+      0,
+      "a foundation created to promote the public good (not for assistance to any particular individuals)"
+    ],
+    [
+      0,
+      "a special advantage or immunity or benefit not enjoyed by all"
+    ],
+    [
+      0,
+      "one of greater rank or station or quality"
+    ],
+    [
+      2,
+      "being of second rank or importance or value; not direct or immediate"
+    ],
+    [
+      0,
+      "aware or expressing awareness of things as they really are"
+    ],
+    [
+      0,
+      "a passageway through or under something, usually underground (especially one for trains or cars)"
+    ],
+    [
+      0,
+      "to the same degree (often followed by `as')"
+    ],
+    [
+      0,
+      "carry out or perform an action"
+    ],
+    [
+      0,
+      "in an exhaustive manner"
+    ],
+    [
+      1,
+      "a large amount of wealth or prosperity"
+    ],
+    [
+      0,
+      "the inherent capacity for coming into being"
+    ],
+    [
+      0,
+      "leave undone or leave out"
+    ],
+    [
+      0,
+      "alter or regulate so as to achieve accuracy or conform to a standard"
+    ],
+    [
+      0,
+      "the basis on which something is grounded"
+    ],
+    [
+      0,
+      "a sum of money allocated for a particular purpose"
+    ],
+    [
+      0,
+      "discuss the terms of an arrangement"
+    ],
+    [
+      0,
+      "extend in one or more directions"
+    ],
+    [
+      0,
+      "an attitude of defensiveness (especially in the phrase `on the defensive')"
+    ],
+    [
+      0,
+      "with sincerity; without pretense"
+    ],
+    [
+      0,
+      "anything indispensable"
+    ],
+    [
+      0,
+      "leave (a job, post, or position) voluntarily"
+    ],
+    [
+      0,
+      "writing that provides information (especially information of an official nature)"
+    ],
+    [
+      0,
+      "(of quantities) imprecise but fairly close to correct"
+    ],
+    [
+      0,
+      "affect with wonder"
+    ],
+    [
+      0,
+      "be able to spare or give up"
+    ],
+    [
+      1,
+      "belonging to or participated in by a community as a whole; public"
+    ],
+    [
+      1,
+      "with reference to the origin or beginning"
+    ],
+    [
+      0,
+      "have a wish or desire to know something"
+    ],
+    [
+      0,
+      "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways"
+    ],
+    [
+      1,
+      "causing or fraught with or showing anxiety"
+    ],
+    [
+      0,
+      "change toward something smaller or lower"
+    ],
+    [
+      0,
+      "yielding material gain or profit"
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      1,
+      "be fully aware or cognizant of"
+    ],
+    [
+      0,
+      "a facility consisting of the means and equipment necessary for the movement of passengers or goods"
+    ],
+    [
+      0,
+      "an authoritative direction or instruction to do something"
+    ],
+    [
+      0,
+      "something that is an indulgence rather than a necessity"
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      0,
+      "a designated limit beyond which something cannot function or must be terminated"
+    ],
+    [
+      0,
+      "to a great degree"
+    ],
+    [
+      0,
+      "refuse to acknowledge"
+    ],
+    [
+      1,
+      "use again after processing"
+    ],
+    [
+      0,
+      "commodities offered for sale"
+    ],
+    [
+      0,
+      "not often"
+    ],
+    [
+      1,
+      "without an occupant or incumbent"
+    ],
+    [
+      0,
+      "obtainable or accessible and ready for use or service"
+    ],
+    [
+      0,
+      "a violent release of energy caused by a chemical or nuclear reaction"
+    ],
+    [
+      2,
+      "express opposition through action or words"
+    ],
+    [
+      0,
+      "take into custody"
+    ],
+    [
+      0,
+      "substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)"
+    ],
+    [
+      1,
+      "relating to or originating in or characteristic of another place or part of the world"
+    ],
+    [
+      0,
+      "a very sleepy state"
+    ],
+    [
+      1,
+      "the quality of being open to public view"
+    ],
+    [
+      0,
+      "status established in order of importance or urgency"
+    ],
+    [
+      0,
+      "establish or strengthen as with new evidence or facts"
+    ],
+    [
+      0,
+      "discover or determine the existence, presence, or fact of"
+    ],
+    [
+      0,
+      "a small light typewriter; usually with a case in which it can be carried"
+    ],
+    [
+      0,
+      "being ahead of time or need"
+    ],
+    [
+      0,
+      "the position of a prominent or well-known object in a particular landscape"
+    ],
+    [
+      0,
+      "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)"
+    ],
+    [
+      0,
+      "pull the plug of (electrical appliances) and render inoperable"
+    ],
+    [
+      0,
+      "contrived by art rather than nature"
+    ],
+    [
+      0,
+      "in a spiritual manner"
+    ],
+    [
+      0,
+      "an instinctive motive"
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      -1,
+      null
+    ],
+    [
+      -1,
+      null
+    ]
+  ]
+}

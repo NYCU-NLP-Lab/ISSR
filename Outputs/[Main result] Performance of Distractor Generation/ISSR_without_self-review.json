@@ -1,0 +1,4420 @@
+[
+  {
+    "sentence": "The newcomer speaks with a strong Irish [MASK]; he must be from Ireland.",
+    "answer": "accent",
+    "distractors": [
+      "identity",
+      "gratitude",
+      "signature"
+    ],
+    "generated": [
+      "pronunciation",
+      "dialect",
+      "rhythm",
+      "behavior",
+      "strength",
+      "variety",
+      "attitude",
+      "humor",
+      "explanation",
+      "suggestion",
+      "comment",
+      "tune"
+    ]
+  },
+  {
+    "sentence": "Although Maggie has been physically [MASK] to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+    "answer": "confined",
+    "distractors": [
+      "ceased",
+      "committed",
+      "conveyed"
+    ],
+    "generated": [
+      "adopted",
+      "exposed",
+      "transformed",
+      "opposed",
+      "abandoned",
+      "sacrificed",
+      "relieved",
+      "addicted",
+      "translated",
+      "attached",
+      "distributed",
+      "committed"
+    ]
+  },
+  {
+    "sentence": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of [MASK] in case of an accident.",
+    "answer": "injury",
+    "distractors": [
+      "offense",
+      "sacrifice",
+      "victim"
+    ],
+    "generated": [
+      "murder",
+      "stress",
+      "violence",
+      "flight",
+      "competition",
+      "punishment",
+      "success",
+      "disease",
+      "journey",
+      "damage",
+      "accidents",
+      "danger"
+    ]
+  },
+  {
+    "sentence": "The principal of this school is a man of exceptional [MASK]. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "answer": "generosity",
+    "distractors": [
+      "security",
+      "maturity",
+      "facility"
+    ],
+    "generated": [
+      "commitment",
+      "gratitude",
+      "admiration",
+      "achievement",
+      "behavior",
+      "communication",
+      "ambition",
+      "determination",
+      "contribution",
+      "patience",
+      "optimism",
+      "sympathy"
+    ]
+  },
+  {
+    "sentence": "The science teacher always [MASK] the use of the laboratory equipment before she lets her students use it on their own.",
+    "answer": "demonstrates",
+    "distractors": [
+      "tolerates",
+      "associates",
+      "exaggerates"
+    ],
+    "generated": [
+      "illustrates",
+      "experiments",
+      "manufactures",
+      "contributes",
+      "researches",
+      "recommends",
+      "recognizes",
+      "inventions",
+      "exhibitions",
+      "performances"
+    ]
+  },
+  {
+    "sentence": "Most of the area is covered by woods, where bird species are so [MASK] that it is a paradise for birdwatchers.",
+    "answer": "numerous",
+    "distractors": [
+      "durable",
+      "private",
+      "realistic"
+    ],
+    "generated": [
+      "harmful",
+      "fragile",
+      "boring",
+      "stable",
+      "diverse",
+      "significant",
+      "widespread",
+      "varied",
+      "abundant",
+      "primitive",
+      "delicate",
+      "mysterious"
+    ]
+  },
+  {
+    "sentence": "In most cases, the committee members can reach agreement quickly. [MASK],  however, they differ greatly in opinion and have a hard time making decisions. ",
+    "answer": "Occasionally",
+    "distractors": [
+      "Automatically",
+      "Enormously",
+      "Innocently"
+    ],
+    "generated": [
+      "frequently",
+      "deliberately",
+      "constantly",
+      "eventually",
+      "occasionally",
+      "consequently",
+      "continuously",
+      "definitely",
+      "absolutely",
+      "immediately",
+      "apparently",
+      "consistently"
+    ]
+  },
+  {
+    "sentence": "Many people try to save a lot of money before [MASK], since having enough money would give them a sense of security for their future.",
+    "answer": "retirement",
+    "distractors": [
+      "isolation",
+      "promotion",
+      "announcement"
+    ],
+    "generated": [
+      "exhibition",
+      "celebration",
+      "adventure",
+      "conference",
+      "donation",
+      "promotion",
+      "competition",
+      "graduation",
+      "experiment",
+      "retirement",
+      "profession",
+      "investment"
+    ]
+  },
+  {
+    "sentence": "In winter, our skin tends to become dry and [MASK], a problem which is usually treated by applying lotions or creams.",
+    "answer": "itchy",
+    "distractors": [
+      "alert",
+      "steady",
+      "flexible"
+    ],
+    "generated": [
+      "tight",
+      "dry",
+      "wet",
+      "rough",
+      "cold",
+      "smooth",
+      "healthy",
+      "soft",
+      "green",
+      "hot",
+      "solid"
+    ]
+  },
+  {
+    "sentence": "Benson married Julie soon after he had [MASK] her heart and gained her parents\u2019 approval. ",
+    "answer": "conquered",
+    "distractors": [
+      "estimated",
+      "guaranteed",
+      "intensified"
+    ],
+    "generated": [
+      "betrayed",
+      "achieved",
+      "abandoned",
+      "suffered",
+      "defeated",
+      "transformed",
+      "possessed",
+      "surrounded",
+      "attracted",
+      "disturbed",
+      "destroyed",
+      "sacrificed"
+    ]
+  },
+  {
+    "sentence": "The recent flood completely [MASK] my parents\u2019 farm. The farmhouse and fruit trees were all gone and nothing was left.",
+    "answer": "ruined",
+    "distractors": [
+      "cracked",
+      "hastened",
+      "neglected"
+    ],
+    "generated": [
+      "surrounded",
+      "threatened",
+      "destroyed",
+      "drowned",
+      "abandoned",
+      "buried",
+      "absorbed",
+      "replaced",
+      "connected",
+      "exploded",
+      "occupied",
+      "decorated"
+    ]
+  },
+  {
+    "sentence": "The results of this survey are not reliable because the people it questioned were not a typical or [MASK] sample of the entire population that was studied.",
+    "answer": "representative",
+    "distractors": [
+      "primitive",
+      "spiritual",
+      "informative"
+    ],
+    "generated": [
+      "advertisement",
+      "intelligence",
+      "satisfaction",
+      "revolutionary",
+      "environmental",
+      "psychological",
+      "conventional",
+      "disappointed",
+      "professional",
+      "technological",
+      "encouragement",
+      "experimental"
+    ]
+  },
+  {
+    "sentence": "In line with the worldwide green movement, carmakers have been working hard to make their new models more [MASK] friendly to reduce pollution. ",
+    "answer": "environmentally",
+    "distractors": [
+      "liberally",
+      "individually",
+      "financially"
+    ],
+    "generated": [
+      "economically",
+      "traditionally",
+      "physically",
+      "morally",
+      "socially",
+      "significantly",
+      "independently",
+      "environmentally",
+      "internationally",
+      "financially"
+    ]
+  },
+  {
+    "sentence": "Nowadays many companies adopt a [MASK] work schedule which allows their employees to decide when to arrive at work\u2014from as early as 6 a.m. to as late as 11 a.m.",
+    "answer": "flexible",
+    "distractors": [
+      "relative",
+      "severe",
+      "primitive"
+    ],
+    "generated": [
+      "practical",
+      "random",
+      "boring",
+      "constant",
+      "specific",
+      "casual",
+      "reliable",
+      "concrete",
+      "critical",
+      "attractive",
+      "stable",
+      "cautious"
+    ]
+  },
+  {
+    "sentence": "To teach children right from wrong, some parents will [MASK] their children when they behave well and punish them when they misbehave.",
+    "answer": "reward",
+    "distractors": [
+      "settle",
+      "declare",
+      "neglect"
+    ],
+    "generated": [
+      "warn",
+      "discourage",
+      "destroy",
+      "promote",
+      "consult",
+      "entertain",
+      "defeat",
+      "advise",
+      "fright",
+      "defend",
+      "prevent",
+      "tolerate"
+    ]
+  },
+  {
+    "sentence": "To stick to a tight budget, Robert bought a more [MASK] LED TV instead of a fancy, expensive 3D TV.",
+    "answer": "affordable",
+    "distractors": [
+      "technical",
+      "significant",
+      "expressive"
+    ],
+    "generated": [
+      "reasonable",
+      "expensive",
+      "valuable",
+      "powerful",
+      "important",
+      "beautiful",
+      "attractive",
+      "dangerous",
+      "comfortable",
+      "successful",
+      "traditional",
+      "interesting"
+    ]
+  },
+  {
+    "sentence": "David\u2019s new book made it to the best-seller list because of its beautiful [MASK] and amusing stories.",
+    "answer": "illustrations",
+    "distractors": [
+      "operations",
+      "engagements",
+      "accomplishment"
+    ],
+    "generated": [
+      "performances",
+      "conclusions",
+      "experiments",
+      "suggestions",
+      "advertising",
+      "expectations",
+      "advertisements",
+      "explanations",
+      "compositions",
+      "ingredients",
+      "presentation",
+      "entertainment"
+    ]
+  },
+  {
+    "sentence": "The airport was closed because of the snowstorm, and our [MASK] for Paris had to be delayed until the following day.",
+    "answer": "departure",
+    "distractors": [
+      "movement",
+      "registration",
+      "tendency"
+    ],
+    "generated": [
+      "adventure",
+      "journey",
+      "transportation",
+      "research",
+      "destination",
+      "passenger",
+      "competition",
+      "communication",
+      "observation",
+      "operation",
+      "application",
+      "suggestion"
+    ]
+  },
+  {
+    "sentence": "The moment the students felt the earthquake, they ran [MASK] out of the classroom to an open area outside.",
+    "answer": "swiftly",
+    "distractors": [
+      "nearly",
+      "loosely",
+      "formally"
+    ],
+    "generated": [
+      "violently",
+      "frequently",
+      "gradually",
+      "suddenly",
+      "peacefully",
+      "eagerly",
+      "nervously",
+      "desperately",
+      "rapidly",
+      "immediately",
+      "constantly",
+      "secretly"
+    ]
+  },
+  {
+    "sentence": "The [MASK] capacity of this elevator is 400 kilograms. For safety reasons, it shouldn\u2019t be overloaded.",
+    "answer": "maximum",
+    "distractors": [
+      "delicate",
+      "automatic",
+      "essential"
+    ],
+    "generated": [
+      "stable",
+      "flexible",
+      "considerable",
+      "sufficient",
+      "tight",
+      "critical",
+      "reasonable",
+      "acceptable",
+      "probable",
+      "practical",
+      "unique",
+      "specific"
+    ]
+  },
+  {
+    "sentence": "An open display of [MASK] behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+    "answer": "intimate",
+    "distractors": [
+      "ashamed",
+      "earnest",
+      "urgent"
+    ],
+    "generated": [
+      "casual",
+      "physical",
+      "professional",
+      "aggressive",
+      "random",
+      "abnormal",
+      "passive",
+      "respectful",
+      "reasonable",
+      "fearful",
+      "violent",
+      "awkward"
+    ]
+  },
+  {
+    "sentence": "When taking medicine, we should read the instructions on the [MASK] carefully because they provide important information such as how and when to take it.",
+    "answer": "labels",
+    "distractors": [
+      "medals",
+      "quotes",
+      "recipes"
+    ],
+    "generated": [
+      "patients",
+      "containers",
+      "symbols",
+      "instructions",
+      "signals",
+      "directions",
+      "shelves",
+      "magazines",
+      "experiments",
+      "regulations",
+      "textbooks",
+      "posters"
+    ]
+  },
+  {
+    "sentence": "The angry passengers argued [MASK] with the airline staff because their flight was cancelled without any reason.",
+    "answer": "furiously",
+    "distractors": [
+      "evidently",
+      "obediently",
+      "suspiciously"
+    ],
+    "generated": [
+      "desperately",
+      "violently",
+      "frequently",
+      "fiercely",
+      "randomly",
+      "aggressively",
+      "eagerly",
+      "casually",
+      "hopefully",
+      "occasionally",
+      "severely",
+      "urgently"
+    ]
+  },
+  {
+    "sentence": "To [MASK] the new product, the company offered some free samples before they officially launched it.",
+    "answer": "promote",
+    "distractors": [
+      "contribute",
+      "impress",
+      "estimate"
+    ],
+    "generated": [
+      "compare",
+      "examine",
+      "operate",
+      "improve",
+      "develop",
+      "increase",
+      "supply",
+      "arrange",
+      "offer",
+      "select",
+      "confirm",
+      "exchange"
+    ]
+  },
+  {
+    "sentence": "I was worried about my first overseas trip, but my father [MASK] me that he would help plan the trip so that nothing would go wrong.",
+    "answer": "assured",
+    "distractors": [
+      "rescued",
+      "inspired",
+      "conveyed"
+    ],
+    "generated": [
+      "advised",
+      "persuaded",
+      "threatened",
+      "discouraged",
+      "complained",
+      "informed",
+      "demanded",
+      "recommended",
+      "warned",
+      "disappointed",
+      "convinced"
+    ]
+  },
+  {
+    "sentence": "The recent cooking oil scandals have led to calls for tougher [MASK] of sales of food products.",
+    "answer": "regulation",
+    "distractors": [
+      "tolerance",
+      "guarantee",
+      "distribution"
+    ],
+    "generated": [
+      "construction",
+      "exploration",
+      "administration",
+      "advertisement",
+      "promotion",
+      "inspection",
+      "competition",
+      "communication",
+      "invention",
+      "creation",
+      "entertainment",
+      "advertising"
+    ]
+  },
+  {
+    "sentence": "John should [MASK] more often with his friends and family after work, instead of staying in his room to play computer games.",
+    "answer": "interact",
+    "distractors": [
+      "explore",
+      "negotiate",
+      "participate"
+    ],
+    "generated": [
+      "compete",
+      "inspect",
+      "quarrel",
+      "explore",
+      "perform",
+      "analyze",
+      "suffer",
+      "assist",
+      "complain",
+      "predict",
+      "concentrate",
+      "entertain"
+    ]
+  },
+  {
+    "sentence": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola [MASK] for passengers from the infected areas.",
+    "answer": "screenings",
+    "distractors": [
+      "listings",
+      "clippings",
+      "blockings"
+    ],
+    "generated": [
+      "hospitals",
+      "treatment",
+      "management",
+      "transportation",
+      "treatments",
+      "operations",
+      "research",
+      "examinations",
+      "warnings",
+      "supplies",
+      "researches",
+      "services"
+    ]
+  },
+  {
+    "sentence": "Lost and scared, the little dog [MASK] along the streets, looking for its master. ",
+    "answer": "wandered",
+    "distractors": [
+      "dismissed",
+      "glided",
+      "marched"
+    ],
+    "generated": [
+      "hurried",
+      "escaped",
+      "searched",
+      "relaxed",
+      "performed",
+      "argued",
+      "hunted",
+      "rushed",
+      "screamed",
+      "settled",
+      "approached",
+      "paused"
+    ]
+  },
+  {
+    "sentence": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with [MASK] feet. ",
+    "answer": "bare",
+    "distractors": [
+      "raw",
+      "tough",
+      "slippery"
+    ],
+    "generated": [
+      "rough",
+      "nervous",
+      "solid",
+      "narrow",
+      "painful",
+      "ugly",
+      "silent",
+      "normal",
+      "dirt",
+      "pale",
+      "sleepy",
+      "wild"
+    ]
+  },
+  {
+    "sentence": "It is both legally and [MASK] wrong to spread rumors about other people on the Internet.",
+    "answer": "morally",
+    "distractors": [
+      "physically",
+      "literarily",
+      "commercially"
+    ],
+    "generated": [
+      "mentally",
+      "financially",
+      "socially",
+      "emotionally",
+      "physically",
+      "culturally",
+      "occasionally",
+      "generally",
+      "frequently",
+      "completely",
+      "gradually",
+      "absolutely"
+    ]
+  },
+  {
+    "sentence": "These warm-up exercises are designed to help people [MASK] their muscles and prevent injuries.",
+    "answer": "loosen",
+    "distractors": [
+      "produce",
+      "connect",
+      "broaden"
+    ],
+    "generated": [
+      "prevent",
+      "strengthen",
+      "tighten",
+      "promote",
+      "reserve",
+      "destroy",
+      "absorb",
+      "inspect",
+      "weaken",
+      "withdraw",
+      "replace",
+      "confirm"
+    ]
+  },
+  {
+    "sentence": "Mei-ling has a very close relationship with her parents. She always [MASK] them before she makes important decisions.",
+    "answer": "consults",
+    "distractors": [
+      "impresses",
+      "advises",
+      "motivates"
+    ],
+    "generated": [
+      "convinces",
+      "advises",
+      "informs",
+      "threatens",
+      "opposes",
+      "rewards",
+      "observes",
+      "requests",
+      "permits",
+      "destroys"
+    ]
+  },
+  {
+    "sentence": "The restaurant has a [MASK] charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+    "answer": "minimum",
+    "distractors": [
+      "definite",
+      "flexible",
+      "numerous"
+    ],
+    "generated": [
+      "practical",
+      "stable",
+      "considerable",
+      "flexible",
+      "maximum",
+      "reasonable",
+      "adequate",
+      "financial",
+      "counter",
+      "modest",
+      "acceptable",
+      "casual"
+    ]
+  },
+  {
+    "sentence": "At the Book Fair, exhibitors from 21 countries will [MASK] textbooks, novels, and comic books.",
+    "answer": "display",
+    "distractors": [
+      "predict",
+      "require",
+      "target"
+    ],
+    "generated": [
+      "provide",
+      "arrange",
+      "study",
+      "treat",
+      "explain",
+      "reserve",
+      "borrow",
+      "introduce",
+      "organize",
+      "produce",
+      "learn",
+      "offer"
+    ]
+  },
+  {
+    "sentence": "Before John got on the stage to give the speech, he took a deep [MASK] to calm himself down.",
+    "answer": "breath",
+    "distractors": [
+      "order",
+      "rest",
+      "effort"
+    ],
+    "generated": [
+      "relief",
+      "regret",
+      "suggestion",
+      "flight",
+      "disappointment",
+      "opportunity",
+      "attempt",
+      "risk",
+      "discussion",
+      "attitude",
+      "shock",
+      "journey"
+    ]
+  },
+  {
+    "sentence": "Most young people in Taiwan are not satisfied with a high school [MASK] and continue to pursue further education in college. ",
+    "answer": "diploma",
+    "distractors": [
+      "maturity",
+      "foundation",
+      "guarantee"
+    ],
+    "generated": [
+      "scholarship",
+      "promotion",
+      "salary",
+      "honor",
+      "talent",
+      "certificate",
+      "conference",
+      "research",
+      "performance",
+      "commitment",
+      "status",
+      "achievement"
+    ]
+  },
+  {
+    "sentence": "Residents are told not to dump all household waste [MASK] into the trash can; reusable materials should first be sorted out and recycled.",
+    "answer": "straight",
+    "distractors": [
+      "shortly",
+      "forward",
+      "namely"
+    ],
+    "generated": [
+      "separated",
+      "collected",
+      "loaded",
+      "forced",
+      "disappeared",
+      "removed",
+      "combined",
+      "broken",
+      "hidden",
+      "limited",
+      "crowded",
+      "turned"
+    ]
+  },
+  {
+    "sentence": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his [MASK] and fell to the ground.",
+    "answer": "balance",
+    "distractors": [
+      "volume",
+      "weight",
+      "direction"
+    ],
+    "generated": [
+      "trouble",
+      "weight",
+      "control",
+      "energy",
+      "method",
+      "decision",
+      "courage",
+      "order",
+      "feeling",
+      "attitude",
+      "interest",
+      "power"
+    ]
+  },
+  {
+    "sentence": "If student enrollment continues to drop, some programs at the university may be [MASK] to reduce the operation costs. ",
+    "answer": "eliminated",
+    "distractors": [
+      "relieved",
+      "projected",
+      "accounted"
+    ],
+    "generated": [
+      "promoted",
+      "expanded",
+      "transformed",
+      "evaluated",
+      "strengthened",
+      "permitted",
+      "replaced",
+      "distributed",
+      "prevented",
+      "persuaded",
+      "demanded",
+      "abandoned"
+    ]
+  },
+  {
+    "sentence": "People in that remote village feed themselves by hunting and engaging in [MASK] forms of agriculture. No modern agricultural methods are used. ",
+    "answer": "primitive",
+    "distractors": [
+      "universal",
+      "splendid",
+      "courteous"
+    ],
+    "generated": [
+      "temporary",
+      "industrial",
+      "contemporary",
+      "creative",
+      "mysterious",
+      "technical",
+      "complicated",
+      "practical",
+      "artificial",
+      "flexible",
+      "physical",
+      "immediate"
+    ]
+  },
+  {
+    "sentence": "The government issued a travel [MASK] for Taiwanese in response to the outbreak of civil war in Syria. ",
+    "answer": "alert",
+    "distractors": [
+      "monument",
+      "exit",
+      "circulation"
+    ],
+    "generated": [
+      "permission",
+      "application",
+      "certificate",
+      "bulletin",
+      "restriction",
+      "permit",
+      "signal",
+      "ban",
+      "document",
+      "advertisement",
+      "request",
+      "suggestion"
+    ]
+  },
+  {
+    "sentence": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was [MASK] by zookeepers for a while.",
+    "answer": "tended",
+    "distractors": [
+      "departed",
+      "jailed",
+      "captured"
+    ],
+    "generated": [
+      "injured",
+      "protected",
+      "abandoned",
+      "supported",
+      "introduced",
+      "rescued",
+      "replaced",
+      "punished",
+      "ignored",
+      "cured",
+      "attended",
+      "removed"
+    ]
+  },
+  {
+    "sentence": "It rained so hard yesterday that the baseball game had to be [MASK] until next Saturday.",
+    "answer": "postponed",
+    "distractors": [
+      "surrendered",
+      "abandoned",
+      "opposed"
+    ],
+    "generated": [
+      "continued",
+      "canceled",
+      "delayed",
+      "cancelled",
+      "abandoned",
+      "interrupted",
+      "settled",
+      "introduced",
+      "repaired",
+      "disturbed",
+      "invented",
+      "accepted"
+    ]
+  },
+  {
+    "sentence": "As more people rely on the Internet for information, it has [MASK] newspapers as the most important source of news.",
+    "answer": "replaced",
+    "distractors": [
+      "distributed",
+      "subtracted",
+      "transferred"
+    ],
+    "generated": [
+      "ignored",
+      "succeeded",
+      "attracted",
+      "abandoned",
+      "removed",
+      "transformed",
+      "introduced",
+      "accepted",
+      "improved",
+      "supported",
+      "recognized",
+      "compared"
+    ]
+  },
+  {
+    "sentence": "Having saved enough money, Joy [MASK] two trips for this summer vacation, one to France and the other to Australia.",
+    "answer": "booked",
+    "distractors": [
+      "observed",
+      "enclosed",
+      "deposited"
+    ],
+    "generated": [
+      "brought",
+      "attended",
+      "missed",
+      "gave",
+      "started",
+      "drove",
+      "recorded",
+      "invited",
+      "collected",
+      "remembered",
+      "caught",
+      "offered"
+    ]
+  },
+  {
+    "sentence": "Since I do not fully understand your proposal, I am not in the position to make any [MASK] on it.",
+    "answer": "comment",
+    "distractors": [
+      "difference",
+      "solution",
+      "demand"
+    ],
+    "generated": [
+      "adjustment",
+      "expectation",
+      "contribution",
+      "demand",
+      "achievement",
+      "profit",
+      "preparation",
+      "determination",
+      "suggestion",
+      "invitation",
+      "advantage",
+      "measure"
+    ]
+  },
+  {
+    "sentence": "Betty was [MASK] to accept her friend\u2019s suggestion because she thought she could come up with a better idea herself.",
+    "answer": "reluctant",
+    "distractors": [
+      "tolerable",
+      "sensitive",
+      "modest"
+    ],
+    "generated": [
+      "miserable",
+      "ridiculous",
+      "jealous",
+      "fearful",
+      "doubtful",
+      "desperate",
+      "practical",
+      "sensible",
+      "ambitious",
+      "reasonable",
+      "capable",
+      "cheerful"
+    ]
+  },
+  {
+    "sentence": "The bank tries its best to attract more customers. Its staff members are always available to provide [MASK] service.",
+    "answer": "prompt",
+    "distractors": [
+      "singular",
+      "expensive",
+      "probable"
+    ],
+    "generated": [
+      "adequate",
+      "reasonable",
+      "reliable",
+      "satisfactory",
+      "essential",
+      "acceptable",
+      "casual",
+      "efficient",
+      "beneficial",
+      "creative",
+      "random",
+      "hopeful"
+    ]
+  },
+  {
+    "sentence": "John\u2019s part-time experience at the cafeteria is good [MASK] for running his own restaurant.",
+    "answer": "preparation",
+    "distractors": [
+      "recognition",
+      "formation",
+      "calculation"
+    ],
+    "generated": [
+      "operation",
+      "organization",
+      "instruction",
+      "expectation",
+      "requirement",
+      "suggestion",
+      "arrangement",
+      "competition",
+      "information",
+      "description",
+      "communication",
+      "opportunity"
+    ]
+  },
+  {
+    "sentence": "Women\u2019s fashions are [MASK] changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+    "answer": "constantly",
+    "distractors": [
+      "lately",
+      "shortly",
+      "relatively"
+    ],
+    "generated": [
+      "suddenly",
+      "frequently",
+      "gradually",
+      "occasionally",
+      "generally",
+      "fortunately",
+      "eventually",
+      "normally",
+      "completely",
+      "extremely",
+      "particularly",
+      "hopefully"
+    ]
+  },
+  {
+    "sentence": "Standing on the seashore, we saw a [MASK] of seagulls flying over the ocean before they glided down and settled on the water.",
+    "answer": "flock",
+    "distractors": [
+      "pack",
+      "herd",
+      "school"
+    ],
+    "generated": [
+      "crowd",
+      "collection",
+      "stream",
+      "shade",
+      "flood",
+      "variety",
+      "company",
+      "system",
+      "chain",
+      "cage",
+      "display",
+      "generation"
+    ]
+  },
+  {
+    "sentence": "The book is not only informative but also [MASK], making me laugh and feel relaxed while reading it.",
+    "answer": "entertaining",
+    "distractors": [
+      "understanding",
+      "infecting",
+      "annoying"
+    ],
+    "generated": [
+      "stimulating",
+      "educational",
+      "delightful",
+      "competitive",
+      "threatening",
+      "ridiculous",
+      "controversial",
+      "incredible",
+      "scientific",
+      "intelligent",
+      "thoughtful",
+      "meaningful"
+    ]
+  },
+  {
+    "sentence": "After working in front of my computer for the entire day, my neck and shoulders got so [MASK] that I couldn\u2019t even turn my head.",
+    "answer": "stiff",
+    "distractors": [
+      "dense",
+      "harsh",
+      "concrete"
+    ],
+    "generated": [
+      "stressed",
+      "tense",
+      "painful",
+      "flexible",
+      "anxious",
+      "loose",
+      "sleepy",
+      "nervous",
+      "ill",
+      "stress",
+      "tight",
+      "solid"
+    ]
+  },
+  {
+    "sentence": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the [MASK] that could make us sick.",
+    "answer": "virus",
+    "distractors": [
+      "poison",
+      "misery",
+      "leak"
+    ],
+    "generated": [
+      "competition",
+      "violence",
+      "bacteria",
+      "pollution",
+      "infection",
+      "radiation",
+      "hurricane",
+      "gases",
+      "bullets",
+      "crash",
+      "disaster",
+      "murder"
+    ]
+  },
+  {
+    "sentence": "The kingdom began to [MASK] after the death of its ruler, and was soon taken over by a neighboring country.",
+    "answer": "collapse",
+    "distractors": [
+      "dismiss",
+      "rebel",
+      "withdraw"
+    ],
+    "generated": [
+      "strengthen",
+      "transform",
+      "expanding",
+      "tremble",
+      "decline",
+      "weaken",
+      "abandon",
+      "defeat",
+      "destroy",
+      "withdraw",
+      "expand",
+      "reduce"
+    ]
+  },
+  {
+    "sentence": "Though Kevin failed in last year\u2019s singing contest, he did not feel [MASK]. This year he practiced day and night and finally won first place in the competition.",
+    "answer": "frustrated",
+    "distractors": [
+      "relieved",
+      "suspected",
+      "discounted"
+    ],
+    "generated": [
+      "miserable",
+      "disappointed",
+      "desperate",
+      "confused",
+      "suffered",
+      "depressed",
+      "grateful",
+      "enthusiastic",
+      "ambitious",
+      "threatened",
+      "ridiculous",
+      "doubtful"
+    ]
+  },
+  {
+    "sentence": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, [MASK] one who knows how to cook.",
+    "answer": "preferably",
+    "distractors": [
+      "initially",
+      "apparently",
+      "considerably"
+    ],
+    "generated": [
+      "possibly",
+      "fortunately",
+      "generally",
+      "occasionally",
+      "frequently",
+      "gradually",
+      "basically",
+      "extremely",
+      "particularly",
+      "normally",
+      "regularly",
+      "constantly"
+    ]
+  },
+  {
+    "sentence": "The ending of the movie did not come as a [MASK] to John because he had already read the novel that the movie was based on.",
+    "answer": "surprise",
+    "distractors": [
+      "vision",
+      "focus",
+      "conclusion"
+    ],
+    "generated": [
+      "failure",
+      "danger",
+      "victory",
+      "chance",
+      "courage",
+      "possibility",
+      "problem",
+      "challenge",
+      "mistake",
+      "change",
+      "result",
+      "lesson"
+    ]
+  },
+  {
+    "sentence": "In order to stay healthy and fit, John exercises [MASK]. He works out twice a week in a gym.",
+    "answer": "regularly",
+    "distractors": [
+      "directly",
+      "hardly",
+      "gradually"
+    ],
+    "generated": [
+      "eagerly",
+      "anxiously",
+      "secretly",
+      "casually",
+      "strangely",
+      "rapidly",
+      "gradually",
+      "frequently",
+      "constantly",
+      "naturally",
+      "successfully",
+      "usually"
+    ]
+  },
+  {
+    "sentence": "Traveling is a good way for us to [MASK] different cultures and broaden our horizons.",
+    "answer": "explore",
+    "distractors": [
+      "assume",
+      "occupy",
+      "inspire"
+    ],
+    "generated": [
+      "predict",
+      "settle",
+      "destroy",
+      "avoid",
+      "protect",
+      "search",
+      "compare",
+      "analyze",
+      "travel",
+      "connect",
+      "inspect",
+      "admire"
+    ]
+  },
+  {
+    "sentence": "The story about Hou-I shooting down nine suns is a well-known Chinese [MASK], but it may not be a true historical event.",
+    "answer": "legend",
+    "distractors": [
+      "figure",
+      "rumor",
+      "miracle"
+    ],
+    "generated": [
+      "theory",
+      "invention",
+      "literature",
+      "adventure",
+      "mystery",
+      "fiction",
+      "research",
+      "incident",
+      "journey",
+      "advertisement",
+      "disaster",
+      "competition"
+    ]
+  },
+  {
+    "sentence": "According to recent research, children under the age of 12 are generally not [MASK] enough to recognize risk and deal with dangerous situations.",
+    "answer": "mature",
+    "distractors": [
+      "diligent",
+      "familiar",
+      "sincere"
+    ],
+    "generated": [
+      "born",
+      "tired",
+      "blind",
+      "concerned",
+      "excited",
+      "moved",
+      "stressed",
+      "awake",
+      "bored",
+      "brave",
+      "frightened",
+      "skilled"
+    ]
+  },
+  {
+    "sentence": "Helen let out a sigh of [MASK] after hearing that her brother was not injured in the accident.",
+    "answer": "relief",
+    "distractors": [
+      "hesitation",
+      "sorrow",
+      "triumph"
+    ],
+    "generated": [
+      "guilt",
+      "anxiety",
+      "disappointment",
+      "fear",
+      "shame",
+      "anger",
+      "pain",
+      "doubt",
+      "horror",
+      "excitement",
+      "regret",
+      "admiration"
+    ]
+  },
+  {
+    "sentence": "Research suggests that people with outgoing personalities tend to be more [MASK], often expecting that good things will happen.",
+    "answer": "optimistic",
+    "distractors": [
+      "efficient",
+      "practical",
+      "changeable"
+    ],
+    "generated": [
+      "aggressive",
+      "realistic",
+      "stubborn",
+      "practical",
+      "reliable",
+      "sensitive",
+      "reasonable",
+      "fortunate",
+      "independent",
+      "determined",
+      "positive",
+      "responsible"
+    ]
+  },
+  {
+    "sentence": "No one could beat Paul at running. He has won the running championship [MASK] for three years.",
+    "answer": "continuously",
+    "distractors": [
+      "rapidly",
+      "urgently",
+      "temporarily"
+    ],
+    "generated": [
+      "frequently",
+      "constantly",
+      "continually",
+      "occasionally",
+      "consistently",
+      "extensively",
+      "eventually",
+      "physically",
+      "absolutely",
+      "emotionally",
+      "definitely",
+      "accidentally"
+    ]
+  },
+  {
+    "sentence": "If you fly from Taipei to Tokyo, you\u2019ll be taking an international, rather than a [MASK] flight.",
+    "answer": "domestic",
+    "distractors": [
+      "liberal",
+      "connected",
+      "universal"
+    ],
+    "generated": [
+      "global",
+      "foreign",
+      "national",
+      "limited",
+      "regional",
+      "direct",
+      "specific",
+      "eastern",
+      "personal",
+      "similar",
+      "common",
+      "normal"
+    ]
+  },
+  {
+    "sentence": "Jack is very proud of his fancy new motorcycle. He has been [MASK] to all his friends about how cool it looks and how fast it runs.",
+    "answer": "boasting",
+    "distractors": [
+      "proposing",
+      "gossiping",
+      "confessing"
+    ],
+    "generated": [
+      "chatting",
+      "warning",
+      "competing",
+      "declaring",
+      "attracting",
+      "advocating",
+      "announcing",
+      "reflecting",
+      "complaining",
+      "comforting",
+      "performing",
+      "advising"
+    ]
+  },
+  {
+    "sentence": "The ideas about family have changed [MASK] in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+    "answer": "considerably",
+    "distractors": [
+      "mutually",
+      "narrowly",
+      "scarcely"
+    ],
+    "generated": [
+      "extensively",
+      "unfortunately",
+      "surprisingly",
+      "occasionally",
+      "constantly",
+      "completely",
+      "permanently",
+      "frequently",
+      "importantly",
+      "differently",
+      "particularly",
+      "altogether"
+    ]
+  },
+  {
+    "sentence": "The chairperson of the meeting asked everyone to speak up instead of [MASK] their opinions among themselves.",
+    "answer": "murmuring",
+    "distractors": [
+      "reciting",
+      "giggling",
+      "whistling"
+    ],
+    "generated": [
+      "screaming",
+      "complaining",
+      "yelling",
+      "warning",
+      "destroying",
+      "criticizing",
+      "demanding",
+      "reflecting",
+      "advocating",
+      "inspiring",
+      "advising",
+      "glaring"
+    ]
+  },
+  {
+    "sentence": "Although Mr. Chen is rich, he is a very [MASK] person and is never willing to spend any money to help those who are in need.",
+    "answer": "stingy",
+    "distractors": [
+      "absolute",
+      "precise",
+      "economic"
+    ],
+    "generated": [
+      "determined",
+      "wealthy",
+      "ambitious",
+      "hopeful",
+      "stubborn",
+      "mysterious",
+      "cruel",
+      "humorous",
+      "enthusiastic",
+      "cheerful",
+      "desperate"
+    ]
+  },
+  {
+    "sentence": "If you want to know what your dreams mean, now there are websites you can visit to help you [MASK] them.",
+    "answer": "interpret",
+    "distractors": [
+      "overcome",
+      "transfer",
+      "revise"
+    ],
+    "generated": [
+      "distribute",
+      "overlook",
+      "destroy",
+      "identify",
+      "evaluate",
+      "analyze",
+      "explore",
+      "consult",
+      "communicate",
+      "prevent",
+      "recognize",
+      "perform"
+    ]
+  },
+  {
+    "sentence": "The memory [MASK] of the new computer has been increased so that more information can be stored.",
+    "answer": "capacity",
+    "distractors": [
+      "occupation",
+      "attachment",
+      "machinery"
+    ],
+    "generated": [
+      "aspect",
+      "situation",
+      "generation",
+      "demand",
+      "plenty",
+      "strength",
+      "structure",
+      "benefit",
+      "collection",
+      "confidence",
+      "performance",
+      "content"
+    ]
+  },
+  {
+    "sentence": "All the new students were given one minute to [MASK] introduce themselves to the whole class.",
+    "answer": "briefly",
+    "distractors": [
+      "famously",
+      "gradually",
+      "obviously"
+    ],
+    "generated": [
+      "cruel",
+      "doubtful",
+      "immediate",
+      "quite",
+      "deeply",
+      "expected",
+      "strange",
+      "harder",
+      "weekly",
+      "forever",
+      "simple",
+      "quick"
+    ]
+  },
+  {
+    "sentence": "His dark brown jacket had holes in the elbows and had [MASK] to light brown, but he continued to wear it.",
+    "answer": "faded",
+    "distractors": [
+      "cycled",
+      "loosened",
+      "divided"
+    ],
+    "generated": [
+      "connected",
+      "increased",
+      "improved",
+      "strengthened",
+      "expanded",
+      "transformed",
+      "switched",
+      "attracted",
+      "progressed",
+      "attached",
+      "replaced",
+      "reduced"
+    ]
+  },
+  {
+    "sentence": "Everyone in our company enjoys working with Jason. He\u2019s got all the qualities that make a [MASK] partner.",
+    "answer": "desirable",
+    "distractors": [
+      "comfortable",
+      "frequent",
+      "hostile"
+    ],
+    "generated": [
+      "mysterious",
+      "nervous",
+      "painful",
+      "attractive",
+      "wealthy",
+      "handsome",
+      "reliable",
+      "suitable",
+      "responsible",
+      "potential",
+      "trusted",
+      "valuable"
+    ]
+  },
+  {
+    "sentence": "Eyes are sensitive to light. Looking at the sun [MASK] could damage our eyes.",
+    "answer": "directly",
+    "distractors": [
+      "hardly",
+      "specially",
+      "totally"
+    ],
+    "generated": [
+      "gradually",
+      "instantly",
+      "suddenly",
+      "naturally",
+      "generally",
+      "frequently",
+      "normally",
+      "roughly",
+      "secretly",
+      "slowly",
+      "rarely",
+      "nearly"
+    ]
+  },
+  {
+    "sentence": "We were forced to [MASK] our plan for the weekend picnic because of the bad weather.",
+    "answer": "cancel",
+    "distractors": [
+      "maintain",
+      "record",
+      "propose"
+    ],
+    "generated": [
+      "read",
+      "discuss",
+      "present",
+      "organize",
+      "explain",
+      "announce",
+      "change",
+      "prepare",
+      "arrange",
+      "forget",
+      "lose",
+      "offer"
+    ]
+  },
+  {
+    "sentence": "Three people are running for mayor. All three [MASK] seem confident that they will be elected, but we won\u2019t know until the outcome of the election is announced.",
+    "answer": "candidates",
+    "distractors": [
+      "particles",
+      "receivers",
+      "containers"
+    ],
+    "generated": [
+      "scholars",
+      "producers",
+      "immigrants",
+      "settlers",
+      "scientists",
+      "journalists",
+      "witnesses",
+      "researchers",
+      "consumers",
+      "athletes",
+      "designers",
+      "participants"
+    ]
+  },
+  {
+    "sentence": "If you [MASK] a traffic law, such as drinking and driving, you may not drive for some time.",
+    "answer": "violate",
+    "distractors": [
+      "destroy",
+      "attack",
+      "invade"
+    ],
+    "generated": [
+      "abandon",
+      "overlook",
+      "disturb",
+      "consult",
+      "request",
+      "analyze",
+      "explore",
+      "demand",
+      "approve",
+      "oppose",
+      "prevent",
+      "confirm"
+    ]
+  },
+  {
+    "sentence": "Applying to college means sending in applications, writing study plans, and so on. It\u2019s a long [MASK], and it makes students nervous.",
+    "answer": "process",
+    "distractors": [
+      "errand",
+      "operation",
+      "display"
+    ],
+    "generated": [
+      "competition",
+      "accident",
+      "event",
+      "project",
+      "journey",
+      "examination",
+      "preparation",
+      "decision",
+      "method",
+      "operation",
+      "communication",
+      "discussion"
+    ]
+  },
+  {
+    "sentence": "Dr. Chu\u2019s speech on the new energy source attracted great [MASK] from the audience at the conference.",
+    "answer": "attention",
+    "distractors": [
+      "fortune",
+      "solution",
+      "influence"
+    ],
+    "generated": [
+      "invitation",
+      "surprise",
+      "trouble",
+      "knowledge",
+      "feeling",
+      "support",
+      "courage",
+      "promise",
+      "respect",
+      "pressure",
+      "benefit",
+      "comfort"
+    ]
+  },
+  {
+    "sentence": "Everyone in the office must attend the meeting tomorrow. There are no [MASK] allowed.",
+    "answer": "exceptions",
+    "distractors": [
+      "additions",
+      "divisions",
+      "measures"
+    ],
+    "generated": [
+      "regulations",
+      "restrictions",
+      "ceremonies",
+      "tourists",
+      "scholars",
+      "measures",
+      "volunteers",
+      "passengers",
+      "lectures",
+      "benefits",
+      "suggestions"
+    ]
+  },
+  {
+    "sentence": "To make fresh lemonade, cut the lemon in half, [MASK] the juice into a bowl, and then add as much water and sugar as you like.",
+    "answer": "squeeze",
+    "distractors": [
+      "decrease",
+      "freeze",
+      "cease"
+    ],
+    "generated": [
+      "divide",
+      "introduce",
+      "destroy",
+      "contain",
+      "serve",
+      "spread",
+      "stick",
+      "separate",
+      "remove",
+      "waste",
+      "deliver",
+      "exchange"
+    ]
+  },
+  {
+    "sentence": "Buddhism is the [MASK] religion in Thailand, with 90% of the total population identified as Buddhists.",
+    "answer": "dominant",
+    "distractors": [
+      "racial",
+      "competitive",
+      "modest"
+    ],
+    "generated": [
+      "stable",
+      "practical",
+      "spiritual",
+      "primitive",
+      "unique",
+      "random",
+      "occasional",
+      "concrete",
+      "mysterious",
+      "potential",
+      "essential",
+      "critical"
+    ]
+  },
+  {
+    "sentence": "When I open a book, I look first at the table of [MASK] to get a general idea of the book and to see which chapters I might be interested in reading.",
+    "answer": "contents",
+    "distractors": [
+      "contracts",
+      "contests",
+      "contacts"
+    ],
+    "generated": [
+      "regulations",
+      "information",
+      "experiments",
+      "explanations",
+      "products",
+      "expectations",
+      "preparations",
+      "contributions",
+      "operations",
+      "ingredients",
+      "signals",
+      "measures"
+    ]
+  },
+  {
+    "sentence": "The children were so [MASK] to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+    "answer": "delighted",
+    "distractors": [
+      "admirable",
+      "fearful",
+      "intense"
+    ],
+    "generated": [
+      "depressed",
+      "grateful",
+      "frustrated",
+      "determined",
+      "discouraged",
+      "disappointed",
+      "exhausted",
+      "frightened",
+      "desperate",
+      "relieved",
+      "disturbed",
+      "anxious"
+    ]
+  },
+  {
+    "sentence": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the [MASK] rainfall of the season in the area.",
+    "answer": "average",
+    "distractors": [
+      "considerate",
+      "promising",
+      "enjoyable"
+    ],
+    "generated": [
+      "common",
+      "standard",
+      "usual",
+      "extra",
+      "strong",
+      "great",
+      "total",
+      "heavy",
+      "special",
+      "regular",
+      "normal",
+      "typical"
+    ]
+  },
+  {
+    "sentence": "Mr. Lin is a very [MASK] writer; he publishes at least five novels every year.",
+    "answer": "productive",
+    "distractors": [
+      "moderate",
+      "temporary",
+      "reluctant"
+    ],
+    "generated": [
+      "creative",
+      "inspired",
+      "imaginative",
+      "demanding",
+      "mysterious",
+      "disappointed",
+      "grateful",
+      "thoughtful",
+      "ambitious",
+      "determined",
+      "flexible",
+      "reliable"
+    ]
+  },
+  {
+    "sentence": "Using a heating pad or taking warm baths can sometimes help to [MASK] pain in the lower back.",
+    "answer": "relieve",
+    "distractors": [
+      "polish",
+      "switch",
+      "maintain"
+    ],
+    "generated": [
+      "resist",
+      "suffer",
+      "weaken",
+      "defeat",
+      "absorb",
+      "destroy",
+      "decrease",
+      "prevent",
+      "tolerate",
+      "explore",
+      "achieve",
+      "reduce"
+    ]
+  },
+  {
+    "sentence": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself [MASK] in class.",
+    "answer": "awake",
+    "distractors": [
+      "acceptable",
+      "amazed",
+      "accurate"
+    ],
+    "generated": [
+      "exhausted",
+      "drunk",
+      "bored",
+      "relax",
+      "boring",
+      "ill",
+      "disturbed",
+      "discouraged",
+      "relaxing",
+      "stressed",
+      "concerned",
+      "addicted"
+    ]
+  },
+  {
+    "sentence": "Due to [MASK], prices for daily necessities have gone up and we have to pay more for the same items now.",
+    "answer": "inflation",
+    "distractors": [
+      "solution",
+      "objection",
+      "condition"
+    ],
+    "generated": [
+      "adjustments",
+      "researches",
+      "shortages",
+      "pollution",
+      "competition",
+      "disaster",
+      "regulations",
+      "economy",
+      "unemployment",
+      "transportation",
+      "construction",
+      "security"
+    ]
+  },
+  {
+    "sentence": "The government is doing its best to [MASK] the cultures of the tribal people for fear that they may soon die out.",
+    "answer": "preserve",
+    "distractors": [
+      "frustrate",
+      "hesitate",
+      "overthrow"
+    ],
+    "generated": [
+      "abandon",
+      "replace",
+      "destroy",
+      "surround",
+      "disturb",
+      "inspect",
+      "defend",
+      "rescue",
+      "reserve",
+      "prevent",
+      "benefit",
+      "tolerate"
+    ]
+  },
+  {
+    "sentence": "I could not [MASK] the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+    "answer": "resist",
+    "distractors": [
+      "insist",
+      "obtain",
+      "contain"
+    ],
+    "generated": [
+      "avoid",
+      "ignore",
+      "refuse",
+      "reject",
+      "prevent",
+      "escape",
+      "observe",
+      "consider",
+      "admire",
+      "protect",
+      "tolerate",
+      "permit"
+    ]
+  },
+  {
+    "sentence": "Steve has several meetings to attend every day; therefore, he has to work on a very [MASK] schedule.",
+    "answer": "tight",
+    "distractors": [
+      "dense",
+      "various",
+      "current"
+    ],
+    "generated": [
+      "reasonable",
+      "flexible",
+      "relaxing",
+      "relaxed",
+      "casual",
+      "pleasant",
+      "demanding",
+      "dull",
+      "rough",
+      "practical",
+      "complex",
+      "familiar"
+    ]
+  },
+  {
+    "sentence": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men\u2019s swimming [MASK] in the 2008 Olympics.",
+    "answer": "contests",
+    "distractors": [
+      "drills",
+      "techniques",
+      "routines"
+    ],
+    "generated": [
+      "lectures",
+      "drills",
+      "regulations",
+      "adventures",
+      "championships",
+      "experiments",
+      "ceremonies",
+      "athletes",
+      "competition",
+      "exhibitions",
+      "operations",
+      "conferences"
+    ]
+  },
+  {
+    "sentence": "Those college students work at the orphanage on a [MASK] basis, helping the children with their studies without receiving any pay.",
+    "answer": "voluntary",
+    "distractors": [
+      "competitive",
+      "sorrowful",
+      "realistic"
+    ],
+    "generated": [
+      "volunteer",
+      "flexible",
+      "temporary",
+      "competitive",
+      "demanding",
+      "passive",
+      "reliable",
+      "potential",
+      "immediate",
+      "optimistic",
+      "grateful",
+      "cautious"
+    ]
+  },
+  {
+    "sentence": "Studies show that asking children to do house [MASK], such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+    "answer": "chores",
+    "distractors": [
+      "missions",
+      "approaches",
+      "incidents"
+    ],
+    "generated": [
+      "construction",
+      "researches",
+      "exploration",
+      "research",
+      "labor",
+      "assignments",
+      "lectures",
+      "competition",
+      "observation",
+      "transportation",
+      "possessions",
+      "conferences"
+    ]
+  },
+  {
+    "sentence": "John has been scolded by his boss for over ten minutes now. [MASK], she is not happy about his being late again.",
+    "answer": "Apparently",
+    "distractors": [
+      "Expressively",
+      "Immediately",
+      "Originally"
+    ],
+    "generated": [
+      "originally",
+      "nevertheless",
+      "constantly",
+      "fortunately",
+      "normally",
+      "deliberately",
+      "desperately",
+      "violently",
+      "casually",
+      "occasionally",
+      "frequently",
+      "hopefully"
+    ]
+  },
+  {
+    "sentence": "Since the orange trees suffered [MASK] damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+    "answer": "severe",
+    "distractors": [
+      "potential",
+      "relative",
+      "mutual"
+    ],
+    "generated": [
+      "moderate",
+      "mild",
+      "beneficial",
+      "reasonable",
+      "significant",
+      "abundant",
+      "occasional",
+      "random",
+      "slight",
+      "adequate",
+      "normal",
+      "temporary"
+    ]
+  },
+  {
+    "sentence": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural [MASK] in Taiwan in recent decades.",
+    "answer": "disaster",
+    "distractors": [
+      "barrier",
+      "anxiety",
+      "collapse"
+    ],
+    "generated": [
+      "coincidence",
+      "invention",
+      "phenomenon",
+      "ceremony",
+      "achievement",
+      "miracle",
+      "competition",
+      "incident",
+      "opportunity",
+      "attraction",
+      "journey",
+      "adventure"
+    ]
+  },
+  {
+    "sentence": "Robert was the only [MASK] to the car accident. The police had to count on him to find out exactly how the accident happened.",
+    "answer": "witness",
+    "distractors": [
+      "dealer",
+      "guide",
+      "client"
+    ],
+    "generated": [
+      "suspect",
+      "competitor",
+      "passenger",
+      "volunteer",
+      "cleaner",
+      "traveler",
+      "pilot",
+      "designer",
+      "professor",
+      "survivor",
+      "victim",
+      "sponsor"
+    ]
+  },
+  {
+    "sentence": "Badly injured in the car accident, Jason could [MASK] move his legs and was sent to the hospital right away.",
+    "answer": "scarcely",
+    "distractors": [
+      "accordingly",
+      "undoubtedly",
+      "handily"
+    ],
+    "generated": [
+      "merely",
+      "barely",
+      "slightly",
+      "eventually",
+      "suddenly",
+      "completely",
+      "occasionally",
+      "generally",
+      "frequently",
+      "eagerly",
+      "absolutely",
+      "hopefully"
+    ]
+  },
+  {
+    "sentence": "Steve\u2019s description of the place was so [MASK] that I could almost picture it in my mind.",
+    "answer": "vivid",
+    "distractors": [
+      "bitter",
+      "sensitive",
+      "courageous"
+    ],
+    "generated": [
+      "complex",
+      "mysterious",
+      "rare",
+      "familiar",
+      "boring",
+      "painful",
+      "proper",
+      "suitable",
+      "concrete",
+      "powerful",
+      "impressive",
+      "unique"
+    ]
+  },
+  {
+    "sentence": "When people feel uncomfortable or nervous, they may [MASK] their arms across their chests as if to protect themselves. ",
+    "answer": "fold",
+    "distractors": [
+      "toss",
+      "veil",
+      "yield"
+    ],
+    "generated": [
+      "stretch",
+      "bend",
+      "wrap",
+      "protect",
+      "spread",
+      "increase",
+      "sweep",
+      "extend",
+      "drag",
+      "withdraw",
+      "force",
+      "travel"
+    ]
+  },
+  {
+    "sentence": "The doors of these department stores slide open [MASK] when you approach them. You don\u2019t have to open them yourself. ",
+    "answer": "automatically",
+    "distractors": [
+      "necessarily",
+      "diligently",
+      "intentionally"
+    ],
+    "generated": [
+      "continuously",
+      "unexpectedly",
+      "deliberately",
+      "independently",
+      "mechanically",
+      "traditionally",
+      "emotionally",
+      "accidentally",
+      "dangerously",
+      "successfully",
+      "temporarily",
+      "unfortunately"
+    ]
+  },
+  {
+    "sentence": "Nicole is a [MASK] language learner. Within a short period of time, she has developed a good command of Chinese and Japanese. ",
+    "answer": "brilliant",
+    "distractors": [
+      "convenient",
+      "popular",
+      "regular"
+    ],
+    "generated": [
+      "determined",
+      "intelligent",
+      "patient",
+      "serious",
+      "difficult",
+      "successful",
+      "strange",
+      "stubborn",
+      "terrible",
+      "careful",
+      "foolish",
+      "nervous"
+    ]
+  },
+  {
+    "sentence": "With rising oil prices, there is an increasing [MASK] for people to ride bicycles to work. ",
+    "answer": "tendency",
+    "distractors": [
+      "permit",
+      "instrument",
+      "appearance"
+    ],
+    "generated": [
+      "demand",
+      "preference",
+      "opportunity",
+      "achievement",
+      "benefit",
+      "responsibility",
+      "competition",
+      "situation",
+      "process",
+      "ambition",
+      "desire",
+      "determination"
+    ]
+  },
+  {
+    "sentence": "This information came from a very [MASK] source, so you don\u2019t have to worry about being cheated. ",
+    "answer": "reliable",
+    "distractors": [
+      "flexible",
+      "clumsy",
+      "brutal"
+    ],
+    "generated": [
+      "familiar",
+      "ordinary",
+      "average",
+      "practical",
+      "mysterious",
+      "boring",
+      "reasonable",
+      "accurate",
+      "valuable",
+      "suitable",
+      "typical",
+      "natural"
+    ]
+  },
+  {
+    "sentence": "We hope that there will be no war in the world and that all people live in peace and [MASK] with each other. ",
+    "answer": "harmony",
+    "distractors": [
+      "complaint",
+      "mission",
+      "texture"
+    ],
+    "generated": [
+      "competition",
+      "disaster",
+      "quarrel",
+      "determination",
+      "gratitude",
+      "disappointment",
+      "association",
+      "communication",
+      "negotiation",
+      "satisfaction",
+      "protection",
+      "reflection"
+    ]
+  },
+  {
+    "sentence": "To have a full discussion of the issue, the committee spent a whole hour [MASK] their ideas at the meeting. ",
+    "answer": "exchanging",
+    "distractors": [
+      "depositing",
+      "governing",
+      "interrupting"
+    ],
+    "generated": [
+      "searching",
+      "announcing",
+      "refusing",
+      "comparing",
+      "suggesting",
+      "debating",
+      "considering",
+      "developing",
+      "reviewing",
+      "arranging",
+      "applying",
+      "examining"
+    ]
+  },
+  {
+    "sentence": "While adapting to western ways of living, many Asian immigrants in the US still try hard to [MASK] their own cultures and traditions. ",
+    "answer": "preserve",
+    "distractors": [
+      "volunteer",
+      "scatter",
+      "motivate"
+    ],
+    "generated": [
+      "abandon",
+      "transform",
+      "destroy",
+      "promote",
+      "overcome",
+      "rescue",
+      "explore",
+      "construct",
+      "benefit",
+      "prevent",
+      "analyze",
+      "exchange"
+    ]
+  },
+  {
+    "sentence": "With the worsening of global economic conditions, it seems wiser and more [MASK] to keep cash in the bank rather than to invest in the stock market. ",
+    "answer": "sensible",
+    "distractors": [
+      "portable",
+      "explicit",
+      "anxious"
+    ],
+    "generated": [
+      "confident",
+      "practical",
+      "ambitious",
+      "determined",
+      "reasonable",
+      "active",
+      "necessary",
+      "capable",
+      "generous",
+      "attractive",
+      "flexible",
+      "casual"
+    ]
+  },
+  {
+    "sentence": "Under the [MASK] of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy. ",
+    "answer": "leadership",
+    "distractors": [
+      "adoption",
+      "fragrance",
+      "identity"
+    ],
+    "generated": [
+      "agreement",
+      "instruction",
+      "management",
+      "influence",
+      "expectation",
+      "decision",
+      "treatment",
+      "condition",
+      "business",
+      "organization",
+      "movement",
+      "examination"
+    ]
+  },
+  {
+    "sentence": "Rapid advancement in motor engineering makes it [MASK] possible to build a flying car in the near future. ",
+    "answer": "technically",
+    "distractors": [
+      "individually",
+      "narrowly",
+      "punctually"
+    ],
+    "generated": [
+      "therefore",
+      "nevertheless",
+      "consequently",
+      "eventually",
+      "completely",
+      "gradually",
+      "emotionally",
+      "economically",
+      "frequently",
+      "regularly",
+      "similarly",
+      "environmentally"
+    ]
+  },
+  {
+    "sentence": "When you take photos, you can move around to shoot the target object from different [MASK]. ",
+    "answer": "angles",
+    "distractors": [
+      "moods",
+      "trends",
+      "inputs"
+    ],
+    "generated": [
+      "lengths",
+      "heights",
+      "colors",
+      "sizes",
+      "patterns",
+      "levels",
+      "sides",
+      "directions",
+      "speeds",
+      "shapes",
+      "distances"
+    ]
+  },
+  {
+    "sentence": "Students were asked to [MASK] or rewrite their compositions based on the teacher\u2019s comments. ",
+    "answer": "revise",
+    "distractors": [
+      "resign",
+      "refresh",
+      "remind"
+    ],
+    "generated": [
+      "confirm",
+      "destroy",
+      "complain",
+      "adopt",
+      "withdraw",
+      "consult",
+      "relax",
+      "approve",
+      "contribute",
+      "edit",
+      "adapt",
+      "analyze"
+    ]
+  },
+  {
+    "sentence": "Besides lung cancer, another [MASK] of smoking is wrinkles, a premature sign of aging. ",
+    "answer": "consequence",
+    "distractors": [
+      "blessing",
+      "campaign",
+      "breakthrough"
+    ],
+    "generated": [
+      "achievement",
+      "competition",
+      "communication",
+      "contribution",
+      "invention",
+      "phenomenon",
+      "complaint",
+      "impression",
+      "coincidence",
+      "performance",
+      "preparation",
+      "attraction"
+    ]
+  },
+  {
+    "sentence": "Amy did not [MASK] changes in the course schedule and therefore missed the class.",
+    "answer": "notice",
+    "distractors": [
+      "arrest",
+      "alarm",
+      "delay"
+    ],
+    "generated": [
+      "lead",
+      "arrive",
+      "finish",
+      "select",
+      "drive",
+      "smile",
+      "live",
+      "enter",
+      "guess",
+      "wear",
+      "punish",
+      "correct"
+    ]
+  },
+  {
+    "sentence": "It is not easy for old people to [MASK] their backs, so they need help when their backs itch.",
+    "answer": "scratch",
+    "distractors": [
+      "label",
+      "lighten",
+      "squeeze"
+    ],
+    "generated": [
+      "stroke",
+      "twist",
+      "destroy",
+      "absorb",
+      "scrub",
+      "exchange",
+      "release",
+      "suffer",
+      "reserve",
+      "withdraw",
+      "reflect",
+      "confirm"
+    ]
+  },
+  {
+    "sentence": "Mary is suffering from a stomachache and needs to eat food which is easy to [MASK].",
+    "answer": "digest",
+    "distractors": [
+      "launch",
+      "invade",
+      "adopt"
+    ],
+    "generated": [
+      "relax",
+      "spare",
+      "admire",
+      "consult",
+      "predict",
+      "tolerate",
+      "acquire",
+      "preserve",
+      "destroy",
+      "chew",
+      "absorb",
+      "consume"
+    ]
+  },
+  {
+    "sentence": "Since our classroom is not air-conditioned, we have to [MASK] the heat during the hot summer days.",
+    "answer": "tolerate",
+    "distractors": [
+      "consume",
+      "recover",
+      "promote"
+    ],
+    "generated": [
+      "abandon",
+      "resist",
+      "suffer",
+      "prevent",
+      "confirm",
+      "destroy",
+      "defeat",
+      "exchange",
+      "explore",
+      "release",
+      "permit"
+    ]
+  },
+  {
+    "sentence": "Sue is so [MASK] that she always breaks something when she is shopping at a store.",
+    "answer": "clumsy",
+    "distractors": [
+      "religious",
+      "visual",
+      "intimate"
+    ],
+    "generated": [
+      "awkward",
+      "anxious",
+      "disappointed",
+      "determined",
+      "confused",
+      "cautious",
+      "intelligent",
+      "hopeful",
+      "eager",
+      "frightened",
+      "cruel",
+      "stubborn"
+    ]
+  },
+  {
+    "sentence": "Ann enjoyed going to the flower market. She believed that the [MASK] of flowers refreshed her mind.",
+    "answer": "fragrance",
+    "distractors": [
+      "instance",
+      "dominance",
+      "appliance"
+    ],
+    "generated": [
+      "highlight",
+      "symphony",
+      "extension",
+      "consumption",
+      "abundance",
+      "transformation",
+      "commitment",
+      "realization",
+      "adaptation",
+      "resemblance",
+      "donation",
+      "shortage"
+    ]
+  },
+  {
+    "sentence": "The profits of Prince Charles\u2019s organic farm go to [MASK] to help the poor and the sick.",
+    "answer": "charities",
+    "distractors": [
+      "bulletins",
+      "harvests",
+      "rebels"
+    ],
+    "generated": [
+      "foundations",
+      "shelters",
+      "benefits",
+      "charity",
+      "missions",
+      "volunteers",
+      "consumers",
+      "communities",
+      "regulations",
+      "products",
+      "authorities"
+    ]
+  },
+  {
+    "sentence": "Jack was given the rare [MASK] of using the president\u2019s office, which made others quite jealous.",
+    "answer": "privilege",
+    "distractors": [
+      "mischief",
+      "involvement",
+      "occupation"
+    ],
+    "generated": [
+      "situation",
+      "responsibility",
+      "appointment",
+      "achievement",
+      "determination",
+      "satisfaction",
+      "technique",
+      "sympathy",
+      "tendency",
+      "information",
+      "guidance",
+      "permission"
+    ]
+  },
+  {
+    "sentence": "This new computer is obviously [MASK] to the old one because it has many new functions.",
+    "answer": "superior",
+    "distractors": [
+      "technical",
+      "suitable",
+      "typical"
+    ],
+    "generated": [
+      "practical",
+      "limited",
+      "ordinary",
+      "familiar",
+      "harmful",
+      "typical",
+      "central",
+      "necessary",
+      "appropriate",
+      "similar",
+      "suitable",
+      "fundamental"
+    ]
+  },
+  {
+    "sentence": "Simon loves his work. To him, work always comes first, and family and friends are [MASK].",
+    "answer": "secondary",
+    "distractors": [
+      "temporary",
+      "sociable",
+      "capable"
+    ],
+    "generated": [
+      "primary",
+      "important",
+      "central",
+      "powerful",
+      "special",
+      "strange",
+      "optimistic",
+      "excellent",
+      "responsible",
+      "popular",
+      "successful",
+      "valuable"
+    ]
+  },
+  {
+    "sentence": "Although your plans look good, you have to be [MASK] and consider what you can actually do.",
+    "answer": "realistic",
+    "distractors": [
+      "dramatic",
+      "stressful",
+      "manageable"
+    ],
+    "generated": [
+      "ridiculous",
+      "hopeful",
+      "ambitious",
+      "practical",
+      "reasonable",
+      "sensible",
+      "attractive",
+      "conscious",
+      "stubborn",
+      "wealthy",
+      "desperate",
+      "humorous"
+    ]
+  },
+  {
+    "sentence": "Built under the sea in 1994, the [MASK] between England and France connects the UK more closely with mainland Europe.",
+    "answer": "tunnel",
+    "distractors": [
+      "waterfall",
+      "temple",
+      "channel"
+    ],
+    "generated": [
+      "ocean",
+      "project",
+      "friendship",
+      "village",
+      "trade",
+      "route",
+      "communication",
+      "border",
+      "highway",
+      "company",
+      "voyage",
+      "flight"
+    ]
+  },
+  {
+    "sentence": "This tour package is very appealing, and that one looks [MASK] attractive. I don\u2019t know which one to choose.",
+    "answer": "equally",
+    "distractors": [
+      "annually",
+      "merely",
+      "gratefully"
+    ],
+    "generated": [
+      "mostly",
+      "largely",
+      "rarely",
+      "almost",
+      "fairly",
+      "totally",
+      "particularly",
+      "frequently",
+      "hardly",
+      "completely",
+      "highly",
+      "generally"
+    ]
+  },
+  {
+    "sentence": "Hseu Fang-yi, a young Taiwanese dancer, recently [MASK] at Lincoln Center in New York and won a great deal of praise.",
+    "answer": "performed",
+    "distractors": [
+      "pretended",
+      "postponed",
+      "persuaded"
+    ],
+    "generated": [
+      "settled",
+      "suffered",
+      "transformed",
+      "traveled",
+      "attended",
+      "competed",
+      "invented",
+      "admitted",
+      "complained",
+      "entertained",
+      "delivered",
+      "succeeded"
+    ]
+  },
+  {
+    "sentence": "The police searched the house of the suspect [MASK]. They almost turned the whole house upside down.",
+    "answer": "thoroughly",
+    "distractors": [
+      "relatively",
+      "casually",
+      "permanently"
+    ],
+    "generated": [
+      "horrible",
+      "desperate",
+      "abundant",
+      "fortunate",
+      "cheerful",
+      "stubborn",
+      "randomly",
+      "grateful",
+      "meaningful",
+      "adequate",
+      "splendid",
+      "beneficial"
+    ]
+  },
+  {
+    "sentence": "The movie director adapted this year\u2019s bestseller into a hit and made a [MASK].",
+    "answer": "fortune",
+    "distractors": [
+      "request",
+      "companion",
+      "decision"
+    ],
+    "generated": [
+      "failure",
+      "prediction",
+      "sacrifice",
+      "progress",
+      "design",
+      "contribution",
+      "statement",
+      "challenge",
+      "profit",
+      "success",
+      "achievement",
+      "decision"
+    ]
+  },
+  {
+    "sentence": "Wang Chien-ming, the Yankees\u2019 best pitcher last year, already showed his great [MASK] for baseball when he was still a teenager.",
+    "answer": "potential",
+    "distractors": [
+      "response",
+      "reluctance",
+      "permission"
+    ],
+    "generated": [
+      "ambition",
+      "achievement",
+      "determination",
+      "attitude",
+      "expectation",
+      "opportunity",
+      "impression",
+      "fortune",
+      "strength",
+      "advantage",
+      "benefit",
+      "responsibility"
+    ]
+  },
+  {
+    "sentence": "Although Jeffery had to keep two part-time jobs to support his family, he never [MASK] his studies. In fact, he graduated with honors. ",
+    "answer": "neglected",
+    "distractors": [
+      "segmented",
+      "financed",
+      "diminished"
+    ],
+    "generated": [
+      "abandoned",
+      "interrupted",
+      "sacrificed",
+      "overlooked",
+      "opposed",
+      "resisted",
+      "disturbed",
+      "suffered",
+      "disliked",
+      "evaluated",
+      "conducted",
+      "explored"
+    ]
+  },
+  {
+    "sentence": "If it is too cold in this room, you can [MASK] the air conditioner to make yourself feel comfortable. ",
+    "answer": "adjust",
+    "distractors": [
+      "fasten",
+      "defeat",
+      "upload"
+    ],
+    "generated": [
+      "warn",
+      "inform",
+      "destroy",
+      "adopt",
+      "prevent",
+      "replace",
+      "observe",
+      "release",
+      "demand",
+      "assist",
+      "predict",
+      "tolerate"
+    ]
+  },
+  {
+    "sentence": "This course will provide students with a solid [MASK] for research. It is highly recommended for those who plan to go to graduate school. ",
+    "answer": "foundation",
+    "distractors": [
+      "admission",
+      "circulation",
+      "extension"
+    ],
+    "generated": [
+      "competition",
+      "equipment",
+      "scholarship",
+      "committee",
+      "suggestion",
+      "appointment",
+      "attitude",
+      "association",
+      "opportunity",
+      "reputation",
+      "expectation",
+      "situation"
+    ]
+  },
+  {
+    "sentence": "Peter is now living on a [MASK] of NT$100 per day. He cannot afford any recreational activities. ",
+    "answer": "budget",
+    "distractors": [
+      "division",
+      "guidance",
+      "measure"
+    ],
+    "generated": [
+      "debt",
+      "prize",
+      "waste",
+      "expense",
+      "offer",
+      "salary",
+      "demand",
+      "rate",
+      "profit",
+      "amount",
+      "value",
+      "standard"
+    ]
+  },
+  {
+    "sentence": "Amy succeeded in [MASK] for a raise though her boss didn\u2019t agree to increase her salary at first. ",
+    "answer": "negotiating",
+    "distractors": [
+      "compensating",
+      "substituting",
+      "advertising"
+    ],
+    "generated": [
+      "demanding",
+      "competing",
+      "criticizing",
+      "pretending",
+      "consulting",
+      "wandering",
+      "screaming",
+      "preventing",
+      "advocating",
+      "assisting",
+      "organizing",
+      "achieving"
+    ]
+  },
+  {
+    "sentence": "Ms. Li\u2019s business [MASK] very quickly. She opened her first store two years ago; now she has fifty stores all over the country. ",
+    "answer": "expanded",
+    "distractors": [
+      "discouraged",
+      "transferred",
+      "stretched"
+    ],
+    "generated": [
+      "suffered",
+      "paused",
+      "decreased",
+      "reduced",
+      "abandoned",
+      "ruined",
+      "crashed",
+      "rushed",
+      "folded",
+      "replaced",
+      "strengthened",
+      "declined"
+    ]
+  },
+  {
+    "sentence": "Ruth is a very [MASK] person. She cannot take any criticism and always finds excuses to justify herself. ",
+    "answer": "defensive",
+    "distractors": [
+      "shameful",
+      "innocent",
+      "outgoing"
+    ],
+    "generated": [
+      "innocent",
+      "passive",
+      "flexible",
+      "determined",
+      "reliable",
+      "ambitious",
+      "fortunate",
+      "hopeful",
+      "enthusiastic",
+      "aggressive",
+      "anxious",
+      "stubborn"
+    ]
+  },
+  {
+    "sentence": "It\u2019s a pity that you have to leave so soon. I [MASK] hope that you will come back very soon. ",
+    "answer": "sincerely",
+    "distractors": [
+      "scarcely",
+      "reliably",
+      "obviously"
+    ],
+    "generated": [
+      "eagerly",
+      "anxiously",
+      "hopefully",
+      "occasionally",
+      "fortunately",
+      "gradually",
+      "suddenly",
+      "secretly",
+      "actually",
+      "eventually",
+      "normally",
+      "obviously"
+    ]
+  },
+  {
+    "sentence": "We human beings may live without clothes, but food and air are [MASK] to our life. ",
+    "answer": "essential",
+    "distractors": [
+      "magnificent",
+      "influential",
+      "profitable"
+    ],
+    "generated": [
+      "harmful",
+      "significant",
+      "grateful",
+      "practical",
+      "reasonable",
+      "accessible",
+      "appropriate",
+      "alternative",
+      "meaningful",
+      "creative",
+      "permanent",
+      "superior"
+    ]
+  },
+  {
+    "sentence": "The manager [MASK] without hesitation after he had been offered a better job in another company. ",
+    "answer": "resigned",
+    "distractors": [
+      "retreated",
+      "revived",
+      "removed"
+    ],
+    "generated": [
+      "wandered",
+      "competed",
+      "interrupted",
+      "declined",
+      "retired",
+      "dismissed",
+      "pretended",
+      "complained",
+      "suffered",
+      "replaced",
+      "regretted",
+      "declared"
+    ]
+  },
+  {
+    "sentence": "Many important legal [MASK] concerning the tragic incident have now been preserved in the museum. ",
+    "answer": "documents",
+    "distractors": [
+      "distributions",
+      "formations",
+      "constructions"
+    ],
+    "generated": [
+      "behaviors",
+      "incidents",
+      "conferences",
+      "statistics",
+      "exhibits",
+      "evidence",
+      "measures",
+      "researches",
+      "categories",
+      "comments",
+      "regulations",
+      "concepts"
+    ]
+  },
+  {
+    "sentence": "I\u2019m not sure exactly how much scholarship you\u2019ll receive, but it will [MASK] cover your major expenses. ",
+    "answer": "roughly",
+    "distractors": [
+      "recently",
+      "frankly",
+      "variously"
+    ],
+    "generated": [
+      "eventually",
+      "naturally",
+      "gradually",
+      "occasionally",
+      "extremely",
+      "completely",
+      "suddenly",
+      "constantly",
+      "absolutely",
+      "slightly",
+      "frequently",
+      "entirely"
+    ]
+  },
+  {
+    "sentence": "Tom was very ill a week ago, but now he looks healthy. We are [MASK] by his quick recovery. ",
+    "answer": "amazed",
+    "distractors": [
+      "convinced",
+      "advised",
+      "confirmed"
+    ],
+    "generated": [
+      "relieved",
+      "delighted",
+      "excited",
+      "concerned",
+      "disappointed",
+      "shocked",
+      "stressed",
+      "discouraged",
+      "regretted",
+      "exhausted",
+      "annoyed",
+      "scared"
+    ]
+  },
+  {
+    "sentence": "If we can [MASK] to, we will take a vacation abroad in the summer.",
+    "answer": "afford",
+    "distractors": [
+      "pay",
+      "move",
+      "expose"
+    ],
+    "generated": [
+      "pretend",
+      "insist",
+      "contribute",
+      "manage",
+      "rush",
+      "respond",
+      "refer",
+      "adapt",
+      "hurry",
+      "promise",
+      "offer",
+      "refuse"
+    ]
+  },
+  {
+    "sentence": "A [MASK] mistake found in parenthood is that parents often set unrealistic goals for their children.",
+    "answer": "common",
+    "distractors": [
+      "terrific",
+      "straight",
+      "favorable"
+    ],
+    "generated": [
+      "necessary",
+      "proper",
+      "possible",
+      "dangerous",
+      "rare",
+      "hard",
+      "difficult",
+      "special",
+      "terrible",
+      "serious",
+      "strange"
+    ]
+  },
+  {
+    "sentence": "Some words, such as \u201csandwich\u201d and \u201chamburger,\u201d were [MASK] the names of people or even towns.",
+    "answer": "originally",
+    "distractors": [
+      "ideally",
+      "relatively",
+      "sincerely"
+    ],
+    "generated": [
+      "eventually",
+      "typically",
+      "completely",
+      "traditionally",
+      "consequently",
+      "similarly",
+      "suddenly",
+      "extremely",
+      "fortunately",
+      "naturally",
+      "generally",
+      "frequently"
+    ]
+  },
+  {
+    "sentence": "Have you ever [MASK] how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+    "answer": "wondered",
+    "distractors": [
+      "concluded",
+      "admitted",
+      "persuaded"
+    ],
+    "generated": [
+      "recognized",
+      "expected",
+      "dreamed",
+      "ignored",
+      "feared",
+      "complained",
+      "understood",
+      "admitted",
+      "guessed",
+      "learned",
+      "explained",
+      "believed"
+    ]
+  },
+  {
+    "sentence": "Mr. Johnson was disappointed at his students for having a passive learning [MASK].",
+    "answer": "attitude",
+    "distractors": [
+      "result",
+      "progress",
+      "energy"
+    ],
+    "generated": [
+      "theory",
+      "system",
+      "process",
+      "success",
+      "method",
+      "behavior",
+      "technique",
+      "principle",
+      "concept",
+      "purpose",
+      "character",
+      "decision"
+    ]
+  },
+  {
+    "sentence": "Anne dreaded giving a speech before three hundred people; even thinking about it made her [MASK].",
+    "answer": "anxious",
+    "distractors": [
+      "passionate",
+      "ambitious",
+      "optimistic"
+    ],
+    "generated": [
+      "anxious",
+      "scared",
+      "nervous",
+      "fearful",
+      "ashamed",
+      "frustrated",
+      "guilty",
+      "disappointed",
+      "desperate",
+      "confused",
+      "bored",
+      "awful"
+    ]
+  },
+  {
+    "sentence": "I had to [MASK] Jack\u2019s invitation to the party because it conflicted with an important business meeting.",
+    "answer": "decline",
+    "distractors": [
+      "depart",
+      "devote",
+      "deserve"
+    ],
+    "generated": [
+      "declare",
+      "conduct",
+      "recommend",
+      "abandon",
+      "adapt",
+      "reward",
+      "adopt",
+      "demand",
+      "tolerate",
+      "obtain",
+      "entertain",
+      "adjust"
+    ]
+  },
+  {
+    "sentence": "Selling fried chicken at the night market doesn\u2019t seem to be a decent business, but it is actually quite [MASK].",
+    "answer": "profitable",
+    "distractors": [
+      "plentiful",
+      "precious",
+      "productive"
+    ],
+    "generated": [
+      "meaningful",
+      "fortunate",
+      "ridiculous",
+      "competitive",
+      "mysterious",
+      "humorous",
+      "reasonable",
+      "potential",
+      "beneficial",
+      "reliable",
+      "enjoyable",
+      "accessible"
+    ]
+  },
+  {
+    "sentence": "The passengers [MASK] escaped death when a bomb exploded in the subway station, killing sixty people.",
+    "answer": "narrowly",
+    "distractors": [
+      "traditionally",
+      "valuably",
+      "loosely"
+    ],
+    "generated": [
+      "almost",
+      "finally",
+      "nearly",
+      "quickly",
+      "carefully",
+      "suddenly",
+      "quietly",
+      "strangely",
+      "hardly",
+      "successfully",
+      "generally",
+      "usually"
+    ]
+  },
+  {
+    "sentence": "Jerry didn\u2019t [MASK] his primary school classmate Mary until he listened to her self-introduction.",
+    "answer": "recognize",
+    "distractors": [
+      "acquaint",
+      "acquire",
+      "realize"
+    ],
+    "generated": [
+      "abandon",
+      "overlook",
+      "suspect",
+      "observe",
+      "introduce",
+      "discover",
+      "attract",
+      "receive",
+      "destroy",
+      "appreciate",
+      "imagine",
+      "inspect"
+    ]
+  },
+  {
+    "sentence": "With the completion of several public [MASK] projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+    "answer": "transportation",
+    "distractors": [
+      "traffic",
+      "travel",
+      "transfer"
+    ],
+    "generated": [
+      "civilization",
+      "broadcasting",
+      "neighborhood",
+      "communication",
+      "infrastructure",
+      "distribution",
+      "manufacturing",
+      "transmission",
+      "preservation",
+      "establishment",
+      "conservation",
+      "unemployment"
+    ]
+  },
+  {
+    "sentence": "With a good [MASK] of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+    "answer": "command",
+    "distractors": [
+      "writing",
+      "program",
+      "impression"
+    ],
+    "generated": [
+      "arrangement",
+      "preparation",
+      "decision",
+      "example",
+      "knowledge",
+      "thought",
+      "agreement",
+      "request",
+      "offer",
+      "experience",
+      "point",
+      "order"
+    ]
+  },
+  {
+    "sentence": "I am studying so hard for the forthcoming entrance exam that I do not have the [MASK] of a free weekend to rest.",
+    "answer": "luxury",
+    "distractors": [
+      "license",
+      "limitation",
+      "strength"
+    ],
+    "generated": [
+      "honor",
+      "competition",
+      "request",
+      "achievement",
+      "advantage",
+      "reward",
+      "expectation",
+      "desire",
+      "benefit",
+      "demand",
+      "strength",
+      "opportunity"
+    ]
+  },
+  {
+    "sentence": "Kim was completely [MASK] after jogging in the hot sun all afternoon; she had little energy left.",
+    "answer": "wornout",
+    "distractors": [
+      "kickedout",
+      "handedout",
+      "putout"
+    ],
+    "generated": [
+      "unlike",
+      "except",
+      "neither",
+      "around",
+      "before",
+      "though",
+      "against",
+      "about",
+      "through",
+      "after",
+      "behind",
+      "above"
+    ]
+  },
+  {
+    "sentence": "When Jason failed to pay his bill, the network company [MASK] his Internet connection.",
+    "answer": "cutoff",
+    "distractors": [
+      "cutback",
+      "cutshort",
+      "cutdown"
+    ],
+    "generated": [
+      "blocked",
+      "interrupted",
+      "disconnected",
+      "refused",
+      "stopped",
+      "improved",
+      "created",
+      "ruined",
+      "sold",
+      "lost",
+      "abandoned"
+    ]
+  },
+  {
+    "sentence": "As computers are getting less expensive, they are [MASK] used in schools and offices today.",
+    "answer": "widely",
+    "distractors": [
+      "expectedly",
+      "consciously",
+      "influentially"
+    ],
+    "generated": [
+      "poorly",
+      "generally",
+      "almost",
+      "never",
+      "rarely",
+      "always",
+      "deeply",
+      "commonly",
+      "often",
+      "more",
+      "very"
+    ]
+  },
+  {
+    "sentence": "Mr. Chang always tries to answer all questions from his students. He will not [MASK] any of them even if they may sound stupid.",
+    "answer": "ignore",
+    "distractors": [
+      "reform",
+      "depress",
+      "confirm"
+    ],
+    "generated": [
+      "change",
+      "doubt",
+      "refuse",
+      "respect",
+      "treat",
+      "support",
+      "find",
+      "realize",
+      "forget",
+      "love",
+      "hate",
+      "help"
+    ]
+  },
+  {
+    "sentence": "Irene does not throw away used envelopes. She [MASK] them by using them for taking telephone messages.",
+    "answer": "recycles",
+    "distractors": [
+      "designs",
+      "disguises",
+      "manufactures"
+    ],
+    "generated": [
+      "discouraged",
+      "abandoned",
+      "warned",
+      "attracted",
+      "informs",
+      "rescued",
+      "reminds",
+      "attracts",
+      "informed",
+      "rewards",
+      "admire"
+    ]
+  },
+  {
+    "sentence": "Cheese, powdered milk, and yogurt are common milk [MASK].",
+    "answer": "products",
+    "distractors": [
+      "produces",
+      "productions",
+      "productivities"
+    ],
+    "generated": [
+      "solutions",
+      "methods",
+      "companies",
+      "liquids",
+      "spirits",
+      "designs",
+      "articles",
+      "suggestions",
+      "qualities",
+      "containers",
+      "experiments",
+      "characters"
+    ]
+  },
+  {
+    "sentence": "Although he is a chef, Roberto [MASK] cooks his own meals.",
+    "answer": "rarely",
+    "distractors": [
+      "bitterly",
+      "naturally",
+      "skillfully"
+    ],
+    "generated": [
+      "sometimes",
+      "generally",
+      "usually",
+      "often",
+      "always",
+      "frequently",
+      "regularly",
+      "constantly",
+      "hardly",
+      "just",
+      "mostly",
+      "really"
+    ]
+  },
+  {
+    "sentence": "Due to the yearly bonus system, the 100 [MASK] positions in this high-tech company have attracted many applicants from around the island.",
+    "answer": "vacant",
+    "distractors": [
+      "loyal",
+      "evident",
+      "typical"
+    ],
+    "generated": [
+      "occupied",
+      "active",
+      "private",
+      "stable",
+      "suitable",
+      "valuable",
+      "extra",
+      "permanent",
+      "typical",
+      "empty",
+      "available",
+      "ordinary"
+    ]
+  },
+  {
+    "sentence": "If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all [MASK] there.",
+    "answer": "available",
+    "distractors": [
+      "sufficient",
+      "marvelous",
+      "impressive"
+    ],
+    "generated": [
+      "practical",
+      "necessary",
+      "dangerous",
+      "curious",
+      "prepared",
+      "natural",
+      "suitable",
+      "possible",
+      "interesting",
+      "different",
+      "expensive",
+      "comfortable"
+    ]
+  },
+  {
+    "sentence": "The fire in the fireworks factory in Changhua set off a series of powerful [MASK] and killed four people.",
+    "answer": "explosions",
+    "distractors": [
+      "extensions",
+      "inspections",
+      "impressions"
+    ],
+    "generated": [
+      "fireworks",
+      "incidents",
+      "disasters",
+      "ceremonies",
+      "exhibitions",
+      "conferences",
+      "concerts",
+      "inventions",
+      "miracles",
+      "processes",
+      "phenomena",
+      "measures"
+    ]
+  },
+  {
+    "sentence": "A good government official has to [MASK] the temptation of money and make the right decision.",
+    "answer": "resist",
+    "distractors": [
+      "consist",
+      "insist",
+      "persist"
+    ],
+    "generated": [
+      "abandon",
+      "ignore",
+      "accept",
+      "avoid",
+      "deny",
+      "refuse",
+      "permit",
+      "offer",
+      "reduce",
+      "reject",
+      "prevent",
+      "overcome"
+    ]
+  },
+  {
+    "sentence": "The drug dealer was [MASK] by the police while he was selling cocaine to a high school student.",
+    "answer": "arrested",
+    "distractors": [
+      "threatened",
+      "endangered",
+      "demonstrated"
+    ],
+    "generated": [
+      "dismissed",
+      "threatened",
+      "blamed",
+      "warned",
+      "charged",
+      "accused",
+      "controlled",
+      "punished",
+      "defeated",
+      "recognized",
+      "promoted",
+      "praised"
+    ]
+  },
+  {
+    "sentence": "The rise of oil prices made scientists search for new energy resources to [MASK] oil.",
+    "answer": "replace",
+    "distractors": [
+      "apply",
+      "inform",
+      "persuade"
+    ],
+    "generated": [
+      "avoid",
+      "protect",
+      "destroy",
+      "provide",
+      "develop",
+      "increase",
+      "attract",
+      "preserve",
+      "harvest",
+      "supply",
+      "create",
+      "analyze"
+    ]
+  },
+  {
+    "sentence": "Without much contact with the outside world for many years, John found many technological inventions [MASK] to him.",
+    "answer": "foreign",
+    "distractors": [
+      "natural",
+      "common",
+      "objective"
+    ],
+    "generated": [
+      "wrong",
+      "dangerous",
+      "terrible",
+      "central",
+      "popular",
+      "traditional",
+      "different",
+      "local",
+      "similar",
+      "special",
+      "valuable",
+      "personal"
+    ]
+  },
+  {
+    "sentence": "The medicine you take for a cold may cause [MASK]; try not to drive after you take it.",
+    "answer": "drowsiness",
+    "distractors": [
+      "incident",
+      "violence",
+      "bacteria"
+    ],
+    "generated": [
+      "sickness",
+      "accidents",
+      "difficulties",
+      "violence",
+      "accident",
+      "disaster",
+      "headache",
+      "disappointment",
+      "loneliness",
+      "diseases",
+      "discomfort",
+      "suffering"
+    ]
+  },
+  {
+    "sentence": "To gain more [MASK], some legislators would get into violent physical fights so that they may appear in TV news reports.",
+    "answer": "publicity",
+    "distractors": [
+      "reputation",
+      "significance",
+      "communication"
+    ],
+    "generated": [
+      "benefits",
+      "popularity",
+      "advantages",
+      "competition",
+      "achievement",
+      "recognition",
+      "reputation",
+      "expectation",
+      "opportunity",
+      "advantage",
+      "benefit",
+      "entertainment"
+    ]
+  },
+  {
+    "sentence": "To live an efficient life, we have to arrange the things to do in order of [MASK] and start with the most important ones.",
+    "answer": "priority",
+    "distractors": [
+      "authority",
+      "regularity",
+      "security"
+    ],
+    "generated": [
+      "operation",
+      "communication",
+      "benefit",
+      "advantage",
+      "situation",
+      "concept",
+      "research",
+      "preparation",
+      "achievement",
+      "confidence",
+      "responsibility",
+      "suggestion"
+    ]
+  },
+  {
+    "sentence": "I called the airline to [MASK] my flight reservation a week before I left for Canada.",
+    "answer": "confirm",
+    "distractors": [
+      "expand",
+      "attach",
+      "strengthen"
+    ],
+    "generated": [
+      "cancel",
+      "announce",
+      "refuse",
+      "request",
+      "reserve",
+      "inform",
+      "arrange",
+      "discuss",
+      "offer",
+      "provide",
+      "review",
+      "accept"
+    ]
+  },
+  {
+    "sentence": "In order to write a report on stars, we decided to [MASK] the stars in the sky every night.",
+    "answer": "observe",
+    "distractors": [
+      "design",
+      "seize",
+      "quote"
+    ],
+    "generated": [
+      "travel",
+      "overlook",
+      "destroy",
+      "shine",
+      "disturb",
+      "receive",
+      "search",
+      "analyze",
+      "admire",
+      "avoid",
+      "ignore",
+      "praise"
+    ]
+  },
+  {
+    "sentence": "Julie wants to buy a [MASK] computer so that she can carry it around when she travels.",
+    "answer": "portable",
+    "distractors": [
+      "memorable",
+      "predictable",
+      "readable"
+    ],
+    "generated": [
+      "reliable",
+      "luxurious",
+      "technical",
+      "stable",
+      "fragile",
+      "scientific",
+      "practical",
+      "unique",
+      "professional",
+      "attractive",
+      "mobile",
+      "casual"
+    ]
+  },
+  {
+    "sentence": "My grandmother likes to surprise people. She never calls [MASK] to inform us of her visits.",
+    "answer": "beforehand",
+    "distractors": [
+      "anyhow",
+      "originally",
+      "consequently"
+    ],
+    "generated": [
+      "adolescents",
+      "journalist",
+      "recommend",
+      "destination",
+      "specialists",
+      "journalists",
+      "acknowledge",
+      "reminder",
+      "alongside",
+      "residents",
+      "boundaries",
+      "likewise"
+    ]
+  },
+  {
+    "sentence": "As the tallest building in the world, Taipei 101 has become a new [MASK] of Taipei City.",
+    "answer": "landmark",
+    "distractors": [
+      "incident",
+      "geography",
+      "skylight"
+    ],
+    "generated": [
+      "cinema",
+      "district",
+      "sculpture",
+      "attraction",
+      "downtown",
+      "neighborhood",
+      "advertisement",
+      "information",
+      "designer",
+      "exhibition",
+      "palace",
+      "collection"
+    ]
+  },
+  {
+    "sentence": "Many scholars and experts from all over the world will be invited to attend this yearly [MASK] on drug control.",
+    "answer": "conference",
+    "distractors": [
+      "reference",
+      "intention",
+      "interaction"
+    ],
+    "generated": [
+      "adventure",
+      "celebration",
+      "expedition",
+      "ceremony",
+      "disaster",
+      "entertainment",
+      "operation",
+      "competition",
+      "experiment",
+      "lectures",
+      "anniversary",
+      "negotiation"
+    ]
+  },
+  {
+    "sentence": "John had failed to pay his phone bills for months, so his telephone was [MASK] last week.",
+    "answer": "disconnected",
+    "distractors": [
+      "interrupted",
+      "excluded",
+      "discriminated"
+    ],
+    "generated": [
+      "overlooked",
+      "established",
+      "transformed",
+      "criticized",
+      "constructed",
+      "frustrated",
+      "astonished",
+      "concentrated",
+      "recommended",
+      "accumulated",
+      "discouraged",
+      "distinguished"
+    ]
+  },
+  {
+    "sentence": "The organic food products are made of natural ingredients, with no [MASK] flavors added.",
+    "answer": "artificial",
+    "distractors": [
+      "accurate",
+      "regular",
+      "superficial"
+    ],
+    "generated": [
+      "physical",
+      "professional",
+      "technical",
+      "temporary",
+      "practical",
+      "abnormal",
+      "creative",
+      "potential",
+      "acceptable",
+      "appropriate",
+      "flexible",
+      "essential"
+    ]
+  },
+  {
+    "sentence": "Jessica is a very religious girl; she believes that she is always [MASK] supported by her god.",
+    "answer": "spiritually",
+    "distractors": [
+      "typically",
+      "historically",
+      "officially"
+    ],
+    "generated": [
+      "occasionally",
+      "frequently",
+      "fortunately",
+      "emotionally",
+      "constantly",
+      "absolutely",
+      "eventually",
+      "physically",
+      "consequently",
+      "desperately",
+      "anxiously",
+      "violently"
+    ]
+  },
+  {
+    "sentence": "Jane usually buys things on [MASK]. Her purchases seem to be driven by some sudden force or desire.",
+    "answer": "impulse",
+    "distractors": [
+      "accident",
+      "compliment",
+      "justification"
+    ],
+    "generated": [
+      "caution",
+      "satisfaction",
+      "negotiation",
+      "medication",
+      "determination",
+      "anxiety",
+      "volunteer",
+      "enthusiasm",
+      "instinct",
+      "intelligence",
+      "charity",
+      "convenience"
+    ]
+  },
+  {
+    "sentence": "The week-long rainfall has [MASK] landslides and flooding in the mountain areas.",
+    "answer": "broughtabout",
+    "distractors": [
+      "setabout",
+      "comeabout",
+      "putabout"
+    ],
+    "generated": [
+      "encountered",
+      "surrounded",
+      "disappointed",
+      "encouraged",
+      "influenced",
+      "strengthened",
+      "controlled",
+      "discovered",
+      "interrupted",
+      "accumulated",
+      "distributed",
+      "unexpected"
+    ]
+  },
+  {
+    "sentence": "In the cross-lake swimming race, a boat will be [MASK] in case of an emergency.",
+    "answer": "standingby",
+    "distractors": [
+      "turningon",
+      "gettingon",
+      "runningdown"
+    ],
+    "generated": [
+      "disappearing",
+      "crashing",
+      "breaking",
+      "visiting",
+      "sweeping",
+      "struggling",
+      "boarding",
+      "floating",
+      "launching",
+      "arriving",
+      "climbing",
+      "repairing"
+    ]
+  },
+  {
+    "sentence": "The ground is slippery. Hold onto the rope and don\u2019t [MASK].",
+    "answer": "letgo",
+    "distractors": [
+      "putoff",
+      "turnup",
+      "takeapart"
+    ],
+    "generated": [
+      "rush",
+      "drop",
+      "fall",
+      "dance",
+      "cry",
+      "hurry",
+      "run",
+      "break",
+      "escape",
+      "work",
+      "sing",
+      "start"
+    ]
+  },
+  {
+    "sentence": "[MASK] the weather, the athletic meetings will be held on time.",
+    "answer": "Regardless of",
+    "distractors": [
+      "Instead of",
+      "In relation to",
+      "On behalf of"
+    ],
+    "generated": [
+      "on",
+      "beyond",
+      "in",
+      "acknowledge",
+      "with",
+      "through",
+      "for",
+      "since",
+      "besides",
+      "without"
+    ]
+  },
+  {
+    "sentence": "If people keep polluting the rivers, no fish there will survive [MASK].",
+    "answer": "in the long run",
+    "distractors": [
+      "at all cost",
+      "for a long while",
+      "by no means"
+    ],
+    "generated": [
+      "slowly",
+      "in",
+      "again",
+      "happily",
+      "fast",
+      "away",
+      "quietly",
+      "alone",
+      "here",
+      "quickly"
+    ]
+  }
+]

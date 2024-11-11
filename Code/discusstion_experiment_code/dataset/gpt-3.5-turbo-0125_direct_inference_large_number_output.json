@@ -1,0 +1,1952 @@
+[
+  {
+    "sentence": "Posters of the local rock band were displayed in store windows to promote the sale of their [MASK] tickets.",
+    "answer": "concert",
+    "distractors": [
+      "journey",
+      "traffic",
+      "record"
+    ],
+    "llm_response": "1. album\n2. merchandise\n3. tour\n4. performance\n5. show\n6. gig\n7. event\n8. music\n9. festival\n10. live\n11. band\n12. stage\n13. venue\n14. artist\n15. song\n16. crowd\n17. audience\n18. fan\n19. rock\n20. group\n21. singer\n22. musician\n23. playlist\n24. setlist\n25. ticket\n26. poster\n27. promotion\n28. advertisement\n29. flyer\n30. billboard"
+  },
+  {
+    "sentence": "Maria didn\u2019t want to deliver the bad news to David about his failing the job interview. She herself was quite [MASK] about it.",
+    "answer": "upset",
+    "distractors": [
+      "awful",
+      "drowsy",
+      "tragic"
+    ],
+    "llm_response": "1. disappointed\n2. devastated\n3. heartbroken\n4. crushed\n5. distraught\n6. saddened\n7. troubled\n8. distressed\n9. disheartened\n10. despondent\n11. gloomy\n12. miserable\n13. sorrowful\n14. dejected\n15. crestfallen\n16. melancholy\n17. forlorn\n18. downcast\n19. blue\n20. somber\n21. pained\n22. anguished\n23. wistful\n24. regretful\n25. mournful\n26. woeful\n27. melancholic\n28. glum\n29. disconsolate\n30. crestfallen"
+  },
+  {
+    "sentence": "The newcomer speaks with a strong Irish [MASK]; he must be from Ireland.",
+    "answer": "accent",
+    "distractors": [
+      "identity",
+      "gratitude",
+      "signature"
+    ],
+    "llm_response": "1. brogue\n2. lilt\n3. twang\n4. drawl\n5. dialect\n6. intonation\n7. inflection\n8. tone\n9. speech\n10. pronunciation\n11. articulation\n12. voice\n13. cadence\n14. accentuation\n15. modulation\n16. delivery\n17. enunciation\n18. emphasis\n19. pitch\n20. timbre\n21. resonance\n22. style\n23. manner\n24. way\n25. sound\n26. vocalization\n27. phrasing\n28. rhythm\n29. fluency\n30. diction"
+  },
+  {
+    "sentence": "Although Maggie has been physically [MASK] to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+    "answer": "confined",
+    "distractors": [
+      "ceased",
+      "committed",
+      "conveyed"
+    ],
+    "llm_response": "1. restricted\n2. bound\n3. limited\n4. constrained\n5. imprisoned\n6. trapped\n7. shackled\n8. encumbered\n9. hindered\n10. incapacitated\n11. immobilized\n12. stuck\n13. handicapped\n14. impeded\n15. hampered\n16. curtailed\n17. tethered\n18. fettered\n19. caged\n20. jailed\n21. ensnared\n22. ensnared\n23. obstructed\n24. blocked\n25. obstructed\n26. hamstrung\n27. stymied\n28. thwarted\n29. stunted\n30. stymied"
+  },
+  {
+    "sentence": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of [MASK] in case of an accident.",
+    "answer": "injury",
+    "distractors": [
+      "offense",
+      "sacrifice",
+      "victim"
+    ],
+    "llm_response": "1. death\n2. harm\n3. trauma\n4. damage\n5. wounds\n6. casualties\n7. fractures\n8. pain\n9. suffering\n10. concussions\n11. disabilities\n12. lacerations\n13. bruises\n14. contusions\n15. sprains\n16. strains\n17. whiplash\n18. internal bleeding\n19. paralysis\n20. dislocations\n21. burns\n22. scars\n23. disabilities\n24. amputations\n25. infections\n26. disabilities\n27. disabilities\n28. disabilities\n29. disabilities\n30. disabilities"
+  },
+  {
+    "sentence": "The principal of this school is a man of exceptional [MASK]. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+    "answer": "generosity",
+    "distractors": [
+      "security",
+      "maturity",
+      "facility"
+    ],
+    "llm_response": "1. kindness\n2. compassion\n3. altruism\n4. benevolence\n5. charity\n6. empathy\n7. philanthropy\n8. magnanimity\n9. selflessness\n10. munificence\n11. liberality\n12. largesse\n13. graciousness\n14. humanity\n15. goodwill\n16. giving\n17. big-heartedness\n18. open-handedness\n19. munificence\n20. bountifulness\n21. liberality\n22. bounty\n23. magnanimity\n24. unselfishness\n25. beneficence\n26. compassion\n27. empathy\n28. sympathy\n29. understanding\n30. warmth"
+  },
+  {
+    "sentence": "The science teacher always [MASK] the use of the laboratory equipment before she lets her students use it on their own.",
+    "answer": "demonstrates",
+    "distractors": [
+      "tolerates",
+      "associates",
+      "exaggerates"
+    ],
+    "llm_response": "1. explains\n2. models\n3. illustrates\n4. showcases\n5. teaches\n6. displays\n7. exhibits\n8. presents\n9. trains\n10. instructs\n11. guides\n12. shows\n13. clarifies\n14. indicates\n15. educates\n16. reveals\n17. exemplifies\n18. coaches\n19. trains\n20. tutors\n21. mentors\n22. advises\n23. directs\n24. leads\n25. informs\n26. briefs\n27. familiarizes\n28. acquaints\n29. introduces\n30. initiates"
+  },
+  {
+    "sentence": "Most of the area is covered by woods, where bird species are so [MASK] that it is a paradise for birdwatchers.",
+    "answer": "numerous",
+    "distractors": [
+      "durable",
+      "private",
+      "realistic"
+    ],
+    "llm_response": "1. abundant\n2. plentiful\n3. diverse\n4. varied\n5. copious\n6. extensive\n7. profuse\n8. multitudinous\n9. myriad\n10. countless\n11. innumerable\n12. manifold\n13. vast\n14. legion\n15. bountiful\n16. teeming\n17. overflowing\n18. rich\n19. ample\n20. crowded\n21. crowded\n22. numerous\n23. many\n24. multiple\n25. various\n26. different\n27. assorted\n28. myriad\n29. uncountable\n30. innumerable"
+  },
+  {
+    "sentence": "In most cases, the committee members can reach agreement quickly. [MASK],  however, they differ greatly in opinion and have a hard time making decisions. ",
+    "answer": "Occasionally",
+    "distractors": [
+      "Automatically",
+      "Enormously",
+      "Innocently"
+    ],
+    "llm_response": "1. Rarely\n2. Seldom\n3. Infrequently\n4. Once in a while\n5. Sporadically\n6. From time to time\n7. Every now and then\n8. At times\n9. Periodically\n10. Now and again\n11. Intermittently\n12. Inconsistently\n13. Randomly\n14. Erratically\n15. Unpredictably\n16. Scarcely\n17. Scantly\n18. Meagerly\n19. Scarcely ever\n20. Hardly ever\n21. Almost never\n22. Scarcely ever\n23. Rarely ever\n24. Almost never\n25. Hardly ever\n26. Scarcely ever\n27. Rarely ever\n28. Almost never\n29. Hardly ever\n30. Scarcely ever"
+  },
+  {
+    "sentence": "Many people try to save a lot of money before [MASK], since having enough money would give them a sense of security for their future.",
+    "answer": "retirement",
+    "distractors": [
+      "isolation",
+      "promotion",
+      "announcement"
+    ],
+    "llm_response": "1. vacation\n2. graduation\n3. wedding\n4. investment\n5. emergency\n6. renovation\n7. milestone\n8. celebration\n9. relocation\n10. purchase\n11. anniversary\n12. transition\n13. advancement\n14. education\n15. promotion\n16. project\n17. goal\n18. achievement\n19. milestone\n20. event\n21. journey\n22. endeavor\n23. endeavor\n24. accomplishment\n25. occasion\n26. task\n27. challenge\n28. objective\n29. aspiration\n30. dream"
+  },
+  {
+    "sentence": "In winter, our skin tends to become dry and [MASK], a problem which is usually treated by applying lotions or creams.",
+    "answer": "itchy",
+    "distractors": [
+      "alert",
+      "steady",
+      "flexible"
+    ],
+    "llm_response": "1. flaky\n2. irritated\n3. rough\n4. cracked\n5. scaly\n6. sensitive\n7. inflamed\n8. chapped\n9. peeling\n10. tight\n11. prickly\n12. uncomfortable\n13. rashy\n14. stinging\n15. burning\n16. raw\n17. blistered\n18. sore\n19. tender\n20. painful\n21. cracked\n22. scabbed\n23. bumpy\n24. blotchy\n25. tingling\n26. prickly\n27. throbbing\n28. swollen\n29. red\n30. peeling"
+  },
+  {
+    "sentence": "Benson married Julie soon after he had [MASK] her heart and gained her parents\u2019 approval. ",
+    "answer": "conquered",
+    "distractors": [
+      "estimated",
+      "guaranteed",
+      "intensified"
+    ],
+    "llm_response": "1. captured\n2. won\n3. stolen\n4. secured\n5. seized\n6. claimed\n7. overpowered\n8. dominated\n9. triumphed\n10. vanquished\n11. overcame\n12. subjugated\n13. overwhelmed\n14. subdued\n15. defeated\n16. impressed\n17. charmed\n18. enchanted\n19. captivated\n20. mesmerized\n21. bewitched\n22. entranced\n23. ensnared\n24. ensnared\n25. captivated\n26. infatuated\n27. wooed\n28. allured\n29. enticed\n30. lured"
+  },
+  {
+    "sentence": "The recent flood completely [MASK] my parents\u2019 farm. The farmhouse and fruit trees were all gone and nothing was left.",
+    "answer": "ruined",
+    "distractors": [
+      "cracked",
+      "hastened",
+      "neglected"
+    ],
+    "llm_response": "1. destroyed\n2. devastated\n3. wrecked\n4. demolished\n5. ravaged\n6. decimated\n7. obliterated\n8. damaged\n9. submerged\n10. flooded\n11. washed away\n12. ruined\n13. desolated\n14. annihilated\n15. eradicated\n16. leveled\n17. crushed\n18. shattered\n19. spoiled\n20. wrecked\n21. impaired\n22. harmed\n23. marred\n24. blighted\n25. desecrated\n26. disintegrated\n27. extinguished\n28. extinguished\n29. razed\n30. obliterated"
+  },
+  {
+    "sentence": "The results of this survey are not reliable because the people it questioned were not a typical or [MASK] sample of the entire population that was studied.",
+    "answer": "representative",
+    "distractors": [
+      "primitive",
+      "spiritual",
+      "informative"
+    ],
+    "llm_response": "1. accurate\n2. diverse\n3. random\n4. biased\n5. limited\n6. specific\n7. selected\n8. exclusive\n9. varied\n10. incomplete\n11. unrepresentative\n12. atypical\n13. inadequate\n14. nonstandard\n15. unusual\n16. abnormal\n17. peculiar\n18. unconventional\n19. irregular\n20. unique\n21. different\n22. particular\n23. exclusive\n24. uncharacteristic\n25. exceptional\n26. singular\n27. deviant\n28. eccentric\n29. idiosyncratic\n30. nonconforming"
+  },
+  {
+    "sentence": "In line with the worldwide green movement, carmakers have been working hard to make their new models more [MASK] friendly to reduce pollution. ",
+    "answer": "environmentally",
+    "distractors": [
+      "liberally",
+      "individually",
+      "financially"
+    ],
+    "llm_response": "1. sustainable\n2. eco-friendly\n3. green\n4. earth-conscious\n5. planet-friendly\n6. environmentally-conscious\n7. carbon-neutral\n8. biodiverse\n9. climate-friendly\n10. ozone-friendly\n11. energy-efficient\n12. renewable\n13. biodegradable\n14. conservationist\n15. earth-friendly\n16. pollution-free\n17. green-minded\n18. nature-loving\n19. environmentally-responsible\n20. clean\n21. organic\n22. low-impact\n23. wildlife-friendly\n24. green-living\n25. eco-conscious\n26. earth-saving\n27. environmentally-aware\n28. sustainable-minded\n29. environmentally-sound\n30. conservation-conscious"
+  },
+  {
+    "sentence": "Nowadays many companies adopt a [MASK] work schedule which allows their employees to decide when to arrive at work\u2014from as early as 6 a.m. to as late as 11 a.m.",
+    "answer": "flexible",
+    "distractors": [
+      "relative",
+      "severe",
+      "primitive"
+    ],
+    "llm_response": "1. adjustable\n2. variable\n3. adaptable\n4. lenient\n5. unrestricted\n6. versatile\n7. permissive\n8. changeable\n9. modifiable\n10. pliable\n11. open-ended\n12. lenient\n13. accommodating\n14. fluid\n15. unrestrictive\n16. free-flowing\n17. unbounded\n18. unconfined\n19. unhampered\n20. unimpeded\n21. unobstructed\n22. untrammeled\n23. unbridled\n24. uncontrolled\n25. unregulated\n26. unbounded\n27. unconfined\n28. unhampered\n29. unimpeded\n30. unobstructed"
+  },
+  {
+    "sentence": "To teach children right from wrong, some parents will [MASK] their children when they behave well and punish them when they misbehave.",
+    "answer": "reward",
+    "distractors": [
+      "settle",
+      "declare",
+      "neglect"
+    ],
+    "llm_response": "1. prize\n2. incentive\n3. treat\n4. gift\n5. bonus\n6. award\n7. benefit\n8. compensation\n9. gratification\n10. recompense\n11. remuneration\n12. bounty\n13. premium\n14. token\n15. acknowledgment\n16. recognition\n17. accolade\n18. trophy\n19. medal\n20. honor\n21. privilege\n22. favor\n23. boon\n24. blessing\n25. advantage\n26. gain\n27. profit\n28. merit\n29. praise\n30. commendation"
+  },
+  {
+    "sentence": "To stick to a tight budget, Robert bought a more [MASK] LED TV instead of a fancy, expensive 3D TV.",
+    "answer": "affordable",
+    "distractors": [
+      "technical",
+      "significant",
+      "expressive"
+    ],
+    "llm_response": "1. basic\n2. economical\n3. budget-friendly\n4. cheap\n5. cost-effective\n6. reasonable\n7. low-cost\n8. thrifty\n9. modest\n10. inexpensive\n11. pocket-friendly\n12. entry-level\n13. discounted\n14. cut-rate\n15. bargain\n16. reduced\n17. value\n18. frugal\n19. low-priced\n20. competitive\n21. economic\n22. sale\n23. markdown\n24. promotional\n25. cut-price\n26. slashed\n27. discounted\n28. cut-rate\n29. marked down\n30. on sale"
+  },
+  {
+    "sentence": "David\u2019s new book made it to the best-seller list because of its beautiful [MASK] and amusing stories.",
+    "answer": "illustrations",
+    "distractors": [
+      "operations",
+      "engagements",
+      "accomplishment"
+    ],
+    "llm_response": "1. cover\n2. characters\n3. plot\n4. design\n5. artwork\n6. drawings\n7. images\n8. sketches\n9. graphics\n10. paintings\n11. photographs\n12. visuals\n13. cartoons\n14. depictions\n15. pictures\n16. compositions\n17. illustrations\n18. diagrams\n19. renderings\n20. portraits\n21. animations\n22. doodles\n23. sketches\n24. caricatures\n25. figures\n26. motifs\n27. patterns\n28. symbols\n29. icons\n30. logos"
+  },
+  {
+    "sentence": "The airport was closed because of the snowstorm, and our [MASK] for Paris had to be delayed until the following day.",
+    "answer": "departure",
+    "distractors": [
+      "movement",
+      "registration",
+      "tendency"
+    ],
+    "llm_response": "1. arrival\n2. flight\n3. journey\n4. takeoff\n5. trip\n6. vacation\n7. departure\n8. excursion\n9. tour\n10. expedition\n11. transfer\n12. outing\n13. commute\n14. travel\n15. departure\n16. delay\n17. cancellation\n18. rescheduling\n19. wait\n20. holdup\n21. setback\n22. interruption\n23. hindrance\n24. obstacle\n25. barrier\n26. blockage\n27. obstruction\n28. stoppage\n29. pause\n30. halt"
+  },
+  {
+    "sentence": "The moment the students felt the earthquake, they ran [MASK] out of the classroom to an open area outside.",
+    "answer": "swiftly",
+    "distractors": [
+      "nearly",
+      "loosely",
+      "formally"
+    ],
+    "llm_response": "1. quickly\n2. rapidly\n3. speedily\n4. hastily\n5. promptly\n6. briskly\n7. suddenly\n8. urgently\n9. immediately\n10. expeditiously\n11. fleetly\n12. hurriedly\n13. abruptly\n14. swiftly\n15. hastily\n16. promptly\n17. rapidly\n18. speedily\n19. briskly\n20. urgently\n21. quickly\n22. expeditiously\n23. fleetly\n24. hurriedly\n25. abruptly\n26. suddenly\n27. immediately\n28. hastily\n29. promptly\n30. rapidly"
+  },
+  {
+    "sentence": "The [MASK] capacity of this elevator is 400 kilograms. For safety reasons, it shouldn\u2019t be overloaded.",
+    "answer": "maximum",
+    "distractors": [
+      "delicate",
+      "automatic",
+      "essential"
+    ],
+    "llm_response": "1. minimum\n2. optimal\n3. recommended\n4. safe\n5. limit\n6. maximum\n7. threshold\n8. restricted\n9. capacity\n10. weight\n11. load\n12. allowance\n13. maximum\n14. limit\n15. restriction\n16. boundary\n17. ceiling\n18. cap\n19. top\n20. peak\n21. ultimate\n22. highest\n23. extreme\n24. upper\n25. topmost\n26. greatest\n27. full\n28. total\n29. highest\n30. top limit"
+  },
+  {
+    "sentence": "An open display of [MASK] behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+    "answer": "intimate",
+    "distractors": [
+      "ashamed",
+      "earnest",
+      "urgent"
+    ],
+    "llm_response": "1. romantic\n2. affectionate\n3. personal\n4. close\n5. private\n6. loving\n7. physical\n8. emotional\n9. tender\n10. passionate\n11. amorous\n12. cozy\n13. warm\n14. sensual\n15. intimate\n16. familiar\n17. friendly\n18. caring\n19. attached\n20. devoted\n21. deep\n22. special\n23. close-knit\n24. confidential\n25. secretive\n26. exclusive\n27. discreet\n28. personal\n29. cozy\n30. warm"
+  },
+  {
+    "sentence": "When taking medicine, we should read the instructions on the [MASK] carefully because they provide important information such as how and when to take it.",
+    "answer": "labels",
+    "distractors": [
+      "medals",
+      "quotes",
+      "recipes"
+    ],
+    "llm_response": "1. packaging\n2. prescriptions\n3. warnings\n4. dosage\n5. leaflet\n6. pamphlet\n7. guidelines\n8. directions\n9. precautions\n10. ingredients\n11. side effects\n12. expiration date\n13. storage\n14. administration\n15. cautions\n16. contraindications\n17. safety\n18. information\n19. details\n20. recommendations\n21. advice\n22. precautions\n23. dosage schedule\n24. usage\n25. contraindications\n26. expiration\n27. administration\n28. storage instructions\n29. dosage information\n30. safety precautions"
+  },
+  {
+    "sentence": "The angry passengers argued [MASK] with the airline staff because their flight was cancelled without any reason.",
+    "answer": "furiously",
+    "distractors": [
+      "evidently",
+      "obediently",
+      "suspiciously"
+    ],
+    "llm_response": "1. aggressively\n2. vehemently\n3. fiercely\n4. passionately\n5. irately\n6. heatedly\n7. vigorously\n8. intensely\n9. angrily\n10. explosively\n11. violently\n12. wrathfully\n13. resentfully\n14. indignantly\n15. fiercely\n16. fiercely\n17. fiercely\n18. fiercely\n19. fiercely\n20. fiercely\n21. fiercely\n22. fiercely\n23. fiercely\n24. fiercely\n25. fiercely\n26. fiercely\n27. fiercely\n28. fiercely\n29. fiercely\n30. fiercely"
+  },
+  {
+    "sentence": "To [MASK] the new product, the company offered some free samples before they officially launched it.",
+    "answer": "promote",
+    "distractors": [
+      "contribute",
+      "impress",
+      "estimate"
+    ],
+    "llm_response": "1. advertise\n2. market\n3. publicize\n4. showcase\n5. introduce\n6. endorse\n7. push\n8. boost\n9. present\n10. unveil\n11. display\n12. demonstrate\n13. exhibit\n14. distribute\n15. circulate\n16. share\n17. reveal\n18. launch\n19. announce\n20. broadcast\n21. televise\n22. sponsor\n23. endorse\n24. advocate\n25. champion\n26. support\n27. hype\n28. pitch\n29. sell\n30. peddle"
+  },
+  {
+    "sentence": "I was worried about my first overseas trip, but my father [MASK] me that he would help plan the trip so that nothing would go wrong.",
+    "answer": "assured",
+    "distractors": [
+      "rescued",
+      "inspired",
+      "conveyed"
+    ],
+    "llm_response": "1. guaranteed\n2. promised\n3. reassured\n4. confirmed\n5. convinced\n6. affirmed\n7. comforted\n8. pledged\n9. vowed\n10. declared\n11. supported\n12. ensured\n13. affirmed\n14. convinced\n15. guaranteed\n16. promised\n17. reassured\n18. confirmed\n19. comforted\n20. pledged\n21. vowed\n22. declared\n23. supported\n24. ensured\n25. affirmed\n26. convinced\n27. guaranteed\n28. promised\n29. reassured\n30. confirmed"
+  },
+  {
+    "sentence": "The recent cooking oil scandals have led to calls for tougher [MASK] of sales of food products.",
+    "answer": "regulation",
+    "distractors": [
+      "tolerance",
+      "guarantee",
+      "distribution"
+    ],
+    "llm_response": "1. monitoring\n2. enforcement\n3. oversight\n4. supervision\n5. control\n6. management\n7. governance\n8. restriction\n9. inspection\n10. compliance\n11. guidelines\n12. rules\n13. legislation\n14. standards\n15. authority\n16. scrutiny\n17. protocol\n18. regime\n19. administration\n20. jurisdiction\n21. limitation\n22. order\n23. policy\n24. direction\n25. command\n26. restraint\n27. check\n28. constraint\n29. requirement\n30. mandate"
+  },
+  {
+    "sentence": "John should [MASK] more often with his friends and family after work, instead of staying in his room to play computer games.",
+    "answer": "interact",
+    "distractors": [
+      "explore",
+      "negotiate",
+      "participate"
+    ],
+    "llm_response": "1. socialize\n2. communicate\n3. engage\n4. connect\n5. mingle\n6. bond\n7. fraternize\n8. mix\n9. associate\n10. relate\n11. converse\n12. collaborate\n13. network\n14. meet\n15. interact\n16. hang out\n17. spend time\n18. communicate\n19. get together\n20. socialize\n21. engage\n22. connect\n23. bond\n24. fraternize\n25. mix\n26. associate\n27. relate\n28. converse\n29. collaborate\n30. network"
+  },
+  {
+    "sentence": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola [MASK] for passengers from the infected areas.",
+    "answer": "screenings",
+    "distractors": [
+      "listings",
+      "clippings",
+      "blockings"
+    ],
+    "llm_response": "1. vaccinations\n2. quarantines\n3. tests\n4. checks\n5. precautions\n6. measures\n7. protocols\n8. procedures\n9. controls\n10. restrictions\n11. guidelines\n12. examinations\n13. precautions\n14. scans\n15. precautions\n16. evaluations\n17. precautions\n18. precautions\n19. precautions\n20. precautions\n21. precautions\n22. precautions\n23. precautions\n24. precautions\n25. precautions\n26. precautions\n27. precautions\n28. precautions\n29. precautions\n30. precautions"
+  },
+  {
+    "sentence": "Lost and scared, the little dog [MASK] along the streets, looking for its master. ",
+    "answer": "wandered",
+    "distractors": [
+      "dismissed",
+      "glided",
+      "marched"
+    ],
+    "llm_response": "1. roamed\n2. meandered\n3. strayed\n4. trotted\n5. wandered\n6. strolled\n7. ambled\n8. sauntered\n9. paced\n10. traipsed\n11. rambled\n12. journeyed\n13. hiked\n14. roved\n15. drifted\n16. scurried\n17. scuttled\n18. scampered\n19. galloped\n20. sprinted\n21. dashed\n22. raced\n23. hurried\n24. crept\n25. prowled\n26. slinked\n27. sneaked\n28. tiptoed\n29. skulked\n30. lurked"
+  },
+  {
+    "sentence": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with [MASK] feet. ",
+    "answer": "bare",
+    "distractors": [
+      "raw",
+      "tough",
+      "slippery"
+    ],
+    "llm_response": "1. wet\n2. sandy\n3. muddy\n4. cold\n5. rough\n6. soft\n7. calloused\n8. blistered\n9. tired\n10. sore\n11. dirty\n12. sweaty\n13. grass-stained\n14. numb\n15. tingling\n16. itchy\n17. sunburned\n18. cracked\n19. hairy\n20. smooth\n21. sensitive\n22. ticklish\n23. wrinkled\n24. swollen\n25. bruised\n26. discolored\n27. freckled\n28. hairy\n29. stubbly\n30. tanned"
+  },
+  {
+    "sentence": "It is both legally and [MASK] wrong to spread rumors about other people on the Internet.",
+    "answer": "morally",
+    "distractors": [
+      "physically",
+      "literarily",
+      "commercially"
+    ],
+    "llm_response": "1. ethically\n2. socially\n3. ethically\n4. justly\n5. honorably\n6. righteously\n7. virtuously\n8. properly\n9. decently\n10. appropriately\n11. respectably\n12. correctly\n13. righteously\n14. honorably\n15. justly\n16. virtuously\n17. properly\n18. decently\n19. appropriately\n20. respectably\n21. correctly\n22. righteously\n23. honorably\n24. justly\n25. virtuously\n26. properly\n27. decently\n28. appropriately\n29. respectably\n30. correctly"
+  },
+  {
+    "sentence": "These warm-up exercises are designed to help people [MASK] their muscles and prevent injuries.",
+    "answer": "loosen",
+    "distractors": [
+      "produce",
+      "connect",
+      "broaden"
+    ],
+    "llm_response": "1. tighten\n2. stretch\n3. strengthen\n4. relax\n5. warm\n6. flex\n7. contract\n8. release\n9. limber\n10. tone\n11. condition\n12. prepare\n13. stiffen\n14. work\n15. engage\n16. cool down\n17. warm down\n18. cool\n19. activate\n20. mobilize\n21. invigorate\n22. energize\n23. prime\n24. ready\n25. limber up\n26. flex\n27. extend\n28. lengthen\n29. unwind\n30. ease"
+  },
+  {
+    "sentence": "Mei-ling has a very close relationship with her parents. She always [MASK] them before she makes important decisions.",
+    "answer": "consults",
+    "distractors": [
+      "impresses",
+      "advises",
+      "motivates"
+    ],
+    "llm_response": "1. confides\n2. seeks\n3. discusses\n4. informs\n5. updates\n6. notifies\n7. involves\n8. engages\n9. confers\n10. communicates\n11. shares\n12. debates\n13. deliberates\n14. considers\n15. asks\n16. requests\n17. queries\n18. questions\n19. consults\n20. advises\n21. informs\n22. updates\n23. notifies\n24. involves\n25. engages\n26. confers\n27. communicates\n28. shares\n29. debates\n30. deliberates"
+  },
+  {
+    "sentence": "The restaurant has a [MASK] charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+    "answer": "minimum",
+    "distractors": [
+      "definite",
+      "flexible",
+      "numerous"
+    ],
+    "llm_response": "1. maximum\n2. fixed\n3. mandatory\n4. required\n5. set\n6. standard\n7. compulsory\n8. base\n9. threshold\n10. essential\n11. bottom\n12. lowest\n13. necessary\n14. stipulated\n15. fundamental\n16. primary\n17. basic\n18. initial\n19. starting\n20. core\n21. principal\n22. key\n23. pivotal\n24. crucial\n25. vital\n26. indispensable\n27. requisite\n28. key\n29. important\n30. significant"
+  },
+  {
+    "sentence": "At the Book Fair, exhibitors from 21 countries will [MASK] textbooks, novels, and comic books.",
+    "answer": "display",
+    "distractors": [
+      "predict",
+      "require",
+      "target"
+    ],
+    "llm_response": "1. showcase\n2. present\n3. exhibit\n4. feature\n5. demonstrate\n6. offer\n7. show\n8. unveil\n9. promote\n10. advertise\n11. reveal\n12. highlight\n13. flaunt\n14. introduce\n15. expose\n16. parade\n17. unveil\n18. present\n19. demonstrate\n20. exhibit\n21. advertise\n22. promote\n23. feature\n24. showcase\n25. unveil\n26. reveal\n27. highlight\n28. flaunt\n29. introduce\n30. parade"
+  },
+  {
+    "sentence": "Before John got on the stage to give the speech, he took a deep [MASK] to calm himself down.",
+    "answer": "breath",
+    "distractors": [
+      "order",
+      "rest",
+      "effort"
+    ],
+    "llm_response": "1. sigh\n2. gulp\n3. inhale\n4. exhale\n5. gasp\n6. wheeze\n7. pant\n8. yawn\n9. huff\n10. puff\n11. whistle\n12. snore\n13. sneeze\n14. cough\n15. choke\n16. swallow\n17. gulp\n18. sip\n19. slurp\n20. munch\n21. chew\n22. bite\n23. lick\n24. taste\n25. smell\n26. touch\n27. feel\n28. see\n29. hear\n30. speak"
+  },
+  {
+    "sentence": "Most young people in Taiwan are not satisfied with a high school [MASK] and continue to pursue further education in college. ",
+    "answer": "diploma",
+    "distractors": [
+      "maturity",
+      "foundation",
+      "guarantee"
+    ],
+    "llm_response": "1. certificate\n2. degree\n3. qualification\n4. credential\n5. document\n6. award\n7. achievement\n8. recognition\n9. proof\n10. license\n11. accreditation\n12. certification\n13. validation\n14. confirmation\n15. authorization\n16. endorsement\n17. approval\n18. permit\n19. sanction\n20. warrant\n21. attestation\n22. verification\n23. authentication\n24. testimony\n25. evidence\n26. record\n27. transcript\n28. report\n29. statement\n30. declaration"
+  },
+  {
+    "sentence": "Residents are told not to dump all household waste [MASK] into the trash can; reusable materials should first be sorted out and recycled.",
+    "answer": "straight",
+    "distractors": [
+      "shortly",
+      "forward",
+      "namely"
+    ],
+    "llm_response": "1. crooked\n2. curved\n3. twisted\n4. bent\n5. zigzag\n6. winding\n7. meandering\n8. serpentine\n9. contorted\n10. curving\n11. winding\n12. circuitous\n13. indirect\n14. roundabout\n15. sinuous\n16. convoluted\n17. labyrinthine\n18. tortuous\n19. undulating\n20. snaking\n21. spiraling\n22. coiling\n23. looping\n24. spiraling\n25. swirling\n26. twirling\n27. spinning\n28. rotating\n29. turning\n30. curving"
+  },
+  {
+    "sentence": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his [MASK] and fell to the ground.",
+    "answer": "balance",
+    "distractors": [
+      "volume",
+      "weight",
+      "direction"
+    ],
+    "llm_response": "1. grip\n2. composure\n3. stability\n4. coordination\n5. equilibrium\n6. poise\n7. control\n8. footing\n9. steadiness\n10. hold\n11. traction\n12. support\n13. firmness\n14. posture\n15. center\n16. weight\n17. stance\n18. strength\n19. foundation\n20. confidence\n21. dexterity\n22. sureness\n23. grip\n24. security\n25. steadying\n26. steadying\n27. steadying\n28. steadying\n29. steadying\n30. steadying"
+  },
+  {
+    "sentence": "If student enrollment continues to drop, some programs at the university may be [MASK] to reduce the operation costs. ",
+    "answer": "eliminated",
+    "distractors": [
+      "relieved",
+      "projected",
+      "accounted"
+    ],
+    "llm_response": "1. cut\n2. discontinued\n3. removed\n4. axed\n5. terminated\n6. abolished\n7. eradicated\n8. downsized\n9. slashed\n10. withdrawn\n11. canceled\n12. halted\n13. suspended\n14. dropped\n15. reduced\n16. trimmed\n17. curtailed\n18. diminished\n19. minimized\n20. shrunk\n21. downscaled\n22. liquidated\n23. expunged\n24. purged\n25. expunged\n26. obliterated\n27. eradicated\n28. extinguished\n29. exterminated\n30. annulled"
+  },
+  {
+    "sentence": "People in that remote village feed themselves by hunting and engaging in [MASK] forms of agriculture. No modern agricultural methods are used. ",
+    "answer": "primitive",
+    "distractors": [
+      "universal",
+      "splendid",
+      "courteous"
+    ],
+    "llm_response": "1. traditional\n2. subsistence\n3. archaic\n4. basic\n5. rudimentary\n6. outdated\n7. ancient\n8. simple\n9. old-fashioned\n10. prehistoric\n11. crude\n12. antiquated\n13. rustic\n14. unsophisticated\n15. primitive\n16. backward\n17. unrefined\n18. raw\n19. elementary\n20. underdeveloped\n21. uncivilized\n22. indigenous\n23. unadvanced\n24. primal\n25. rough\n26. unimproved\n27. undeveloped\n28. ancient\n29. unprogressive\n30. unmodernized"
+  },
+  {
+    "sentence": "The government issued a travel [MASK] for Taiwanese in response to the outbreak of civil war in Syria. ",
+    "answer": "alert",
+    "distractors": [
+      "monument",
+      "exit",
+      "circulation"
+    ],
+    "llm_response": "1. warning\n2. advisory\n3. notice\n4. caution\n5. alarm\n6. signal\n7. message\n8. communication\n9. announcement\n10. bulletin\n11. update\n12. notification\n13. advice\n14. tip\n15. heads-up\n16. alarm\n17. alertness\n18. vigilance\n19. precaution\n20. awareness\n21. preparedness\n22. readiness\n23. foresight\n24. forecast\n25. prediction\n26. hint\n27. suggestion\n28. guidance\n29. direction\n30. instruction"
+  },
+  {
+    "sentence": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was [MASK] by zookeepers for a while.",
+    "answer": "tended",
+    "distractors": [
+      "departed",
+      "jailed",
+      "captured"
+    ],
+    "llm_response": "1. cared\n2. nurtured\n3. looked after\n4. attended\n5. watched over\n6. supervised\n7. tended to\n8. raised\n9. fostered\n10. supported\n11. protected\n12. comforted\n13. soothed\n14. assisted\n15. helped\n16. guided\n17. consoled\n18. reassured\n19. befriended\n20. befitted\n21. minded\n22. managed\n23. maintained\n24. sustained\n25. upheld\n26. safeguarded\n27. shielded\n28. sheltered\n29. cherished\n30. adored"
+  },
+  {
+    "sentence": "It rained so hard yesterday that the baseball game had to be [MASK] until next Saturday.",
+    "answer": "postponed",
+    "distractors": [
+      "surrendered",
+      "abandoned",
+      "opposed"
+    ],
+    "llm_response": "1. rescheduled\n2. delayed\n3. canceled\n4. moved\n5. shifted\n6. deferred\n7. pushed back\n8. put off\n9. rescheduled\n10. rescheduled\n11. rescheduled\n12. rescheduled\n13. rescheduled\n14. rescheduled\n15. rescheduled\n16. rescheduled\n17. rescheduled\n18. rescheduled\n19. rescheduled\n20. rescheduled\n21. rescheduled\n22. rescheduled\n23. rescheduled\n24. rescheduled\n25. rescheduled\n26. rescheduled\n27. rescheduled\n28. rescheduled\n29. rescheduled\n30. rescheduled"
+  },
+  {
+    "sentence": "As more people rely on the Internet for information, it has [MASK] newspapers as the most important source of news.",
+    "answer": "replaced",
+    "distractors": [
+      "distributed",
+      "subtracted",
+      "transferred"
+    ],
+    "llm_response": "1. surpassed\n2. overtaken\n3. displaced\n4. supplanted\n5. ousted\n6. taken over\n7. outmoded\n8. outdone\n9. outstripped\n10. outpaced\n11. outshined\n12. outclassed\n13. outperformed\n14. outmatched\n15. outdistanced\n16. outmaneuvered\n17. outsmarted\n18. outwitted\n19. outfoxed\n20. outgunned\n21. outflanked\n22. outplayed\n23. outbalanced\n24. outbalanced\n25. outvied\n26. outdistanced\n27. outpaced\n28. outperformed\n29. outshone\n30. outshined"
+  },
+  {
+    "sentence": "Having saved enough money, Joy [MASK] two trips for this summer vacation, one to France and the other to Australia.",
+    "answer": "booked",
+    "distractors": [
+      "observed",
+      "enclosed",
+      "deposited"
+    ],
+    "llm_response": "1. planned\n2. arranged\n3. scheduled\n4. reserved\n5. organized\n6. purchased\n7. secured\n8. confirmed\n9. decided\n10. set up\n11. fixed\n12. established\n13. selected\n14. designated\n15. appointed\n16. prearranged\n17. contracted\n18. procured\n19. acquired\n20. bought\n21. procured\n22. obtained\n23. arranged for\n24. made arrangements for\n25. put together\n26. sorted out\n27. settled\n28. determined\n29. fixed up\n30. prebooked"
+  },
+  {
+    "sentence": "Since I do not fully understand your proposal, I am not in the position to make any [MASK] on it.",
+    "answer": "comment",
+    "distractors": [
+      "difference",
+      "solution",
+      "demand"
+    ],
+    "llm_response": "1. decision\n2. judgment\n3. assessment\n4. evaluation\n5. opinion\n6. suggestion\n7. recommendation\n8. critique\n9. analysis\n10. response\n11. viewpoint\n12. perspective\n13. observation\n14. remark\n15. feedback\n16. input\n17. criticism\n18. view\n19. thought\n20. idea\n21. impression\n22. statement\n23. reaction\n24. review\n25. interpretation\n26. conclusion\n27. notion\n28. belief\n29. consideration\n30. response"
+  },
+  {
+    "sentence": "Betty was [MASK] to accept her friend\u2019s suggestion because she thought she could come up with a better idea herself.",
+    "answer": "reluctant",
+    "distractors": [
+      "tolerable",
+      "sensitive",
+      "modest"
+    ],
+    "llm_response": "1. hesitant\n2. unwilling\n3. resistant\n4. opposed\n5. disinclined\n6. hesitant\n7. loath\n8. averse\n9. resistant\n10. hesitant\n11. unwilling\n12. opposed\n13. disinclined\n14. loath\n15. averse\n16. resistant\n17. hesitant\n18. unwilling\n19. opposed\n20. disinclined\n21. loath\n22. averse\n23. resistant\n24. hesitant\n25. unwilling\n26. opposed\n27. disinclined\n28. loath\n29. averse\n30. resistant"
+  },
+  {
+    "sentence": "The bank tries its best to attract more customers. Its staff members are always available to provide [MASK] service.",
+    "answer": "prompt",
+    "distractors": [
+      "singular",
+      "expensive",
+      "probable"
+    ],
+    "llm_response": "1. efficient\n2. quick\n3. immediate\n4. rapid\n5. swift\n6. timely\n7. expedited\n8. fast\n9. responsive\n10. punctual\n11. hasty\n12. accelerated\n13. brisk\n14. hurried\n15. snappy\n16. instantaneous\n17. on-time\n18. speedy\n19. timely\n20. rushed\n21. urgent\n22. timely\n23. on-the-spot\n24. instant\n25. timely\n26. on-the-double\n27. on-the-fly\n28. on-the-go\n29. on-the-spot\n30. on-the-run"
+  },
+  {
+    "sentence": "John\u2019s part-time experience at the cafeteria is good [MASK] for running his own restaurant.",
+    "answer": "preparation",
+    "distractors": [
+      "recognition",
+      "formation",
+      "calculation"
+    ],
+    "llm_response": "1. training\n2. practice\n3. experience\n4. background\n5. foundation\n6. education\n7. knowledge\n8. skill\n9. expertise\n10. qualification\n11. internship\n12. apprenticeship\n13. development\n14. grooming\n15. coaching\n16. mentoring\n17. guidance\n18. instruction\n19. discipline\n20. learning\n21. study\n22. insight\n23. acumen\n24. proficiency\n25. mastery\n26. readiness\n27. capability\n28. aptitude\n29. talent\n30. potential"
+  },
+  {
+    "sentence": "Women\u2019s fashions are [MASK] changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+    "answer": "constantly",
+    "distractors": [
+      "lately",
+      "shortly",
+      "relatively"
+    ],
+    "llm_response": "1. rapidly\n2. consistently\n3. frequently\n4. continuously\n5. perpetually\n6. regularly\n7. incessantly\n8. persistently\n9. unceasingly\n10. steadily\n11. unendingly\n12. ceaselessly\n13. unremittingly\n14. unchangingly\n15. unvaryingly\n16. unrelentingly\n17. unswervingly\n18. unflaggingly\n19. unyieldingly\n20. unflinchingly\n21. unwaveringly\n22. unshakably\n23. unalterably\n24. unceasingly\n25. unendingly\n26. unbrokenly\n27. unintermittently\n28. unvaryingly\n29. unrelentingly\n30. unswervingly"
+  },
+  {
+    "sentence": "Standing on the seashore, we saw a [MASK] of seagulls flying over the ocean before they glided down and settled on the water.",
+    "answer": "flock",
+    "distractors": [
+      "pack",
+      "herd",
+      "school"
+    ],
+    "llm_response": "1. herd\n2. swarm\n3. group\n4. pack\n5. congregation\n6. cluster\n7. band\n8. team\n9. squadron\n10. assembly\n11. collection\n12. throng\n13. mob\n14. horde\n15. party\n16. company\n17. troop\n18. gang\n19. multitude\n20. array\n21. gathering\n22. posse\n23. brigade\n24. company\n25. legion\n26. community\n27. assemblage\n28. crowd\n29. horde\n30. mass"
+  },
+  {
+    "sentence": "The book is not only informative but also [MASK], making me laugh and feel relaxed while reading it.",
+    "answer": "entertaining",
+    "distractors": [
+      "understanding",
+      "infecting",
+      "annoying"
+    ],
+    "llm_response": "1. engaging\n2. captivating\n3. amusing\n4. enjoyable\n5. interesting\n6. fun\n7. entertaining\n8. delightful\n9. humorous\n10. absorbing\n11. pleasurable\n12. lively\n13. charming\n14. witty\n15. entertaining\n16. engrossing\n17. fascinating\n18. light-hearted\n19. jovial\n20. comical\n21. amusing\n22. diverting\n23. pleasurable\n24. whimsical\n25. jocular\n26. entertaining\n27. chucklesome\n28. mirthful\n29. entertaining\n30. pleasurable"
+  },
+  {
+    "sentence": "After working in front of my computer for the entire day, my neck and shoulders got so [MASK] that I couldn\u2019t even turn my head.",
+    "answer": "stiff",
+    "distractors": [
+      "dense",
+      "harsh",
+      "concrete"
+    ],
+    "llm_response": "1. sore\n2. achy\n3. tight\n4. painful\n5. rigid\n6. tense\n7. cramped\n8. knotted\n9. throbbing\n10. swollen\n11. uncomfortable\n12. immobile\n13. inflexible\n14. constricted\n15. cramped\n16. rigid\n17. strained\n18. tender\n19. stiffened\n20. locked\n21. rigid\n22. rigidified\n23. rigidified\n24. rigidified\n25. rigidified\n26. rigidified\n27. rigidified\n28. rigidified\n29. rigidified\n30. rigidified"
+  },
+  {
+    "sentence": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the [MASK] that could make us sick.",
+    "answer": "virus",
+    "distractors": [
+      "poison",
+      "misery",
+      "leak"
+    ],
+    "llm_response": "1. bacteria\n2. infection\n3. illness\n4. disease\n5. pathogen\n6. germs\n7. microorganism\n8. influenza\n9. sickness\n10. contagion\n11. cold\n12. fever\n13. antibodies\n14. immune system\n15. vaccine\n16. flu strain\n17. contagion\n18. epidemic\n19. pandemic\n20. outbreak\n21. transmission\n22. symptoms\n23. respiratory\n24. cough\n25. sneeze\n26. immunity\n27. prevention\n28. health\n29. wellness\n30. protection"
+  },
+  {
+    "sentence": "The kingdom began to [MASK] after the death of its ruler, and was soon taken over by a neighboring country.",
+    "answer": "collapse",
+    "distractors": [
+      "dismiss",
+      "rebel",
+      "withdraw"
+    ],
+    "llm_response": "1. crumble\n2. deteriorate\n3. disintegrate\n4. fall\n5. fail\n6. decline\n7. weaken\n8. break down\n9. implode\n10. give way\n11. topple\n12. cave in\n13. succumb\n14. falter\n15. wane\n16. dissolve\n17. founder\n18. crash\n19. shatter\n20. fragment\n21. rupture\n22. split\n23. disband\n24. disperse\n25. scatter\n26. break apart\n27. break up\n28. disassemble\n29. disorganize\n30. crumple"
+  },
+  {
+    "sentence": "Though Kevin failed in last year\u2019s singing contest, he did not feel [MASK]. This year he practiced day and night and finally won first place in the competition.",
+    "answer": "frustrated",
+    "distractors": [
+      "relieved",
+      "suspected",
+      "discounted"
+    ],
+    "llm_response": "1. disappointed\n2. discouraged\n3. defeated\n4. upset\n5. disheartened\n6. hopeless\n7. dejected\n8. demoralized\n9. despondent\n10. crestfallen\n11. melancholy\n12. gloomy\n13. forlorn\n14. downcast\n15. dispirited\n16. disconsolate\n17. melancholic\n18. defeated\n19. heartbroken\n20. crushed\n21. let down\n22. low-spirited\n23. sorrowful\n24. blue\n25. melancholy\n26. glum\n27. dismal\n28. downhearted\n29. despairing\n30. defeated"
+  },
+  {
+    "sentence": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, [MASK] one who knows how to cook.",
+    "answer": "preferably",
+    "distractors": [
+      "initially",
+      "apparently",
+      "considerably"
+    ],
+    "llm_response": "1. ideally\n2. primarily\n3. chiefly\n4. mainly\n5. predominantly\n6. principally\n7. particularly\n8. specifically\n9. particularly\n10. especially\n11. above all\n12. first and foremost\n13. essentially\n14. fundamentally\n15. crucially\n16. vitally\n17. indispensably\n18. necessarily\n19. essentially\n20. significantly\n21. importantly\n22. majorly\n23. substantially\n24. essentially\n25. critically\n26. importantly\n27. crucially\n28. significantly\n29. majorly\n30. vitally"
+  },
+  {
+    "sentence": "The ending of the movie did not come as a [MASK] to John because he had already read the novel that the movie was based on.",
+    "answer": "surprise",
+    "distractors": [
+      "vision",
+      "focus",
+      "conclusion"
+    ],
+    "llm_response": "1. shock\n2. revelation\n3. shocker\n4. twist\n5. shockwave\n6. jolt\n7. bombshell\n8. startle\n9. astonishment\n10. amazement\n11. disbelief\n12. unexpectedness\n13. jarring\n14. unexpected\n15. astonish\n16. stun\n17. astound\n18. awe\n19. wonder\n20. bewilderment\n21. confusion\n22. startlement\n23. flabbergast\n24. stagger\n25. stupefy\n26. dumbfound\n27. confound\n28. nonplus\n29. astoundment\n30. thunderstruck"
+  },
+  {
+    "sentence": "In order to stay healthy and fit, John exercises [MASK]. He works out twice a week in a gym.",
+    "answer": "regularly",
+    "distractors": [
+      "directly",
+      "hardly",
+      "gradually"
+    ],
+    "llm_response": "1. sporadically\n2. occasionally\n3. consistently\n4. infrequently\n5. seldom\n6. rarely\n7. intermittently\n8. haphazardly\n9. irregularly\n10. periodically\n11. frequently\n12. constantly\n13. persistently\n14. steadily\n15. routinely\n16. habitually\n17. systematically\n18. methodically\n19. diligently\n20. rigorously\n21. religiously\n22. faithfully\n23. continuously\n24. unceasingly\n25. unfailingly\n26. unswervingly\n27. unvaryingly\n28. unchangingly\n29. unrelentingly\n30. unflaggingly"
+  },
+  {
+    "sentence": "Traveling is a good way for us to [MASK] different cultures and broaden our horizons.",
+    "answer": "explore",
+    "distractors": [
+      "assume",
+      "occupy",
+      "inspire"
+    ],
+    "llm_response": "1. discover\n2. experience\n3. immerse\n4. investigate\n5. delve into\n6. encounter\n7. learn about\n8. study\n9. survey\n10. examine\n11. uncover\n12. navigate\n13. traverse\n14. investigate\n15. scrutinize\n16. inspect\n17. investigate\n18. scrutinize\n19. investigate\n20. scrutinize\n21. investigate\n22. scrutinize\n23. investigate\n24. scrutinize\n25. investigate\n26. scrutinize\n27. investigate\n28. scrutinize\n29. investigate\n30. scrutinize"
+  },
+  {
+    "sentence": "The story about Hou-I shooting down nine suns is a well-known Chinese [MASK], but it may not be a true historical event.",
+    "answer": "legend",
+    "distractors": [
+      "figure",
+      "rumor",
+      "miracle"
+    ],
+    "llm_response": "1. myth\n2. tale\n3. fable\n4. folklore\n5. narrative\n6. story\n7. saga\n8. anecdote\n9. tradition\n10. lore\n11. rumor\n12. mythos\n13. chronicle\n14. account\n15. fiction\n16. parable\n17. legendry\n18. lore\n19. belief\n20. history\n21. chronicle\n22. saga\n23. epic\n24. folklore\n25. tradition\n26. mythos\n27. narrative\n28. fable\n29. tale\n30. rumor"
+  },
+  {
+    "sentence": "According to recent research, children under the age of 12 are generally not [MASK] enough to recognize risk and deal with dangerous situations.",
+    "answer": "mature",
+    "distractors": [
+      "diligent",
+      "familiar",
+      "sincere"
+    ],
+    "llm_response": "1. experienced\n2. developed\n3. sophisticated\n4. competent\n5. capable\n6. matured\n7. seasoned\n8. grown\n9. responsible\n10. wise\n11. knowledgeable\n12. skilled\n13. adept\n14. mature-minded\n15. adult-like\n16. rational\n17. sensible\n18. aware\n19. cautious\n20. prudent\n21. perceptive\n22. astute\n23. sharp\n24. intelligent\n25. insightful\n26. judicious\n27. discerning\n28. shrewd\n29. sagacious\n30. worldly"
+  },
+  {
+    "sentence": "Helen let out a sigh of [MASK] after hearing that her brother was not injured in the accident.",
+    "answer": "relief",
+    "distractors": [
+      "hesitation",
+      "sorrow",
+      "triumph"
+    ],
+    "llm_response": "1. happiness\n2. disappointment\n3. shock\n4. joy\n5. sadness\n6. anger\n7. fear\n8. surprise\n9. relief\n10. relief\n11. relief\n12. relief\n13. relief\n14. relief\n15. relief\n16. relief\n17. relief\n18. relief\n19. relief\n20. relief\n21. relief\n22. relief\n23. relief\n24. relief\n25. relief\n26. relief\n27. relief\n28. relief\n29. relief\n30. relief"
+  },
+  {
+    "sentence": "Research suggests that people with outgoing personalities tend to be more [MASK], often expecting that good things will happen.",
+    "answer": "optimistic",
+    "distractors": [
+      "efficient",
+      "practical",
+      "changeable"
+    ],
+    "llm_response": "1. pessimistic\n2. cynical\n3. hopeful\n4. positive\n5. cheerful\n6. upbeat\n7. confident\n8. sunny\n9. bright\n10. enthusiastic\n11. buoyant\n12. idealistic\n13. rosy\n14. sanguine\n15. trusting\n16. happy\n17. joyful\n18. content\n19. radiant\n20. optimistic\n21. positive\n22. hopeful\n23. confident\n24. cheerful\n25. upbeat\n26. enthusiastic\n27. buoyant\n28. idealistic\n29. sanguine\n30. trusting"
+  },
+  {
+    "sentence": "No one could beat Paul at running. He has won the running championship [MASK] for three years.",
+    "answer": "continuously",
+    "distractors": [
+      "rapidly",
+      "urgently",
+      "temporarily"
+    ],
+    "llm_response": "1. consistently\n2. persistently\n3. consecutively\n4. uninterruptedly\n5. unceasingly\n6. perpetually\n7. incessantly\n8. without interruption\n9. without a break\n10. nonstop\n11. without pause\n12. without cessation\n13. without stopping\n14. without a gap\n15. without a hiatus\n16. without a lull\n17. without a respite\n18. without a breather\n19. without a letup\n20. without a halt\n21. without a discontinuation\n22. without a break in the action\n23. without a stoppage\n24. without a suspension\n25. without a cutoff\n26. without a downtime\n27. without a standstill\n28. without a downtime\n29. without a standstill\n30. without a downtime"
+  },
+  {
+    "sentence": "If you fly from Taipei to Tokyo, you\u2019ll be taking an international, rather than a [MASK] flight.",
+    "answer": "domestic",
+    "distractors": [
+      "liberal",
+      "connected",
+      "universal"
+    ],
+    "llm_response": "1. local\n2. regional\n3. national\n4. internal\n5. inland\n6. homebound\n7. interior\n8. native\n9. homeward\n10. household\n11. internal\n12. inside\n13. inner\n14. civil\n15. home\n16. mainland\n17. homely\n18. interior\n19. in-country\n20. in-house\n21. in-state\n22. in-land\n23. in-house\n24. in-home\n25. in-country\n26. in-state\n27. in-land\n28. in-house\n29. in-home\n30. in-country"
+  },
+  {
+    "sentence": "Jack is very proud of his fancy new motorcycle. He has been [MASK] to all his friends about how cool it looks and how fast it runs.",
+    "answer": "boasting",
+    "distractors": [
+      "proposing",
+      "gossiping",
+      "confessing"
+    ],
+    "llm_response": "1. bragging\n2. showing off\n3. flaunting\n4. boasting\n5. exaggerating\n6. hyping\n7. parading\n8. gloating\n9. crowing\n10. trumpeting\n11. proclaiming\n12. vaunting\n13. swaggering\n14. blustering\n15. puffing\n16. touting\n17. promoting\n18. publicizing\n19. advertising\n20. displaying\n21. presenting\n22. exhibiting\n23. demonstrating\n24. showcasing\n25. revealing\n26. disclosing\n27. divulging\n28. sharing\n29. spreading\n30. broadcasting"
+  },
+  {
+    "sentence": "The ideas about family have changed [MASK] in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+    "answer": "considerably",
+    "distractors": [
+      "mutually",
+      "narrowly",
+      "scarcely"
+    ],
+    "llm_response": "1. dramatically\n2. significantly\n3. substantially\n4. immensely\n5. markedly\n6. greatly\n7. notably\n8. exceedingly\n9. remarkably\n10. hugely\n11. extensively\n12. profoundly\n13. exceptionally\n14. monumentally\n15. overwhelmingly\n16. intensely\n17. abundantly\n18. vastly\n19. incredibly\n20. extraordinarily\n21. massively\n22. intensely\n23. deeply\n24. thoroughly\n25. entirely\n26. wholly\n27. fully\n28. completely\n29. totally\n30. utterly"
+  },
+  {
+    "sentence": "The chairperson of the meeting asked everyone to speak up instead of [MASK] their opinions among themselves.",
+    "answer": "murmuring",
+    "distractors": [
+      "reciting",
+      "giggling",
+      "whistling"
+    ],
+    "llm_response": "1. whispering\n2. muttering\n3. gossiping\n4. chattering\n5. chatting\n6. conversing\n7. discussing\n8. debating\n9. arguing\n10. deliberating\n11. conferring\n12. confiding\n13. sharing\n14. communicating\n15. murmuring\n16. murmuring\n17. murmuring\n18. murmuring\n19. murmuring\n20. murmuring\n21. murmuring\n22. murmuring\n23. murmuring\n24. murmuring\n25. murmuring\n26. murmuring\n27. murmuring\n28. murmuring\n29. murmuring\n30. murmuring"
+  },
+  {
+    "sentence": "Although Mr. Chen is rich, he is a very [MASK] person and is never willing to spend any money to help those who are in need.",
+    "answer": "stingy",
+    "distractors": [
+      "absolute",
+      "precise",
+      "economic"
+    ],
+    "llm_response": "1. selfish\n2. miserly\n3. frugal\n4. tightfisted\n5. penny-pinching\n6. greedy\n7. ungenerous\n8. cheap\n9. avaricious\n10. parsimonious\n11. covetous\n12. thrifty\n13. tight\n14. grasping\n15. acquisitive\n16. mean\n17. niggardly\n18. penurious\n19. economical\n20. sparing\n21. hoarding\n22. uncharitable\n23. money-grubbing\n24. mercenary\n25. rapacious\n26. grasping\n27. materialistic\n28. covetous\n29. tightwad\n30. skinflint"
+  },
+  {
+    "sentence": "If you want to know what your dreams mean, now there are websites you can visit to help you [MASK] them.",
+    "answer": "interpret",
+    "distractors": [
+      "overcome",
+      "transfer",
+      "revise"
+    ],
+    "llm_response": "1. analyze\n2. decode\n3. decipher\n4. understand\n5. make sense of\n6. unravel\n7. explain\n8. translate\n9. construe\n10. figure out\n11. elucidate\n12. clarify\n13. interpret\n14. fathom\n15. grasp\n16. deduce\n17. infer\n18. unravel\n19. untangle\n20. explicate\n21. expound\n22. elucidate\n23. construe\n24. make out\n25. read\n26. solve\n27. unravel\n28. crack\n29. break down\n30. make clear"
+  },
+  {
+    "sentence": "The memory [MASK] of the new computer has been increased so that more information can be stored.",
+    "answer": "capacity",
+    "distractors": [
+      "occupation",
+      "attachment",
+      "machinery"
+    ],
+    "llm_response": "1. speed\n2. efficiency\n3. capability\n4. limit\n5. size\n6. volume\n7. potential\n8. range\n9. scope\n10. threshold\n11. quota\n12. extent\n13. space\n14. room\n15. allowance\n16. margin\n17. reserve\n18. quota\n19. dimension\n20. scale\n21. magnitude\n22. breadth\n23. depth\n24. width\n25. height\n26. area\n27. quantity\n28. bulk\n29. mass\n30. load"
+  },
+  {
+    "sentence": "All the new students were given one minute to [MASK] introduce themselves to the whole class.",
+    "answer": "briefly",
+    "distractors": [
+      "famously",
+      "gradually",
+      "obviously"
+    ],
+    "llm_response": "1. quickly\n2. briefly\n3. rapidly\n4. swiftly\n5. concisely\n6. promptly\n7. shortly\n8. fleetingly\n9. momentarily\n10. hastily\n11. briskly\n12. momentarily\n13. speedily\n14. summarily\n15. cursorily\n16. momentarily\n17. transiently\n18. succinctly\n19. tersely\n20. snappily\n21. momentarily\n22. transitorily\n23. fugitively\n24. evanescently\n25. ephemerally\n26. momentarily\n27. momentarily\n28. momentarily\n29. momentarily\n30. momentarily"
+  },
+  {
+    "sentence": "His dark brown jacket had holes in the elbows and had [MASK] to light brown, but he continued to wear it.",
+    "answer": "faded",
+    "distractors": [
+      "cycled",
+      "loosened",
+      "divided"
+    ],
+    "llm_response": "1. torn\n2. frayed\n3. worn\n4. patched\n5. tattered\n6. discolored\n7. shabby\n8. threadbare\n9. ragged\n10. weathered\n11. deteriorated\n12. aged\n13. worn-out\n14. battered\n15. damaged\n16. stained\n17. distressed\n18. rugged\n19. decrepit\n20. shoddy\n21. scruffy\n22. unkempt\n23. dingy\n24. grubby\n25. moth-eaten\n26. scuffed\n27. worn-down\n28. weather-beaten\n29. worn-through\n30. dilapidated"
+  },
+  {
+    "sentence": "Everyone in our company enjoys working with Jason. He\u2019s got all the qualities that make a [MASK] partner.",
+    "answer": "desirable",
+    "distractors": [
+      "comfortable",
+      "frequent",
+      "hostile"
+    ],
+    "llm_response": "1. reliable\n2. competent\n3. valuable\n4. trustworthy\n5. efficient\n6. effective\n7. skilled\n8. capable\n9. excellent\n10. dependable\n11. professional\n12. talented\n13. dedicated\n14. resourceful\n15. cooperative\n16. supportive\n17. innovative\n18. proactive\n19. dynamic\n20. adaptable\n21. friendly\n22. communicative\n23. collaborative\n24. motivated\n25. hardworking\n26. respectful\n27. empathetic\n28. understanding\n29. charismatic\n30. inspiring"
+  },
+  {
+    "sentence": "Eyes are sensitive to light. Looking at the sun [MASK] could damage our eyes.",
+    "answer": "directly",
+    "distractors": [
+      "hardly",
+      "specially",
+      "totally"
+    ],
+    "llm_response": "1. indirectly\n2. constantly\n3. intensely\n4. closely\n5. continuously\n6. briefly\n7. excessively\n8. carelessly\n9. deliberately\n10. recklessly\n11. intentionally\n12. rapidly\n13. harshly\n14. casually\n15. accidentally\n16. abruptly\n17. dangerously\n18. boldly\n19. boldly\n20. cautiously\n21. randomly\n22. frequently\n23. rapidly\n24. harshly\n25. carelessly\n26. intensely\n27. excessively\n28. deliberately\n29. recklessly\n30. constantly"
+  },
+  {
+    "sentence": "We were forced to [MASK] our plan for the weekend picnic because of the bad weather.",
+    "answer": "cancel",
+    "distractors": [
+      "maintain",
+      "record",
+      "propose"
+    ],
+    "llm_response": "1. reschedule\n2. postpone\n3. alter\n4. scrap\n5. abandon\n6. modify\n7. change\n8. adjust\n9. revoke\n10. call off\n11. nix\n12. drop\n13. nullify\n14. annul\n15. terminate\n16. suspend\n17. axe\n18. eliminate\n19. withdraw\n20. scrub\n21. halt\n22. cease\n23. discontinue\n24. forgo\n25. shelve\n26. put off\n27. ditch\n28. call back\n29. revoke\n30. countermand"
+  },
+  {
+    "sentence": "Three people are running for mayor. All three [MASK] seem confident that they will be elected, but we won\u2019t know until the outcome of the election is announced.",
+    "answer": "candidates",
+    "distractors": [
+      "particles",
+      "receivers",
+      "containers"
+    ],
+    "llm_response": "1. contenders\n2. nominees\n3. aspirants\n4. hopefuls\n5. competitors\n6. challengers\n7. runners\n8. applicants\n9. participants\n10. rivals\n11. campaigners\n12. suitors\n13. contenders\n14. candidates\n15. politicians\n16. office-seekers\n17. contenders\n18. nominees\n19. aspirants\n20. hopefuls\n21. competitors\n22. challengers\n23. runners\n24. applicants\n25. participants\n26. rivals\n27. campaigners\n28. suitors\n29. contenders\n30. candidates"
+  },
+  {
+    "sentence": "If you [MASK] a traffic law, such as drinking and driving, you may not drive for some time.",
+    "answer": "violate",
+    "distractors": [
+      "destroy",
+      "attack",
+      "invade"
+    ],
+    "llm_response": "1. ignore\n2. break\n3. disobey\n4. infringe\n5. breach\n6. flout\n7. contravene\n8. transgress\n9. disregard\n10. defy\n11. trespass\n12. overlook\n13. neglect\n14. bypass\n15. skip\n16. go against\n17. fail to follow\n18. go beyond\n19. exceed\n20. go against\n21. violate\n22. breach\n23. contravene\n24. flout\n25. infringe\n26. break\n27. disobey\n28. ignore\n29. neglect\n30. transgress"
+  },
+  {
+    "sentence": "Applying to college means sending in applications, writing study plans, and so on. It\u2019s a long [MASK], and it makes students nervous.",
+    "answer": "process",
+    "distractors": [
+      "errand",
+      "operation",
+      "display"
+    ],
+    "llm_response": "1. journey\n2. task\n3. procedure\n4. ordeal\n5. endeavor\n6. mission\n7. challenge\n8. adventure\n9. experience\n10. path\n11. route\n12. road\n13. trek\n14. quest\n15. venture\n16. assignment\n17. duty\n18. responsibility\n19. obligation\n20. process\n21. application\n22. form\n23. paperwork\n24. application process\n25. application procedure\n26. application journey\n27. application task\n28. application ordeal\n29. application mission\n30. application challenge"
+  },
+  {
+    "sentence": "Dr. Chu\u2019s speech on the new energy source attracted great [MASK] from the audience at the conference.",
+    "answer": "attention",
+    "distractors": [
+      "fortune",
+      "solution",
+      "influence"
+    ],
+    "llm_response": "1. interest\n2. curiosity\n3. enthusiasm\n4. focus\n5. captivation\n6. intrigue\n7. absorption\n8. engagement\n9. fascination\n10. concentration\n11. appeal\n12. allure\n13. draw\n14. magnetism\n15. charm\n16. spell\n17. enticement\n18. temptation\n19. lure\n20. pull\n21. attraction\n22. magnetization\n23. absorption\n24. captivation\n25. enchantment\n26. enthrallment\n27. mesmerization\n28. bewitchment\n29. infatuation\n30. fixation"
+  },
+  {
+    "sentence": "Everyone in the office must attend the meeting tomorrow. There are no [MASK] allowed.",
+    "answer": "exceptions",
+    "distractors": [
+      "additions",
+      "divisions",
+      "measures"
+    ],
+    "llm_response": "1. excuses\n2. exemptions\n3. exclusions\n4. deviations\n5. variations\n6. waivers\n7. pardons\n8. reprieves\n9. allowances\n10. dispensations\n11. releases\n12. relaxations\n13. omissions\n14. exclusivities\n15. privileges\n16. immunities\n17. loopholes\n18. outs\n19. passes\n20. outs\n21. outs\n22. outs\n23. outs\n24. outs\n25. outs\n26. outs\n27. outs\n28. outs\n29. outs\n30. outs"
+  },
+  {
+    "sentence": "To make fresh lemonade, cut the lemon in half, [MASK] the juice into a bowl, and then add as much water and sugar as you like.",
+    "answer": "squeeze",
+    "distractors": [
+      "decrease",
+      "freeze",
+      "cease"
+    ],
+    "llm_response": "1. press\n2. extract\n3. pour\n4. blend\n5. mix\n6. stir\n7. whisk\n8. pour\n9. drain\n10. extract\n11. crush\n12. pulp\n13. squeeze out\n14. wring\n15. extract\n16. filter\n17. strain\n18. mash\n19. squash\n20. compress\n21. twist\n22. extract\n23. extract\n24. extract\n25. extract\n26. extract\n27. extract\n28. extract\n29. extract\n30. extract"
+  },
+  {
+    "sentence": "Buddhism is the [MASK] religion in Thailand, with 90% of the total population identified as Buddhists.",
+    "answer": "dominant",
+    "distractors": [
+      "racial",
+      "competitive",
+      "modest"
+    ],
+    "llm_response": "1. primary\n2. prevalent\n3. major\n4. leading\n5. chief\n6. main\n7. foremost\n8. key\n9. top\n10. supreme\n11. central\n12. principal\n13. predominant\n14. ruling\n15. superior\n16. paramount\n17. primary\n18. prominent\n19. preeminent\n20. key\n21. top-ranking\n22. influential\n23. controlling\n24. commanding\n25. chief\n26. key\n27. key\n28. key\n29. key\n30. key"
+  },
+  {
+    "sentence": "When I open a book, I look first at the table of [MASK] to get a general idea of the book and to see which chapters I might be interested in reading.",
+    "answer": "contents",
+    "distractors": [
+      "contracts",
+      "contests",
+      "contacts"
+    ],
+    "llm_response": "1. index\n2. preface\n3. chapters\n4. headings\n5. sections\n6. titles\n7. overview\n8. list\n9. contents page\n10. table of contents\n11. introduction\n12. summary\n13. headings\n14. topics\n15. subheadings\n16. chapters list\n17. directory\n18. guide\n19. main points\n20. key points\n21. highlights\n22. abstract\n23. foreword\n24. prologue\n25. epilogue\n26. appendix\n27. glossary\n28. bibliography\n29. references\n30. contents list"
+  },
+  {
+    "sentence": "The children were so [MASK] to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+    "answer": "delighted",
+    "distractors": [
+      "admirable",
+      "fearful",
+      "intense"
+    ],
+    "llm_response": "1. surprised\n2. thrilled\n3. excited\n4. amused\n5. overjoyed\n6. ecstatic\n7. jubilant\n8. cheerful\n9. elated\n10. joyful\n11. gleeful\n12. content\n13. euphoric\n14. enchanted\n15. fascinated\n16. captivated\n17. charmed\n18. entertained\n19. pleased\n20. gratified\n21. satisfied\n22. enchanted\n23. mesmerized\n24. rapturous\n25. blissful\n26. jovial\n27. radiant\n28. exuberant\n29. jubilant\n30. euphoric"
+  },
+  {
+    "sentence": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the [MASK] rainfall of the season in the area.",
+    "answer": "average",
+    "distractors": [
+      "considerate",
+      "promising",
+      "enjoyable"
+    ],
+    "llm_response": "1. record\n2. typical\n3. median\n4. regular\n5. mean\n6. common\n7. standard\n8. usual\n9. normal\n10. typical\n11. moderate\n12. typical\n13. common\n14. general\n15. typical\n16. typical\n17. median\n18. median\n19. median\n20. median\n21. median\n22. median\n23. median\n24. median\n25. median\n26. median\n27. median\n28. median\n29. median\n30. median"
+  },
+  {
+    "sentence": "Mr. Lin is a very [MASK] writer; he publishes at least five novels every year.",
+    "answer": "productive",
+    "distractors": [
+      "moderate",
+      "temporary",
+      "reluctant"
+    ],
+    "llm_response": "1. successful\n2. prolific\n3. efficient\n4. creative\n5. dedicated\n6. hardworking\n7. innovative\n8. talented\n9. ambitious\n10. consistent\n11. prolific\n12. prolific\n13. prolific\n14. prolific\n15. prolific\n16. prolific\n17. prolific\n18. prolific\n19. prolific\n20. prolific\n21. prolific\n22. prolific\n23. prolific\n24. prolific\n25. prolific\n26. prolific\n27. prolific\n28. prolific\n29. prolific\n30. prolific"
+  },
+  {
+    "sentence": "Using a heating pad or taking warm baths can sometimes help to [MASK] pain in the lower back.",
+    "answer": "relieve",
+    "distractors": [
+      "polish",
+      "switch",
+      "maintain"
+    ],
+    "llm_response": "1. alleviate\n2. soothe\n3. ease\n4. diminish\n5. alleviate\n6. mitigate\n7. reduce\n8. lessen\n9. assuage\n10. palliate\n11. alleviate\n12. calm\n13. alleviate\n14. alleviate\n15. alleviate\n16. alleviate\n17. alleviate\n18. alleviate\n19. alleviate\n20. alleviate\n21. alleviate\n22. alleviate\n23. alleviate\n24. alleviate\n25. alleviate\n26. alleviate\n27. alleviate\n28. alleviate\n29. alleviate\n30. alleviate"
+  },
+  {
+    "sentence": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself [MASK] in class.",
+    "answer": "awake",
+    "distractors": [
+      "acceptable",
+      "amazed",
+      "accurate"
+    ],
+    "llm_response": "1. alert\n2. energized\n3. focused\n4. attentive\n5. stimulated\n6. lively\n7. vigilant\n8. conscious\n9. active\n10. refreshed\n11. invigorated\n12. wide awake\n13. perky\n14. responsive\n15. animated\n16. sprightly\n17. brisk\n18. peppy\n19. zesty\n20. chipper\n21. vibrant\n22. spirited\n23. dynamic\n24. enthusiastic\n25. lively\n26. awake and alert\n27. bright-eyed\n28. bushy-tailed\n29. raring to go\n30. full of beans"
+  },
+  {
+    "sentence": "Due to [MASK], prices for daily necessities have gone up and we have to pay more for the same items now.",
+    "answer": "inflation",
+    "distractors": [
+      "solution",
+      "objection",
+      "condition"
+    ],
+    "llm_response": "1. recession\n2. deflation\n3. unemployment\n4. supply chain disruptions\n5. economic growth\n6. high demand\n7. tariffs\n8. trade wars\n9. interest rates\n10. currency devaluation\n11. global pandemic\n12. government regulations\n13. market speculation\n14. consumer spending\n15. production costs\n16. wage increases\n17. stock market fluctuations\n18. natural disasters\n19. population growth\n20. technological advancements\n21. energy prices\n22. housing market trends\n23. healthcare costs\n24. transportation expenses\n25. food shortages\n26. climate change\n27. political instability\n28. income inequality\n29. tax policies\n30. international trade agreements"
+  },
+  {
+    "sentence": "The government is doing its best to [MASK] the cultures of the tribal people for fear that they may soon die out.",
+    "answer": "preserve",
+    "distractors": [
+      "frustrate",
+      "hesitate",
+      "overthrow"
+    ],
+    "llm_response": "1. destroy\n2. neglect\n3. abandon\n4. protect\n5. conserve\n6. uphold\n7. maintain\n8. safeguard\n9. cherish\n10. honor\n11. respect\n12. promote\n13. save\n14. sustain\n15. retain\n16. secure\n17. foster\n18. guard\n19. shield\n20. defend\n21. perpetuate\n22. uphold\n23. nurture\n24. support\n25. cherish\n26. treasure\n27. celebrate\n28. prolong\n29. keep\n30. continue"
+  },
+  {
+    "sentence": "I could not [MASK] the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+    "answer": "resist",
+    "distractors": [
+      "insist",
+      "obtain",
+      "contain"
+    ],
+    "llm_response": "1. ignore\n2. withstand\n3. avoid\n4. control\n5. fight\n6. overcome\n7. block\n8. suppress\n9. manage\n10. handle\n11. endure\n12. confront\n13. battle\n14. combat\n15. challenge\n16. oppose\n17. defy\n18. thwart\n19. hinder\n20. impede\n21. obstruct\n22. prevent\n23. stop\n24. halt\n25. curb\n26. check\n27. limit\n28. restrict\n29. regulate\n30. govern"
+  },
+  {
+    "sentence": "Steve has several meetings to attend every day; therefore, he has to work on a very [MASK] schedule.",
+    "answer": "tight",
+    "distractors": [
+      "dense",
+      "various",
+      "current"
+    ],
+    "llm_response": "1. busy\n2. packed\n3. hectic\n4. demanding\n5. rigorous\n6. strict\n7. inflexible\n8. constrained\n9. limited\n10. compact\n11. crammed\n12. jam-packed\n13. stringent\n14. compressed\n15. constricted\n16. narrow\n17. confined\n18. restricted\n19. pressured\n20. intense\n21. fast-paced\n22. unyielding\n23. unrelenting\n24. unchanging\n25. unvarying\n26. unalterable\n27. unchangeable\n28. unmodifiable\n29. unadaptable\n30. unaccommodating"
+  },
+  {
+    "sentence": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men\u2019s swimming [MASK] in the 2008 Olympics.",
+    "answer": "contests",
+    "distractors": [
+      "drills",
+      "techniques",
+      "routines"
+    ],
+    "llm_response": "1. races\n2. events\n3. competitions\n4. tournaments\n5. matches\n6. challenges\n7. bouts\n8. duels\n9. heats\n10. showdowns\n11. clashes\n12. face-offs\n13. encounters\n14. trials\n15. tests\n16. races\n17. bouts\n18. tournaments\n19. matches\n20. duels\n21. heats\n22. challenges\n23. events\n24. competitions\n25. showdowns\n26. clashes\n27. face-offs\n28. encounters\n29. trials\n30. tests"
+  },
+  {
+    "sentence": "Those college students work at the orphanage on a [MASK] basis, helping the children with their studies without receiving any pay.",
+    "answer": "voluntary",
+    "distractors": [
+      "competitive",
+      "sorrowful",
+      "realistic"
+    ],
+    "llm_response": "1. regular\n2. weekly\n3. part-time\n4. charitable\n5. unpaid\n6. altruistic\n7. philanthropic\n8. compassionate\n9. humanitarian\n10. selfless\n11. benevolent\n12. generous\n13. pro bono\n14. free\n15. unselfish\n16. community\n17. service\n18. giving\n19. kind-hearted\n20. supportive\n21. caring\n22. devoted\n23. empathetic\n24. considerate\n25. gracious\n26. merciful\n27. tender-hearted\n28. empathic\n29. kindhearted\n30. magnanimous"
+  },
+  {
+    "sentence": "Studies show that asking children to do house [MASK], such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+    "answer": "chores",
+    "distractors": [
+      "missions",
+      "approaches",
+      "incidents"
+    ],
+    "llm_response": "1. tasks\n2. assignments\n3. duties\n4. responsibilities\n5. errands\n6. jobs\n7. work\n8. activities\n9. projects\n10. obligations\n11. chores\n12. assignments\n13. duties\n14. responsibilities\n15. errands\n16. jobs\n17. work\n18. activities\n19. projects\n20. obligations\n21. tasks\n22. assignments\n23. duties\n24. responsibilities\n25. errands\n26. jobs\n27. work\n28. activities\n29. projects\n30. obligations"
+  },
+  {
+    "sentence": "John has been scolded by his boss for over ten minutes now. [MASK], she is not happy about his being late again.",
+    "answer": "Apparently",
+    "distractors": [
+      "Expressively",
+      "Immediately",
+      "Originally"
+    ],
+    "llm_response": "1. Clearly\n2. Evidently\n3. Obviously\n4. Seemingly\n5. Ostensibly\n6. Allegedly\n7. Supposedly\n8. Reportedly\n9. Presumably\n10. Indubitably\n11. Undoubtedly\n12. Unquestionably\n13. Doubtlessly\n14. Unmistakably\n15. Unquestionably\n16. Unarguably\n17. Incontestably\n18. Inarguably\n19. Positively\n20. Certainly\n21. Truly\n22. Verily\n23. Indeed\n24. Absolutely\n25. Decidedly\n26. Clearly\n27. Plainly\n28. Patently\n29. Unquestionably\n30. Unmistakably"
+  },
+  {
+    "sentence": "Since the orange trees suffered [MASK] damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+    "answer": "severe",
+    "distractors": [
+      "potential",
+      "relative",
+      "mutual"
+    ],
+    "llm_response": "1. minor\n2. significant\n3. catastrophic\n4. extensive\n5. devastating\n6. critical\n7. substantial\n8. serious\n9. detrimental\n10. overwhelming\n11. harsh\n12. grave\n13. destructive\n14. intense\n15. profound\n16. massive\n17. brutal\n18. crippling\n19. ruinous\n20. violent\n21. fierce\n22. drastic\n23. acute\n24. heavy\n25. extreme\n26. damaging\n27. disastrous\n28. dire\n29. brutal\n30. tragic"
+  },
+  {
+    "sentence": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural [MASK] in Taiwan in recent decades.",
+    "answer": "disaster",
+    "distractors": [
+      "barrier",
+      "anxiety",
+      "collapse"
+    ],
+    "llm_response": "1. calamity\n2. catastrophe\n3. tragedy\n4. incident\n5. event\n6. crisis\n7. phenomenon\n8. occurrence\n9. misfortune\n10. mishap\n11. adversity\n12. emergency\n13. devastation\n14. havoc\n15. ruin\n16. setback\n17. problem\n18. trouble\n19. difficulty\n20. challenge\n21. affliction\n22. ordeal\n23. trial\n24. blow\n25. scourge\n26. plague\n27. epidemic\n28. outbreak\n29. dilemma\n30. quandary"
+  },
+  {
+    "sentence": "Robert was the only [MASK] to the car accident. The police had to count on him to find out exactly how the accident happened.",
+    "answer": "witness",
+    "distractors": [
+      "dealer",
+      "guide",
+      "client"
+    ],
+    "llm_response": "1. bystander\n2. observer\n3. onlooker\n4. spectator\n5. passerby\n6. participant\n7. driver\n8. pedestrian\n9. survivor\n10. eyewitness\n11. reporter\n12. informant\n13. source\n14. individual\n15. person\n16. individual\n17. citizen\n18. member\n19. respondent\n20. viewer\n21. listener\n22. watcher\n23. audience\n24. patron\n25. client\n26. customer\n27. guest\n28. visitor\n29. attendee\n30. on-site person"
+  },
+  {
+    "sentence": "Badly injured in the car accident, Jason could [MASK] move his legs and was sent to the hospital right away.",
+    "answer": "scarcely",
+    "distractors": [
+      "accordingly",
+      "undoubtedly",
+      "handily"
+    ],
+    "llm_response": "1. barely\n2. hardly\n3. rarely\n4. seldom\n5. infrequently\n6. scarcely\n7. minimally\n8. just\n9. only\n10. slightly\n11. marginally\n12. scarcely\n13. scarcely\n14. scarcely\n15. scarcely\n16. scarcely\n17. scarcely\n18. scarcely\n19. scarcely\n20. scarcely\n21. scarcely\n22. scarcely\n23. scarcely\n24. scarcely\n25. scarcely\n26. scarcely\n27. scarcely\n28. scarcely\n29. scarcely\n30. scarcely"
+  },
+  {
+    "sentence": "Steve\u2019s description of the place was so [MASK] that I could almost picture it in my mind.",
+    "answer": "vivid",
+    "distractors": [
+      "bitter",
+      "sensitive",
+      "courageous"
+    ],
+    "llm_response": "1. colorful\n2. detailed\n3. vibrant\n4. clear\n5. lifelike\n6. realistic\n7. imaginative\n8. graphic\n9. intense\n10. lucid\n11. picturesque\n12. striking\n13. explicit\n14. evocative\n15. sharp\n16. defined\n17. expressive\n18. lively\n19. dramatic\n20. compelling\n21. rich\n22. elaborate\n23. dynamic\n24. animated\n25. brilliant\n26. distinct\n27. potent\n28. active\n29. bold\n30. impressive"
+  },
+  {
+    "sentence": "When people feel uncomfortable or nervous, they may [MASK] their arms across their chests as if to protect themselves. ",
+    "answer": "fold",
+    "distractors": [
+      "toss",
+      "veil",
+      "yield"
+    ],
+    "llm_response": "1. tuck\n2. clasp\n3. cross\n4. hug\n5. enclose\n6. wrap\n7. shield\n8. cover\n9. embrace\n10. secure\n11. grasp\n12. hold\n13. squeeze\n14. lock\n15. cradle\n16. enfold\n17. grip\n18. bundle\n19. enwrap\n20. cuddle\n21. shroud\n22. fold up\n23. bundle up\n24. clench\n25. encircle\n26. enfold\n27. clench\n28. enshroud\n29. enwrap\n30. enfold"
+  },
+  {
+    "sentence": "The doors of these department stores slide open [MASK] when you approach them. You don\u2019t have to open them yourself. ",
+    "answer": "automatically",
+    "distractors": [
+      "necessarily",
+      "diligently",
+      "intentionally"
+    ],
+    "llm_response": "1. manually\n2. mechanically\n3. electronically\n4. spontaneously\n5. effortlessly\n6. instantly\n7. automatically\n8. smoothly\n9. swiftly\n10. quickly\n11. easily\n12. rapidly\n13. promptly\n14. efficiently\n15. smoothly\n16. autonomously\n17. hands-free\n18. without effort\n19. on their own\n20. with ease\n21. without hesitation\n22. without delay\n23. without intervention\n24. without any force\n25. without any assistance\n26. without any manual input\n27. without any physical contact\n28. without any human touch\n29. without any external help\n30. without any need for pushing"
+  },
+  {
+    "sentence": "Nicole is a [MASK] language learner. Within a short period of time, she has developed a good command of Chinese and Japanese. ",
+    "answer": "brilliant",
+    "distractors": [
+      "convenient",
+      "popular",
+      "regular"
+    ],
+    "llm_response": "1. proficient\n2. fast\n3. quick\n4. talented\n5. skilled\n6. adept\n7. fluent\n8. rapid\n9. impressive\n10. advanced\n11. exceptional\n12. quick-witted\n13. sharp\n14. clever\n15. smart\n16. intelligent\n17. gifted\n18. quick-learning\n19. astute\n20. resourceful\n21. knowledgeable\n22. experienced\n23. efficient\n24. effective\n25. capable\n26. competent\n27. expert\n28. masterful\n29. successful\n30. accomplished"
+  },
+  {
+    "sentence": "With rising oil prices, there is an increasing [MASK] for people to ride bicycles to work. ",
+    "answer": "tendency",
+    "distractors": [
+      "permit",
+      "instrument",
+      "appearance"
+    ],
+    "llm_response": "1. inclination\n2. trend\n3. preference\n4. likelihood\n5. propensity\n6. urge\n7. desire\n8. demand\n9. attraction\n10. habit\n11. proclivity\n12. drive\n13. impulse\n14. necessity\n15. requirement\n16. push\n17. pull\n18. motivation\n19. fondness\n20. penchant\n21. predilection\n22. craving\n23. yen\n24. appetite\n25. thirst\n26. hunger\n27. aspiration\n28. wish\n29. yearning\n30. compulsion"
+  },
+  {
+    "sentence": "This information came from a very [MASK] source, so you don\u2019t have to worry about being cheated. ",
+    "answer": "reliable",
+    "distractors": [
+      "flexible",
+      "clumsy",
+      "brutal"
+    ],
+    "llm_response": "1. trustworthy\n2. credible\n3. dependable\n4. authentic\n5. valid\n6. honest\n7. genuine\n8. accurate\n9. proven\n10. solid\n11. secure\n12. stable\n13. reputable\n14. faithful\n15. sound\n16. responsible\n17. ethical\n18. consistent\n19. verifiable\n20. confirmed\n21. legitimate\n22. established\n23. unwavering\n24. steadfast\n25. loyal\n26. principled\n27. certain\n28. sure\n29. safe\n30. true"
+  },
+  {
+    "sentence": "We hope that there will be no war in the world and that all people live in peace and [MASK] with each other. ",
+    "answer": "harmony",
+    "distractors": [
+      "complaint",
+      "mission",
+      "texture"
+    ],
+    "llm_response": "1. unity\n2. cooperation\n3. tranquility\n4. serenity\n5. concord\n6. accord\n7. balance\n8. understanding\n9. agreement\n10. conciliation\n11. amity\n12. friendship\n13. solidarity\n14. cohesion\n15. collaboration\n16. fellowship\n17. rapport\n18. concurrence\n19. consonance\n20. integration\n21. symbiosis\n22. coherence\n23. alignment\n24. congruence\n25. synchronization\n26. peace\n27. empathy\n28. tolerance\n29. goodwill\n30. fraternity"
+  },
+  {
+    "sentence": "To have a full discussion of the issue, the committee spent a whole hour [MASK] their ideas at the meeting. ",
+    "answer": "exchanging",
+    "distractors": [
+      "depositing",
+      "governing",
+      "interrupting"
+    ],
+    "llm_response": "1. debating\n2. sharing\n3. discussing\n4. brainstorming\n5. deliberating\n6. presenting\n7. analyzing\n8. collaborating\n9. negotiating\n10. conversing\n11. communicating\n12. conversing\n13. conversing\n14. conversing\n15. conversing\n16. conversing\n17. conversing\n18. conversing\n19. conversing\n20. conversing\n21. conversing\n22. conversing\n23. conversing\n24. conversing\n25. conversing\n26. conversing\n27. conversing\n28. conversing\n29. conversing\n30. conversing"
+  },
+  {
+    "sentence": "While adapting to western ways of living, many Asian immigrants in the US still try hard to [MASK] their own cultures and traditions. ",
+    "answer": "preserve",
+    "distractors": [
+      "volunteer",
+      "scatter",
+      "motivate"
+    ],
+    "llm_response": "1. abandon\n2. assimilate\n3. erase\n4. maintain\n5. uphold\n6. protect\n7. conserve\n8. retain\n9. safeguard\n10. cherish\n11. honor\n12. respect\n13. continue\n14. uphold\n15. nurture\n16. sustain\n17. defend\n18. perpetuate\n19. celebrate\n20. embrace\n21. follow\n22. adhere\n23. keep\n24. hold onto\n25. treasure\n26. support\n27. follow\n28. obey\n29. follow\n30. follow"
+  },
+  {
+    "sentence": "With the worsening of global economic conditions, it seems wiser and more [MASK] to keep cash in the bank rather than to invest in the stock market. ",
+    "answer": "sensible",
+    "distractors": [
+      "portable",
+      "explicit",
+      "anxious"
+    ],
+    "llm_response": "1. practical\n2. logical\n3. prudent\n4. reasonable\n5. judicious\n6. rational\n7. wise\n8. cautious\n9. astute\n10. shrewd\n11. intelligent\n12. thoughtful\n13. careful\n14. strategic\n15. advisable\n16. sagacious\n17. circumspect\n18. sober\n19. calculated\n20. deliberate\n21. informed\n22. sound\n23. discerning\n24. considerate\n25. measured\n26. conservative\n27. frugal\n28. safe\n29. guarded\n30. reserved"
+  },
+  {
+    "sentence": "Under the [MASK] of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy. ",
+    "answer": "leadership",
+    "distractors": [
+      "adoption",
+      "fragrance",
+      "identity"
+    ],
+    "llm_response": "1. management\n2. guidance\n3. direction\n4. supervision\n5. control\n6. authority\n7. administration\n8. governance\n9. influence\n10. power\n11. oversight\n12. command\n13. rule\n14. headship\n15. captaincy\n16. captainship\n17. stewardship\n18. superintendence\n19. dominion\n20. mastery\n21. reign\n22. jurisdiction\n23. regime\n24. regime\n25. regime\n26. regime\n27. regime\n28. regime\n29. regime\n30. regime"
+  },
+  {
+    "sentence": "Rapid advancement in motor engineering makes it [MASK] possible to build a flying car in the near future. ",
+    "answer": "technically",
+    "distractors": [
+      "individually",
+      "narrowly",
+      "punctually"
+    ],
+    "llm_response": "1. theoretically\n2. practically\n3. feasibly\n4. realistically\n5. potentially\n6. plausibly\n7. conceivably\n8. credibly\n9. possibly\n10. viably\n11. likely\n12. imaginably\n13. hypothetically\n14. practically\n15. scientifically\n16. logically\n17. rationally\n18. reasonably\n19. possibly\n20. potentially\n21. feasibly\n22. plausibly\n23. credibly\n24. theoretically\n25. logically\n26. rationally\n27. reasonably\n28. scientifically\n29. imaginably\n30. hypothetically"
+  },
+  {
+    "sentence": "When you take photos, you can move around to shoot the target object from different [MASK]. ",
+    "answer": "angles",
+    "distractors": [
+      "moods",
+      "trends",
+      "inputs"
+    ],
+    "llm_response": "1. perspectives\n2. viewpoints\n3. positions\n4. directions\n5. vantage points\n6. sides\n7. locations\n8. distances\n9. heights\n10. levels\n11. approaches\n12. stances\n13. frames\n14. aspects\n15. angles\n16. angles\n17. angles\n18. angles\n19. angles\n20. angles\n21. angles\n22. angles\n23. angles\n24. angles\n25. angles\n26. angles\n27. angles\n28. angles\n29. angles\n30. angles"
+  },
+  {
+    "sentence": "Students were asked to [MASK] or rewrite their compositions based on the teacher\u2019s comments. ",
+    "answer": "revise",
+    "distractors": [
+      "resign",
+      "refresh",
+      "remind"
+    ],
+    "llm_response": "1. edit\n2. modify\n3. amend\n4. adjust\n5. correct\n6. improve\n7. update\n8. alter\n9. change\n10. redraft\n11. rework\n12. refine\n13. polish\n14. review\n15. proofread\n16. enhance\n17. rectify\n18. fix\n19. tweak\n20. overhaul\n21. rephrase\n22. rescript\n23. reword\n24. reconstruct\n25. rectify\n26. emend\n27. reorganize\n28. revamp\n29. restructure\n30. rectify"
+  },
+  {
+    "sentence": "Besides lung cancer, another [MASK] of smoking is wrinkles, a premature sign of aging. ",
+    "answer": "consequence",
+    "distractors": [
+      "blessing",
+      "campaign",
+      "breakthrough"
+    ],
+    "llm_response": "1. effect\n2. outcome\n3. result\n4. repercussion\n5. ramification\n6. downside\n7. drawback\n8. aftermath\n9. implication\n10. penalty\n11. fallout\n12. disadvantage\n13. harm\n14. damage\n15. detriment\n16. cost\n17. price\n18. toll\n19. burden\n20. trouble\n21. issue\n22. problem\n23. difficulty\n24. challenge\n25. hazard\n26. risk\n27. peril\n28. threat\n29. harm\n30. injury"
+  },
+  {
+    "sentence": "Amy did not [MASK] changes in the course schedule and therefore missed the class.",
+    "answer": "notice",
+    "distractors": [
+      "arrest",
+      "alarm",
+      "delay"
+    ],
+    "llm_response": "1. realize\n2. observe\n3. detect\n4. acknowledge\n5. perceive\n6. identify\n7. spot\n8. recognize\n9. catch\n10. see\n11. overlook\n12. ignore\n13. disregard\n14. neglect\n15. pay attention to\n16. take note of\n17. be aware of\n18. miss\n19. pass by\n20. skip\n21. fail to see\n22. turn a blind eye to\n23. look past\n24. dismiss\n25. brush off\n26. let slip\n27. let go unnoticed\n28. be oblivious to\n29. be inattentive to\n30. be indifferent to"
+  },
+  {
+    "sentence": "It is not easy for old people to [MASK] their backs, so they need help when their backs itch.",
+    "answer": "scratch",
+    "distractors": [
+      "label",
+      "lighten",
+      "squeeze"
+    ],
+    "llm_response": "1. rub\n2. massage\n3. pat\n4. itch\n5. relieve\n6. soothe\n7. alleviate\n8. scratch\n9. tickle\n10. caress\n11. stroke\n12. itch\n13. itch\n14. itch\n15. itch\n16. itch\n17. itch\n18. itch\n19. itch\n20. itch\n21. itch\n22. itch\n23. itch\n24. itch\n25. itch\n26. itch\n27. itch\n28. itch\n29. itch\n30. itch"
+  },
+  {
+    "sentence": "Mary is suffering from a stomachache and needs to eat food which is easy to [MASK].",
+    "answer": "digest",
+    "distractors": [
+      "launch",
+      "invade",
+      "adopt"
+    ],
+    "llm_response": "1. process\n2. break down\n3. absorb\n4. assimilate\n5. metabolize\n6. consume\n7. chew\n8. swallow\n9. digestible\n10. digesting\n11. digestibility\n12. ingest\n13. nourish\n14. dissolve\n15. absorbable\n16. digesting\n17. digestible\n18. digesting\n19. digestibility\n20. ingest\n21. nourish\n22. dissolve\n23. absorbable\n24. digesting\n25. digestible\n26. digesting\n27. digestibility\n28. ingest\n29. nourish\n30. dissolve"
+  },
+  {
+    "sentence": "Since our classroom is not air-conditioned, we have to [MASK] the heat during the hot summer days.",
+    "answer": "tolerate",
+    "distractors": [
+      "consume",
+      "recover",
+      "promote"
+    ],
+    "llm_response": "1. endure\n2. withstand\n3. bear\n4. suffer\n5. cope with\n6. manage\n7. handle\n8. put up with\n9. deal with\n10. accept\n11. brave\n12. face\n13. confront\n14. experience\n15. go through\n16. live with\n17. stand\n18. stomach\n19. abide\n20. support\n21. resist\n22. confront\n23. challenge\n24. fight\n25. contend with\n26. persevere\n27. weather\n28. survive\n29. carry on\n30. persist"
+  },
+  {
+    "sentence": "Sue is so [MASK] that she always breaks something when she is shopping at a store.",
+    "answer": "clumsy",
+    "distractors": [
+      "religious",
+      "visual",
+      "intimate"
+    ],
+    "llm_response": "1. accident-prone\n2. uncoordinated\n3. awkward\n4. klutzy\n5. inept\n6. bumbling\n7. graceless\n8. fumbling\n9. inelegant\n10. ungraceful\n11. butterfingered\n12. unskillful\n13. haphazard\n14. unsteady\n15. careless\n16. unpolished\n17. maladroit\n18. untidy\n19. unrefined\n20. uncooperative\n21. ungraceful\n22. ungraceful\n23. ungraceful\n24. ungraceful\n25. ungraceful\n26. ungraceful\n27. ungraceful\n28. ungraceful\n29. ungraceful\n30. ungraceful"
+  },
+  {
+    "sentence": "Ann enjoyed going to the flower market. She believed that the [MASK] of flowers refreshed her mind.",
+    "answer": "fragrance",
+    "distractors": [
+      "instance",
+      "dominance",
+      "appliance"
+    ],
+    "llm_response": "1. lavender\n2. rose\n3. jasmine\n4. tulip\n5. daisy\n6. lily\n7. orchid\n8. peony\n9. violet\n10. carnation\n11. geranium\n12. magnolia\n13. honeysuckle\n14. lilac\n15. hyacinth\n16. gardenia\n17. chamomile\n18. mint\n19. eucalyptus\n20. cedar\n21. sandalwood\n22. vanilla\n23. cinnamon\n24. lemon\n25. pine\n26. musk\n27. patchouli\n28. bergamot\n29. ylang-ylang\n30. neroli"
+  },
+  {
+    "sentence": "The profits of Prince Charles\u2019s organic farm go to [MASK] to help the poor and the sick.",
+    "answer": "charities",
+    "distractors": [
+      "bulletins",
+      "harvests",
+      "rebels"
+    ],
+    "llm_response": "1. foundations\n2. organizations\n3. causes\n4. donations\n5. funds\n6. contributions\n7. non-profits\n8. philanthropies\n9. benefactors\n10. societies\n11. institutions\n12. programs\n13. projects\n14. initiatives\n15. campaigns\n16. missions\n17. endeavors\n18. endeavors\n19. endeavors\n20. endeavors\n21. endeavors\n22. endeavors\n23. endeavors\n24. endeavors\n25. endeavors\n26. endeavors\n27. endeavors\n28. endeavors\n29. endeavors\n30. endeavors"
+  },
+  {
+    "sentence": "Jack was given the rare [MASK] of using the president\u2019s office, which made others quite jealous.",
+    "answer": "privilege",
+    "distractors": [
+      "mischief",
+      "involvement",
+      "occupation"
+    ],
+    "llm_response": "1. opportunity\n2. honor\n3. chance\n4. benefit\n5. advantage\n6. favor\n7. blessing\n8. gift\n9. concession\n10. entitlement\n11. liberty\n12. right\n13. freedom\n14. perk\n15. reward\n16. allowance\n17. authority\n18. permission\n19. grant\n20. immunity\n21. exemption\n22. dispensation\n23. prerogative\n24. claim\n25. title\n26. license\n27. power\n28. control\n29. dominance\n30. superiority"
+  },
+  {
+    "sentence": "This new computer is obviously [MASK] to the old one because it has many new functions.",
+    "answer": "superior",
+    "distractors": [
+      "technical",
+      "suitable",
+      "typical"
+    ],
+    "llm_response": "1. inferior\n2. outdated\n3. advanced\n4. upgraded\n5. modern\n6. improved\n7. better\n8. enhanced\n9. superior\n10. state-of-the-art\n11. cutting-edge\n12. innovative\n13. high-tech\n14. top-notch\n15. premium\n16. top-of-the-line\n17. sophisticated\n18. top-tier\n19. upscale\n20. first-rate\n21. top-quality\n22. top-level\n23. top-class\n24. elite\n25. high-end\n26. top-ranking\n27. top-flight\n28. top-drawer\n29. top-shelf\n30. top-grade"
+  },
+  {
+    "sentence": "Simon loves his work. To him, work always comes first, and family and friends are [MASK].",
+    "answer": "secondary",
+    "distractors": [
+      "temporary",
+      "sociable",
+      "capable"
+    ],
+    "llm_response": "1. less important\n2. secondary\n3. not a priority\n4. on the back burner\n5. not a focus\n6. not a priority\n7. not as valued\n8. not as significant\n9. not as crucial\n10. not as essential\n11. not as vital\n12. not as central\n13. not as critical\n14. not as imperative\n15. not as necessary\n16. not as key\n17. not as fundamental\n18. not as primary\n19. not as crucial\n20. not as indispensable\n21. not as paramount\n22. not as preeminent\n23. not as supreme\n24. not as chief\n25. not as leading\n26. not as principal\n27. not as main\n28. not as predominant\n29. not as dominant\n30. not as foremost"
+  },
+  {
+    "sentence": "Although your plans look good, you have to be [MASK] and consider what you can actually do.",
+    "answer": "realistic",
+    "distractors": [
+      "dramatic",
+      "stressful",
+      "manageable"
+    ],
+    "llm_response": "1. optimistic\n2. practical\n3. idealistic\n4. unrealistic\n5. rational\n6. logical\n7. sensible\n8. feasible\n9. achievable\n10. pragmatic\n11. dreamy\n12. fantastical\n13. imaginative\n14. reasonable\n15. grounded\n16. down-to-earth\n17. fantastical\n18. hopeful\n19. positive\n20. pessimistic\n21. cautious\n22. careful\n23. thoughtful\n24. mindful\n25. aware\n26. considerate\n27. pragmatic\n28. unattainable\n29. impractical\n30. unfeasible"
+  },
+  {
+    "sentence": "Built under the sea in 1994, the [MASK] between England and France connects the UK more closely with mainland Europe.",
+    "answer": "tunnel",
+    "distractors": [
+      "waterfall",
+      "temple",
+      "channel"
+    ],
+    "llm_response": "1. bridge\n2. pipeline\n3. channel\n4. link\n5. pathway\n6. passage\n7. connection\n8. route\n9. corridor\n10. tube\n11. pathway\n12. viaduct\n13. causeway\n14. thoroughfare\n15. conduit\n16. aqueduct\n17. duct\n18. subway\n19. pathway\n20. thoroughfare\n21. overpass\n22. flyover\n23. walkway\n24. pathway\n25. track\n26. road\n27. highway\n28. path\n29. walkway\n30. causeway"
+  },
+  {
+    "sentence": "This tour package is very appealing, and that one looks [MASK] attractive. I don\u2019t know which one to choose.",
+    "answer": "equally",
+    "distractors": [
+      "annually",
+      "merely",
+      "gratefully"
+    ],
+    "llm_response": "1. less\n2. more\n3. extremely\n4. quite\n5. very\n6. highly\n7. incredibly\n8. significantly\n9. particularly\n10. somewhat\n11. rather\n12. too\n13. so\n14. fairly\n15. quite\n16. exceedingly\n17. vastly\n18. immensely\n19. notably\n20. remarkably\n21. strikingly\n22. conspicuously\n23. noticeably\n24. appreciably\n25. substantially\n26. abundantly\n27. plentifully\n28. lavishly\n29. generously\n30. copiously"
+  },
+  {
+    "sentence": "Hseu Fang-yi, a young Taiwanese dancer, recently [MASK] at Lincoln Center in New York and won a great deal of praise.",
+    "answer": "performed",
+    "distractors": [
+      "pretended",
+      "postponed",
+      "persuaded"
+    ],
+    "llm_response": "1. danced\n2. showcased\n3. appeared\n4. participated\n5. competed\n6. exhibited\n7. demonstrated\n8. presented\n9. showed\n10. featured\n11. performed\n12. acted\n13. displayed\n14. entertained\n15. impressed\n16. executed\n17. enacted\n18. staged\n19. enacted\n20. enacted\n21. enacted\n22. enacted\n23. enacted\n24. enacted\n25. enacted\n26. enacted\n27. enacted\n28. enacted\n29. enacted\n30. enacted"
+  },
+  {
+    "sentence": "The police searched the house of the suspect [MASK]. They almost turned the whole house upside down.",
+    "answer": "thoroughly",
+    "distractors": [
+      "relatively",
+      "casually",
+      "permanently"
+    ],
+    "llm_response": "1. completely\n2. extensively\n3. meticulously\n4. rigorously\n5. comprehensively\n6. intensively\n7. exhaustively\n8. carefully\n9. diligently\n10. methodically\n11. systematically\n12. entirely\n13. wholly\n14. fully\n15. deeply\n16. profoundly\n17. extensively\n18. thoroughly\n19. painstakingly\n20. assiduously\n21. scrupulously\n22. entirely\n23. totally\n24. wholly\n25. exhaustively\n26. meticulously\n27. intensively\n28. comprehensively\n29. rigorously\n30. methodically"
+  },
+  {
+    "sentence": "The movie director adapted this year\u2019s bestseller into a hit and made a [MASK].",
+    "answer": "fortune",
+    "distractors": [
+      "request",
+      "companion",
+      "decision"
+    ],
+    "llm_response": "1. profit\n2. blockbuster\n3. success\n4. windfall\n5. killing\n6. bundle\n7. mint\n8. jackpot\n9. treasure\n10. wealth\n11. riches\n12. bankroll\n13. loot\n14. goldmine\n15. bonanza\n16. cash\n17. earnings\n18. income\n19. prosperity\n20. abundance\n21. opulence\n22. affluence\n23. wealth\n24. money\n25. funds\n26. resources\n27. assets\n28. capital\n29. revenue\n30. gain"
+  },
+  {
+    "sentence": "Wang Chien-ming, the Yankees\u2019 best pitcher last year, already showed his great [MASK] for baseball when he was still a teenager.",
+    "answer": "potential",
+    "distractors": [
+      "response",
+      "reluctance",
+      "permission"
+    ],
+    "llm_response": "1. talent\n2. skill\n3. ability\n4. promise\n5. aptitude\n6. capability\n7. prowess\n8. capacity\n9. gift\n10. competence\n11. flair\n12. strength\n13. potentiality\n14. proficiency\n15. expertise\n16. quality\n17. power\n18. knack\n19. genius\n20. dexterity\n21. finesse\n22. acumen\n23. mastery\n24. cleverness\n25. intelligence\n26. ingenuity\n27. resourcefulness\n28. creativity\n29. potentiality\n30. aptness"
+  },
+  {
+    "sentence": "Although Jeffery had to keep two part-time jobs to support his family, he never [MASK] his studies. In fact, he graduated with honors. ",
+    "answer": "neglected",
+    "distractors": [
+      "segmented",
+      "financed",
+      "diminished"
+    ],
+    "llm_response": "1. abandoned\n2. overlooked\n3. disregarded\n4. ignored\n5. forsaken\n6. dismissed\n7. forgot\n8. skipped\n9. shunned\n10. avoided\n11. failed\n12. omitted\n13. slacked\n14. bypassed\n15. deserted\n16. overlooked\n17. neglected\n18. underestimated\n19. underestimated\n20. underestimated\n21. underestimated\n22. underestimated\n23. underestimated\n24. underestimated\n25. underestimated\n26. underestimated\n27. underestimated\n28. underestimated\n29. underestimated\n30. underestimated"
+  },
+  {
+    "sentence": "If it is too cold in this room, you can [MASK] the air conditioner to make yourself feel comfortable. ",
+    "answer": "adjust",
+    "distractors": [
+      "fasten",
+      "defeat",
+      "upload"
+    ],
+    "llm_response": "1. increase\n2. lower\n3. modify\n4. regulate\n5. tweak\n6. fine-tune\n7. adapt\n8. control\n9. set\n10. calibrate\n11. shift\n12. change\n13. manipulate\n14. fix\n15. alter\n16. vary\n17. adjust\n18. switch\n19. turn\n20. manage\n21. correct\n22. amend\n23. fine-tune\n24. tune\n25. regulate\n26. modify\n27. adapt\n28. calibrate\n29. set\n30. control"
+  },
+  {
+    "sentence": "This course will provide students with a solid [MASK] for research. It is highly recommended for those who plan to go to graduate school. ",
+    "answer": "foundation",
+    "distractors": [
+      "admission",
+      "circulation",
+      "extension"
+    ],
+    "llm_response": "1. base\n2. grounding\n3. framework\n4. footing\n5. cornerstone\n6. structure\n7. underpinning\n8. support\n9. bedrock\n10. platform\n11. establishment\n12. grounding\n13. groundwork\n14. root\n15. core\n16. anchor\n17. infrastructure\n18. basis\n19. fundamental\n20. origin\n21. source\n22. essence\n23. nucleus\n24. spine\n25. backbone\n26. keystone\n27. root\n28. stem\n29. beginning\n30. starting point"
+  },
+  {
+    "sentence": "Peter is now living on a [MASK] of NT$100 per day. He cannot afford any recreational activities. ",
+    "answer": "budget",
+    "distractors": [
+      "division",
+      "guidance",
+      "measure"
+    ],
+    "llm_response": "1. allowance\n2. stipend\n3. limit\n4. threshold\n5. cap\n6. ration\n7. constraint\n8. ceiling\n9. margin\n10. quota\n11. purse\n12. kitty\n13. fund\n14. pocket money\n15. allocation\n16. stipulation\n17. boundary\n18. restriction\n19. guideline\n20. provision\n21. purse\n22. kitty\n23. fund\n24. pocket money\n25. allocation\n26. stipulation\n27. boundary\n28. restriction\n29. guideline\n30. provision"
+  },
+  {
+    "sentence": "Amy succeeded in [MASK] for a raise though her boss didn\u2019t agree to increase her salary at first. ",
+    "answer": "negotiating",
+    "distractors": [
+      "compensating",
+      "substituting",
+      "advertising"
+    ],
+    "llm_response": "1. compromising\n2. persuading\n3. bartering\n4. haggling\n5. discussing\n6. debating\n7. bargaining\n8. mediating\n9. convincing\n10. settling\n11. pleading\n12. compromising\n13. discussing\n14. mediating\n15. arguing\n16. haggling\n17. bartering\n18. compromising\n19. persuading\n20. pleading\n21. debating\n22. bargaining\n23. convincing\n24. settling\n25. discussing\n26. mediating\n27. arguing\n28. haggling\n29. bartering\n30. compromising"
+  },
+  {
+    "sentence": "Ms. Li\u2019s business [MASK] very quickly. She opened her first store two years ago; now she has fifty stores all over the country. ",
+    "answer": "expanded",
+    "distractors": [
+      "discouraged",
+      "transferred",
+      "stretched"
+    ],
+    "llm_response": "1. grew\n2. flourished\n3. thrived\n4. blossomed\n5. boomed\n6. developed\n7. progressed\n8. advanced\n9. extended\n10. enlarged\n11. escalated\n12. augmented\n13. multiplied\n14. spread\n15. widened\n16. burgeoned\n17. mushroomed\n18. snowballed\n19. prospered\n20. surged\n21. skyrocketed\n22. amplified\n23. inflated\n24. swelled\n25. heightened\n26. escalated\n27. enhanced\n28. evolved\n29. matured\n30. flourished"
+  },
+  {
+    "sentence": "Ruth is a very [MASK] person. She cannot take any criticism and always finds excuses to justify herself. ",
+    "answer": "defensive",
+    "distractors": [
+      "shameful",
+      "innocent",
+      "outgoing"
+    ],
+    "llm_response": "1. sensitive\n2. insecure\n3. fragile\n4. guarded\n5. touchy\n6. protective\n7. resistant\n8. combative\n9. reactive\n10. hostile\n11. defensive\n12. argumentative\n13. oversensitive\n14. thin-skinned\n15. prickly\n16. defensive\n17. confrontational\n18. closed-minded\n19. stubborn\n20. defensive\n21. defensive\n22. defensive\n23. defensive\n24. defensive\n25. defensive\n26. defensive\n27. defensive\n28. defensive\n29. defensive\n30. defensive"
+  },
+  {
+    "sentence": "It\u2019s a pity that you have to leave so soon. I [MASK] hope that you will come back very soon. ",
+    "answer": "sincerely",
+    "distractors": [
+      "scarcely",
+      "reliably",
+      "obviously"
+    ],
+    "llm_response": "1. truly\n2. genuinely\n3. honestly\n4. regretfully\n5. unfortunately\n6. deeply\n7. wholeheartedly\n8. earnestly\n9. fervently\n10. passionately\n11. eagerly\n12. eagerly\n13. eagerly\n14. eagerly\n15. eagerly\n16. eagerly\n17. eagerly\n18. eagerly\n19. eagerly\n20. eagerly\n21. eagerly\n22. eagerly\n23. eagerly\n24. eagerly\n25. eagerly\n26. eagerly\n27. eagerly\n28. eagerly\n29. eagerly\n30. eagerly"
+  },
+  {
+    "sentence": "We human beings may live without clothes, but food and air are [MASK] to our life. ",
+    "answer": "essential",
+    "distractors": [
+      "magnificent",
+      "influential",
+      "profitable"
+    ],
+    "llm_response": "1. water\n2. shelter\n3. sunlight\n4. shelter\n5. sleep\n6. love\n7. warmth\n8. companionship\n9. medicine\n10. education\n11. exercise\n12. hygiene\n13. communication\n14. technology\n15. transportation\n16. electricity\n17. money\n18. entertainment\n19. safety\n20. security\n21. freedom\n22. happiness\n23. purpose\n24. knowledge\n25. creativity\n26. friendship\n27. laughter\n28. music\n29. art\n30. nature"
+  },
+  {
+    "sentence": "The manager [MASK] without hesitation after he had been offered a better job in another company. ",
+    "answer": "resigned",
+    "distractors": [
+      "retreated",
+      "revived",
+      "removed"
+    ],
+    "llm_response": "1. quit\n2. departed\n3. left\n4. abandoned\n5. gave up\n6. walked away\n7. surrendered\n8. stepped down\n9. relinquished\n10. withdrew\n11. renounced\n12. forsook\n13. dropped out\n14. retired\n15. vacated\n16. abdicated\n17. handed in his notice\n18. called it quits\n19. threw in the towel\n20. ceded\n21. disengaged\n22. disowned\n23. jettisoned\n24. cast aside\n25. cut ties\n26. bailed out\n27. pulled out\n28. disclaimed\n29. disavowed\n30. disaffiliated"
+  },
+  {
+    "sentence": "Many important legal [MASK] concerning the tragic incident have now been preserved in the museum. ",
+    "answer": "documents",
+    "distractors": [
+      "distributions",
+      "formations",
+      "constructions"
+    ],
+    "llm_response": "1. files\n2. records\n3. papers\n4. reports\n5. evidence\n6. information\n7. forms\n8. contracts\n9. deeds\n10. transcripts\n11. manuscripts\n12. archives\n13. affidavits\n14. statements\n15. agreements\n16. certificates\n17. letters\n18. memos\n19. notes\n20. receipts\n21. invoices\n22. licenses\n23. permits\n24. subpoenas\n25. warrants\n26. petitions\n27. complaints\n28. briefs\n29. pleadings\n30. resolutions"
+  },
+  {
+    "sentence": "I\u2019m not sure exactly how much scholarship you\u2019ll receive, but it will [MASK] cover your major expenses. ",
+    "answer": "roughly",
+    "distractors": [
+      "recently",
+      "frankly",
+      "variously"
+    ],
+    "llm_response": "1. partially\n2. adequately\n3. barely\n4. fully\n5. completely\n6. mostly\n7. sufficiently\n8. minimally\n9. substantially\n10. entirely\n11. significantly\n12. marginally\n13. adequately\n14. satisfactorily\n15. abundantly\n16. generously\n17. scarcely\n18. incompletely\n19. satisfactorily\n20. satisfactorily\n21. satisfactorily\n22. satisfactorily\n23. satisfactorily\n24. satisfactorily\n25. satisfactorily\n26. satisfactorily\n27. satisfactorily\n28. satisfactorily\n29. satisfactorily\n30. satisfactorily"
+  },
+  {
+    "sentence": "Tom was very ill a week ago, but now he looks healthy. We are [MASK] by his quick recovery. ",
+    "answer": "amazed",
+    "distractors": [
+      "convinced",
+      "advised",
+      "confirmed"
+    ],
+    "llm_response": "1. surprised\n2. impressed\n3. shocked\n4. astounded\n5. stunned\n6. bewildered\n7. flabbergasted\n8. taken aback\n9. dumbfounded\n10. staggered\n11. awestruck\n12. thunderstruck\n13. floored\n14. speechless\n15. incredulous\n16. disbelieving\n17. amazed\n18. overjoyed\n19. thrilled\n20. delighted\n21. relieved\n22. grateful\n23. thankful\n24. over the moon\n25. ecstatic\n26. jubilant\n27. elated\n28. euphoric\n29. over the moon\n30. over the moon"
+  },
+  {
+    "sentence": "If we can [MASK] to, we will take a vacation abroad in the summer.",
+    "answer": "afford",
+    "distractors": [
+      "pay",
+      "move",
+      "expose"
+    ],
+    "llm_response": "1. manage\n2. budget\n3. finance\n4. spare\n5. allocate\n6. save\n7. scrimp\n8. splurge\n9. fund\n10. afford\n11. provide\n12. allow\n13. cover\n14. finance\n15. bear\n16. support\n17. manage\n18. handle\n19. sustain\n20. maintain\n21. finance\n22. pay for\n23. make ends meet\n24. have the means to\n25. be able to\n26. be in a position to\n27. have the funds for\n28. have the resources for\n29. be capable of\n30. be financially able to"
+  },
+  {
+    "sentence": "A [MASK] mistake found in parenthood is that parents often set unrealistic goals for their children.",
+    "answer": "common",
+    "distractors": [
+      "terrific",
+      "straight",
+      "favorable"
+    ],
+    "llm_response": "1. rare\n2. unusual\n3. atypical\n4. infrequent\n5. peculiar\n6. abnormal\n7. exceptional\n8. odd\n9. strange\n10. unique\n11. extraordinary\n12. bizarre\n13. unfamiliar\n14. unconventional\n15. outlandish\n16. eccentric\n17. peculiar\n18. out of the ordinary\n19. irregular\n20. different\n21. atypical\n22. peculiar\n23. unorthodox\n24. offbeat\n25. quirky\n26. off-kilter\n27. off-center\n28. idiosyncratic\n29. unconventional\n30. nonconforming"
+  },
+  {
+    "sentence": "Some words, such as \u201csandwich\u201d and \u201chamburger,\u201d were [MASK] the names of people or even towns.",
+    "answer": "originally",
+    "distractors": [
+      "ideally",
+      "relatively",
+      "sincerely"
+    ],
+    "llm_response": "1. mistakenly\n2. historically\n3. typically\n4. traditionally\n5. frequently\n6. commonly\n7. initially\n8. formerly\n9. occasionally\n10. rarely\n11. uniquely\n12. peculiarly\n13. strangely\n14. curiously\n15. oddly\n16. surprisingly\n17. notably\n18. famously\n19. famously\n20. famously\n21. famously\n22. famously\n23. famously\n24. famously\n25. famously\n26. famously\n27. famously\n28. famously\n29. famously\n30. famously"
+  },
+  {
+    "sentence": "Have you ever [MASK] how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+    "answer": "wondered",
+    "distractors": [
+      "concluded",
+      "admitted",
+      "persuaded"
+    ],
+    "llm_response": "1. pondered\n2. speculated\n3. questioned\n4. marveled\n5. contemplated\n6. imagined\n7. considered\n8. thought\n9. reflected\n10. investigated\n11. admired\n12. puzzled\n13. mused\n14. deliberated\n15. meditated\n16. analyzed\n17. researched\n18. studied\n19. examined\n20. scrutinized\n21. theorized\n22. theorized\n23. brainstormed\n24. debated\n25. evaluated\n26. assessed\n27. reviewed\n28. probed\n29. explored\n30. puzzled"
+  },
+  {
+    "sentence": "Mr. Johnson was disappointed at his students for having a passive learning [MASK].",
+    "answer": "attitude",
+    "distractors": [
+      "result",
+      "progress",
+      "energy"
+    ],
+    "llm_response": "1. approach\n2. style\n3. mindset\n4. behavior\n5. method\n6. perspective\n7. tendency\n8. habit\n9. inclination\n10. disposition\n11. stance\n12. way\n13. manner\n14. outlook\n15. belief\n16. view\n17. position\n18. philosophy\n19. mode\n20. way of thinking\n21. way of learning\n22. way of studying\n23. way of approaching\n24. way of perceiving\n25. way of understanding\n26. way of processing\n27. way of absorbing\n28. way of acquiring\n29. way of comprehending\n30. way of assimilating"
+  },
+  {
+    "sentence": "Anne dreaded giving a speech before three hundred people; even thinking about it made her [MASK].",
+    "answer": "anxious",
+    "distractors": [
+      "passionate",
+      "ambitious",
+      "optimistic"
+    ],
+    "llm_response": "1. nervous\n2. worried\n3. stressed\n4. fearful\n5. apprehensive\n6. uneasy\n7. tense\n8. agitated\n9. panicky\n10. jittery\n11. scared\n12. intimidated\n13. overwhelmed\n14. insecure\n15. hesitant\n16. uncomfortable\n17. edgy\n18. restless\n19. perturbed\n20. disquieted\n21. disconcerted\n22. flustered\n23. alarmed\n24. distressed\n25. troubled\n26. fidgety\n27. on edge\n28. fretful\n29. discomposed\n30. discombobulated"
+  },
+  {
+    "sentence": "I had to [MASK] Jack\u2019s invitation to the party because it conflicted with an important business meeting.",
+    "answer": "decline",
+    "distractors": [
+      "depart",
+      "devote",
+      "deserve"
+    ],
+    "llm_response": "1. reject\n2. refuse\n3. turn down\n4. deny\n5. dismiss\n6. spurn\n7. rebuff\n8. repudiate\n9. snub\n10. repulse\n11. repel\n12. shun\n13. avoid\n14. bypass\n15. skip\n16. overlook\n17. neglect\n18. brush off\n19. disregard\n20. ignore\n21. shirk\n22. evade\n23. eschew\n24. forgo\n25. abstain\n26. withdraw\n27. recede\n28. retreat\n29. back out\n30. backpedal"
+  },
+  {
+    "sentence": "Selling fried chicken at the night market doesn\u2019t seem to be a decent business, but it is actually quite [MASK].",
+    "answer": "profitable",
+    "distractors": [
+      "plentiful",
+      "precious",
+      "productive"
+    ],
+    "llm_response": "1. successful\n2. lucrative\n3. rewarding\n4. beneficial\n5. advantageous\n6. profitable\n7. thriving\n8. fruitful\n9. gainful\n10. prosperous\n11. valuable\n12. worthwhile\n13. remunerative\n14. productive\n15. advantageous\n16. beneficial\n17. lucrative\n18. successful\n19. rewarding\n20. thriving\n21. fruitful\n22. gainful\n23. prosperous\n24. valuable\n25. worthwhile\n26. remunerative\n27. productive\n28. advantageous\n29. beneficial\n30. lucrative"
+  },
+  {
+    "sentence": "The passengers [MASK] escaped death when a bomb exploded in the subway station, killing sixty people.",
+    "answer": "narrowly",
+    "distractors": [
+      "traditionally",
+      "valuably",
+      "loosely"
+    ],
+    "llm_response": "1. barely\n2. narrowly\n3. narrowly avoided\n4. just\n5. barely missed\n6. closely\n7. almost\n8. nearly\n9. narrowly dodged\n10. narrowly averted\n11. just escaped\n12. barely survived\n13. almost missed\n14. nearly avoided\n15. just made it\n16. barely made it\n17. almost dodged\n18. nearly averted\n19. just avoided\n20. barely escaped\n21. almost survived\n22. nearly missed\n23. just dodged\n24. barely dodged\n25. almost averted\n26. nearly made it\n27. just survived\n28. barely averted\n29. almost made it\n30. nearly escaped"
+  },
+  {
+    "sentence": "Jerry didn\u2019t [MASK] his primary school classmate Mary until he listened to her self-introduction.",
+    "answer": "recognize",
+    "distractors": [
+      "acquaint",
+      "acquire",
+      "realize"
+    ],
+    "llm_response": "1. remember\n2. identify\n3. acknowledge\n4. notice\n5. realize\n6. spot\n7. detect\n8. distinguish\n9. perceive\n10. recall\n11. familiarize\n12. pinpoint\n13. ascertain\n14. pick out\n15. place\n16. locate\n17. find\n18. track down\n19. trace\n20. discover\n21. encounter\n22. come across\n23. stumble upon\n24. bump into\n25. run into\n26. meet\n27. greet\n28. connect with\n29. make out\n30. be acquainted with"
+  },
+  {
+    "sentence": "With the completion of several public [MASK] projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+    "answer": "transportation",
+    "distractors": [
+      "traffic",
+      "travel",
+      "transfer"
+    ],
+    "llm_response": "1. infrastructure\n2. development\n3. construction\n4. renovation\n5. improvement\n6. expansion\n7. upgrade\n8. enhancement\n9. modernization\n10. facilities\n11. initiatives\n12. schemes\n13. programs\n14. undertakings\n15. ventures\n16. investments\n17. projects\n18. works\n19. efforts\n20. undertakings\n21. initiatives\n22. campaigns\n23. activities\n24. tasks\n25. missions\n26. endeavors\n27. operations\n28. undertakings\n29. enterprises\n30. programs"
+  },
+  {
+    "sentence": "With a good [MASK] of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+    "answer": "command",
+    "distractors": [
+      "writing",
+      "program",
+      "impression"
+    ],
+    "llm_response": "1. grasp\n2. understanding\n3. mastery\n4. control\n5. dominance\n6. authority\n7. power\n8. proficiency\n9. fluency\n10. expertise\n11. knowledge\n12. skill\n13. capability\n14. competence\n15. aptitude\n16. comprehension\n17. intelligence\n18. acumen\n19. wisdom\n20. insight\n21. dexterity\n22. finesse\n23. talent\n24. knack\n25. expertise\n26. know-how\n27. experience\n28. proficiency\n29. skillfulness\n30. adeptness"
+  },
+  {
+    "sentence": "I am studying so hard for the forthcoming entrance exam that I do not have the [MASK] of a free weekend to rest.",
+    "answer": "luxury",
+    "distractors": [
+      "license",
+      "limitation",
+      "strength"
+    ],
+    "llm_response": "1. privilege\n2. option\n3. opportunity\n4. benefit\n5. advantage\n6. choice\n7. freedom\n8. time\n9. ability\n10. capacity\n11. chance\n12. flexibility\n13. convenience\n14. leisure\n15. relaxation\n16. comfort\n17. peace\n18. tranquility\n19. respite\n20. reprieve\n21. break\n22. downtime\n23. relief\n24. solace\n25. recreation\n26. vacation\n27. holiday\n28. retreat\n29. escape\n30. hiatus"
+  },
+  {
+    "sentence": "Kim was completely [MASK] after jogging in the hot sun all afternoon; she had little energy left.",
+    "answer": "wornout",
+    "distractors": [
+      "kickedout",
+      "handedout",
+      "putout"
+    ],
+    "llm_response": "1. exhausted\n2. fatigued\n3. drained\n4. depleted\n5. spent\n6. tired\n7. weary\n8. knackered\n9. bushed\n10. pooped\n11. enervated\n12. sapped\n13. frazzled\n14. zonked\n15. beat\n16. done in\n17. run-down\n18. overtired\n19. dog-tired\n20. dead beat\n21. wiped out\n22. shattered\n23. fagged out\n24. out of steam\n25. kaput\n26. worn down\n27. flagging\n28. drooping\n29. languid\n30. enfeebled"
+  },
+  {
+    "sentence": "When Jason failed to pay his bill, the network company [MASK] his Internet connection.",
+    "answer": "cutoff",
+    "distractors": [
+      "cutback",
+      "cutshort",
+      "cutdown"
+    ],
+    "llm_response": "1. terminated\n2. disconnected\n3. halted\n4. suspended\n5. stopped\n6. blocked\n7. ceased\n8. disabled\n9. ended\n10. interrupted\n11. deactivated\n12. shut off\n13. restricted\n14. curtailed\n15. abolished\n16. extinguished\n17. eradicated\n18. eliminated\n19. finished\n20. closed\n21. canceled\n22. cut\n23. barred\n24. prohibited\n25. restrained\n26. suppressed\n27. quashed\n28. squashed\n29. squelched\n30. stifled"
+  },
+  {
+    "sentence": "As computers are getting less expensive, they are [MASK] used in schools and offices today.",
+    "answer": "widely",
+    "distractors": [
+      "expectedly",
+      "consciously",
+      "influentially"
+    ],
+    "llm_response": "1. increasingly\n2. commonly\n3. frequently\n4. extensively\n5. popularly\n6. broadly\n7. universally\n8. prevalently\n9. abundantly\n10. generally\n11. widely\n12. vastly\n13. predominantly\n14. largely\n15. predominantly\n16. predominantly\n17. predominantly\n18. predominantly\n19. predominantly\n20. predominantly\n21. predominantly\n22. predominantly\n23. predominantly\n24. predominantly\n25. predominantly\n26. predominantly\n27. predominantly\n28. predominantly\n29. predominantly\n30. predominantly"
+  },
+  {
+    "sentence": "Mr. Chang always tries to answer all questions from his students. He will not [MASK] any of them even if they may sound stupid.",
+    "answer": "ignore",
+    "distractors": [
+      "reform",
+      "depress",
+      "confirm"
+    ],
+    "llm_response": "1. avoid\n2. overlook\n3. dismiss\n4. neglect\n5. disregard\n6. bypass\n7. shun\n8. evade\n9. brush off\n10. skip\n11. turn a blind eye to\n12. tune out\n13. snub\n14. spurn\n15. reject\n16. refuse\n17. decline\n18. repudiate\n19. shirk\n20. sidestep\n21. dodge\n22. elude\n23. forsake\n24. abandon\n25. relinquish\n26. forgo\n27. waive\n28. renounce\n29. eschew\n30. forswear"
+  },
+  {
+    "sentence": "Irene does not throw away used envelopes. She [MASK] them by using them for taking telephone messages.",
+    "answer": "recycles",
+    "distractors": [
+      "designs",
+      "disguises",
+      "manufactures"
+    ],
+    "llm_response": "1. burns\n2. repurposes\n3. donates\n4. saves\n5. reuses\n6. throws away\n7. recycles\n8. stores\n9. repackages\n10. disposes of\n11. hoards\n12. collects\n13. repurposes\n14. trades\n15. repurposes\n16. discards\n17. disposes\n18. repurposes\n19. repurposes\n20. reuses\n21. throws out\n22. donates\n23. repurposes\n24. trades\n25. repurposes\n26. discards\n27. disposes\n28. repurposes\n29. reuses\n30. throws out"
+  },
+  {
+    "sentence": "Cheese, powdered milk, and yogurt are common milk [MASK].",
+    "answer": "products",
+    "distractors": [
+      "produces",
+      "productions",
+      "productivities"
+    ],
+    "llm_response": "1. butter\n2. cream\n3. ice cream\n4. cottage cheese\n5. sour cream\n6. whey\n7. condensed milk\n8. evaporated milk\n9. mozzarella\n10. cheddar\n11. feta\n12. ricotta\n13. gouda\n14. brie\n15. camembert\n16. blue cheese\n17. Swiss cheese\n18. Parmesan\n19. provolone\n20. cream cheese\n21. mascarpone\n22. kefir\n23. buttermilk\n24. Greek yogurt\n25. soy milk\n26. almond milk\n27. oat milk\n28. coconut milk\n29. sheep milk\n30. goat milk"
+  },
+  {
+    "sentence": "Although he is a chef, Roberto [MASK] cooks his own meals.",
+    "answer": "rarely",
+    "distractors": [
+      "bitterly",
+      "naturally",
+      "skillfully"
+    ],
+    "llm_response": "1. frequently\n2. always\n3. occasionally\n4. seldom\n5. hardly ever\n6. consistently\n7. regularly\n8. never\n9. infrequently\n10. sporadically\n11. constantly\n12. persistently\n13. habitually\n14. intermittently\n15. scarcely\n16. occasionally\n17. sometimes\n18. hardly\n19. scarcely ever\n20. almost never\n21. on occasion\n22. at times\n23. rarely ever\n24. not often\n25. scarcely ever\n26. barely\n27. almost never\n28. infrequently\n29. scarcely ever\n30. barely ever"
+  },
+  {
+    "sentence": "Due to the yearly bonus system, the 100 [MASK] positions in this high-tech company have attracted many applicants from around the island.",
+    "answer": "vacant",
+    "distractors": [
+      "loyal",
+      "evident",
+      "typical"
+    ],
+    "llm_response": "1. filled\n2. occupied\n3. available\n4. open\n5. taken\n6. unoccupied\n7. empty\n8. utilized\n9. engaged\n10. used\n11. active\n12. full\n13. free\n14. closed\n15. employed\n16. inhabited\n17. populated\n18. bustling\n19. overflowing\n20. brimming\n21. teeming\n22. swarming\n23. packed\n24. crammed\n25. congested\n26. crowded\n27. jammed\n28. replete\n29. stocked\n30. supplied"
+  },
+  {
+    "sentence": "If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all [MASK] there.",
+    "answer": "available",
+    "distractors": [
+      "sufficient",
+      "marvelous",
+      "impressive"
+    ],
+    "llm_response": "1. out of stock\n2. unavailable\n3. scarce\n4. limited\n5. rare\n6. inaccessible\n7. depleted\n8. missing\n9. sold out\n10. not in stock\n11. hard to find\n12. unattainable\n13. elusive\n14. absent\n15. deficient\n16. exhausted\n17. hard to come by\n18. out of reach\n19. unobtainable\n20. lacking\n21. not accessible\n22. not on hand\n23. not present\n24. not to be found\n25. not to be had\n26. not to be obtained\n27. not to be reached\n28. not to be secured\n29. not to be gotten\n30. not to be acquired"
+  },
+  {
+    "sentence": "The fire in the fireworks factory in Changhua set off a series of powerful [MASK] and killed four people.",
+    "answer": "explosions",
+    "distractors": [
+      "extensions",
+      "inspections",
+      "impressions"
+    ],
+    "llm_response": "1. blasts\n2. detonations\n3. bursts\n4. eruptions\n5. bangs\n6. booms\n7. blasts\n8. outbursts\n9. flares\n10. blasts\n11. detonations\n12. bursts\n13. eruptions\n14. bangs\n15. booms\n16. blasts\n17. outbursts\n18. flares\n19. blasts\n20. detonations\n21. bursts\n22. eruptions\n23. bangs\n24. booms\n25. blasts\n26. outbursts\n27. flares\n28. blasts\n29. detonations\n30. bursts"
+  },
+  {
+    "sentence": "A good government official has to [MASK] the temptation of money and make the right decision.",
+    "answer": "resist",
+    "distractors": [
+      "consist",
+      "insist",
+      "persist"
+    ],
+    "llm_response": "1. yield\n2. succumb\n3. give in to\n4. surrender\n5. submit\n6. cave in to\n7. bow to\n8. fall for\n9. be swayed by\n10. be lured by\n11. be enticed by\n12. be seduced by\n13. be tempted by\n14. be attracted to\n15. be allured by\n16. be captivated by\n17. be charmed by\n18. be enchanted by\n19. be fascinated by\n20. be drawn to\n21. be captivated by\n22. be bewitched by\n23. be mesmerized by\n24. be hypnotized by\n25. be spellbound by\n26. be enraptured by\n27. be enchanted by\n28. be beguiled by\n29. be ensnared by\n30. be ensorcelled by"
+  },
+  {
+    "sentence": "The drug dealer was [MASK] by the police while he was selling cocaine to a high school student.",
+    "answer": "arrested",
+    "distractors": [
+      "threatened",
+      "endangered",
+      "demonstrated"
+    ],
+    "llm_response": "1. caught\n2. apprehended\n3. seized\n4. detained\n5. nabbed\n6. captured\n7. taken into custody\n8. busted\n9. collared\n10. picked up\n11. arrested\n12. grabbed\n13. pinched\n14. confined\n15. restrained\n16. incarcerated\n17. locked up\n18. booked\n19. held\n20. restrained\n21. apprehended\n22. detained\n23. captured\n24. taken in\n25. busted\n26. collared\n27. picked up\n28. apprehended\n29. seized\n30. nabbed"
+  },
+  {
+    "sentence": "The rise of oil prices made scientists search for new energy resources to [MASK] oil.",
+    "answer": "replace",
+    "distractors": [
+      "apply",
+      "inform",
+      "persuade"
+    ],
+    "llm_response": "1. substitute\n2. supplant\n3. displace\n4. swap\n5. exchange\n6. remove\n7. switch\n8. fill in for\n9. take the place of\n10. fill the void left by\n11. supersede\n12. overtake\n13. outdo\n14. surpass\n15. outshine\n16. overshadow\n17. outperform\n18. transcend\n19. excel\n20. outstrip\n21. outpace\n22. outrank\n23. outmatch\n24. outclass\n25. outdistance\n26. outgun\n27. outsmart\n28. outmaneuver\n29. outwit\n30. outplay"
+  },
+  {
+    "sentence": "Without much contact with the outside world for many years, John found many technological inventions [MASK] to him.",
+    "answer": "foreign",
+    "distractors": [
+      "natural",
+      "common",
+      "objective"
+    ],
+    "llm_response": "1. unfamiliar\n2. alien\n3. strange\n4. exotic\n5. peculiar\n6. bizarre\n7. unknown\n8. unaccustomed\n9. novel\n10. different\n11. peculiar\n12. remote\n13. unexplored\n14. uncharted\n15. uncharted\n16. untried\n17. untested\n18. unacquainted\n19. unaccustomed\n20. uncharted\n21. unexplored\n22. untried\n23. untested\n24. unacquainted\n25. unaccustomed\n26. unaccustomed\n27. unaccustomed\n28. unaccustomed\n29. unaccustomed\n30. unaccustomed"
+  },
+  {
+    "sentence": "The medicine you take for a cold may cause [MASK]; try not to drive after you take it.",
+    "answer": "drowsiness",
+    "distractors": [
+      "incident",
+      "violence",
+      "bacteria"
+    ],
+    "llm_response": "1. nausea\n2. fatigue\n3. blurred vision\n4. dizziness\n5. headache\n6. dry mouth\n7. confusion\n8. weakness\n9. insomnia\n10. irritability\n11. loss of appetite\n12. diarrhea\n13. constipation\n14. sweating\n15. tremors\n16. anxiety\n17. memory problems\n18. mood swings\n19. hallucinations\n20. weight gain\n21. weight loss\n22. increased heart rate\n23. decreased libido\n24. muscle cramps\n25. difficulty concentrating\n26. dry eyes\n27. sensitivity to light\n28. skin rash\n29. difficulty breathing\n30. chest pain"
+  },
+  {
+    "sentence": "To gain more [MASK], some legislators would get into violent physical fights so that they may appear in TV news reports.",
+    "answer": "publicity",
+    "distractors": [
+      "reputation",
+      "significance",
+      "communication"
+    ],
+    "llm_response": "1. attention\n2. exposure\n3. recognition\n4. fame\n5. notoriety\n6. coverage\n7. spotlight\n8. visibility\n9. promotion\n10. limelight\n11. buzz\n12. hype\n13. fame\n14. renown\n15. acclaim\n16. reputation\n17. popularity\n18. infamy\n19. sensation\n20. propaganda\n21. advertisement\n22. marketing\n23. branding\n24. image\n25. perception\n26. image\n27. image\n28. image\n29. image\n30. image"
+  },
+  {
+    "sentence": "To live an efficient life, we have to arrange the things to do in order of [MASK] and start with the most important ones.",
+    "answer": "priority",
+    "distractors": [
+      "authority",
+      "regularity",
+      "security"
+    ],
+    "llm_response": "1. urgency\n2. significance\n3. importance\n4. relevance\n5. necessity\n6. criticality\n7. primacy\n8. weight\n9. value\n10. essence\n11. cruciality\n12. preeminence\n13. paramount\n14. topmost\n15. key\n16. essentiality\n17. primordial\n18. vital\n19. fundamental\n20. core\n21. central\n22. primary\n23. main\n24. pivotal\n25. cardinal\n26. leading\n27. dominant\n28. superior\n29. supreme\n30. chief"
+  },
+  {
+    "sentence": "I called the airline to [MASK] my flight reservation a week before I left for Canada.",
+    "answer": "confirm",
+    "distractors": [
+      "expand",
+      "attach",
+      "strengthen"
+    ],
+    "llm_response": "1. cancel\n2. adjust\n3. modify\n4. verify\n5. change\n6. update\n7. finalize\n8. rebook\n9. confirm\n10. reschedule\n11. check\n12. validate\n13. approve\n14. confirm\n15. confirm\n16. confirm\n17. confirm\n18. confirm\n19. confirm\n20. confirm\n21. confirm\n22. confirm\n23. confirm\n24. confirm\n25. confirm\n26. confirm\n27. confirm\n28. confirm\n29. confirm\n30. confirm"
+  },
+  {
+    "sentence": "In order to write a report on stars, we decided to [MASK] the stars in the sky every night.",
+    "answer": "observe",
+    "distractors": [
+      "design",
+      "seize",
+      "quote"
+    ],
+    "llm_response": "1. analyze\n2. study\n3. track\n4. monitor\n5. watch\n6. gaze at\n7. examine\n8. survey\n9. view\n10. scrutinize\n11. inspect\n12. record\n13. document\n14. explore\n15. research\n16. scan\n17. look at\n18. follow\n19. keep an eye on\n20. check out\n21. spy on\n22. peer at\n23. behold\n24. contemplate\n25. behold\n26. witness\n27. behold\n28. behold\n29. behold\n30. behold"
+  },
+  {
+    "sentence": "Julie wants to buy a [MASK] computer so that she can carry it around when she travels.",
+    "answer": "portable",
+    "distractors": [
+      "memorable",
+      "predictable",
+      "readable"
+    ],
+    "llm_response": "1. lightweight\n2. compact\n3. mobile\n4. convenient\n5. handheld\n6. travel-friendly\n7. wireless\n8. foldable\n9. sleek\n10. versatile\n11. easy-to-transport\n12. on-the-go\n13. handy\n14. flexible\n15. user-friendly\n16. efficient\n17. modern\n18. innovative\n19. advanced\n20. space-saving\n21. durable\n22. high-tech\n23. cutting-edge\n24. stylish\n25. trendy\n26. digital\n27. smart\n28. efficient\n29. practical\n30. functional"
+  },
+  {
+    "sentence": "My grandmother likes to surprise people. She never calls [MASK] to inform us of her visits.",
+    "answer": "beforehand",
+    "distractors": [
+      "anyhow",
+      "originally",
+      "consequently"
+    ],
+    "llm_response": "1. ahead\n2. previously\n3. in advance\n4. beforehand\n5. early\n6. prior\n7. beforehand\n8. formerly\n9. earlier\n10. prematurely\n11. precursory\n12. antecedently\n13. preliminarily\n14. precursively\n15. precociously\n16. prematurely\n17. precociously\n18. antecedently\n19. preliminarily\n20. precursory\n21. precursively\n22. precociously\n23. prematurely\n24. precociously\n25. antecedently\n26. preliminarily\n27. precursory\n28. precursively\n29. precociously\n30. prematurely"
+  },
+  {
+    "sentence": "As the tallest building in the world, Taipei 101 has become a new [MASK] of Taipei City.",
+    "answer": "landmark",
+    "distractors": [
+      "incident",
+      "geography",
+      "skylight"
+    ],
+    "llm_response": "1. attraction\n2. symbol\n3. icon\n4. structure\n5. monument\n6. centerpiece\n7. feature\n8. highlight\n9. spectacle\n10. marvel\n11. beacon\n12. edifice\n13. sight\n14. wonder\n15. gem\n16. masterpiece\n17. landmark\n18. skyscraper\n19. tower\n20. pride\n21. jewel\n22. showpiece\n23. spectacle\n24. phenomenon\n25. phenomenon\n26. phenomenon\n27. phenomenon\n28. phenomenon\n29. phenomenon\n30. phenomenon"
+  },
+  {
+    "sentence": "Many scholars and experts from all over the world will be invited to attend this yearly [MASK] on drug control.",
+    "answer": "conference",
+    "distractors": [
+      "reference",
+      "intention",
+      "interaction"
+    ],
+    "llm_response": "1. seminar\n2. symposium\n3. workshop\n4. convention\n5. forum\n6. summit\n7. meeting\n8. gathering\n9. assembly\n10. colloquium\n11. congress\n12. session\n13. lecture\n14. panel\n15. roundtable\n16. forum\n17. convention\n18. congress\n19. assembly\n20. symposium\n21. workshop\n22. summit\n23. meeting\n24. gathering\n25. colloquium\n26. lecture\n27. panel\n28. roundtable\n29. forum\n30. convention"
+  },
+  {
+    "sentence": "John had failed to pay his phone bills for months, so his telephone was [MASK] last week.",
+    "answer": "disconnected",
+    "distractors": [
+      "interrupted",
+      "excluded",
+      "discriminated"
+    ],
+    "llm_response": "1. deactivated\n2. terminated\n3. cut off\n4. shut down\n5. suspended\n6. disconnected\n7. blocked\n8. turned off\n9. disabled\n10. halted\n11. stopped\n12. interrupted\n13. ceased\n14. ended\n15. discontinued\n16. severed\n17. isolated\n18. removed\n19. barred\n20. blacklisted\n21. restricted\n22. banned\n23. expelled\n24. excluded\n25. ostracized\n26. forsaken\n27. forsaken\n28. forsaken\n29. forsaken\n30. forsaken"
+  },
+  {
+    "sentence": "The organic food products are made of natural ingredients, with no [MASK] flavors added.",
+    "answer": "artificial",
+    "distractors": [
+      "accurate",
+      "regular",
+      "superficial"
+    ],
+    "llm_response": "1. synthetic\n2. fake\n3. imitation\n4. processed\n5. unnatural\n6. chemical\n7. non-organic\n8. manufactured\n9. unnatural\n10. non-natural\n11. artificial\n12. non-organic\n13. non-authentic\n14. non-genuine\n15. non-real\n16. non-legitimate\n17. non-natural\n18. non-organic\n19. non-authentic\n20. non-genuine\n21. non-real\n22. non-legitimate\n23. non-organic\n24. non-authentic\n25. non-genuine\n26. non-real\n27. non-legitimate\n28. non-organic\n29. non-authentic\n30. non-genuine"
+  },
+  {
+    "sentence": "Jessica is a very religious girl; she believes that she is always [MASK] supported by her god.",
+    "answer": "spiritually",
+    "distractors": [
+      "typically",
+      "historically",
+      "officially"
+    ],
+    "llm_response": "1. mentally\n2. emotionally\n3. physically\n4. financially\n5. morally\n6. ethically\n7. psychologically\n8. socially\n9. religiously\n10. faithfully\n11. divinely\n12. supernaturally\n13. mystically\n14. devotionally\n15. sacredly\n16. holistically\n17. transcendently\n18. metaphysically\n19. piously\n20. reverently\n21. devoutly\n22. godly\n23. angelically\n24. providentially\n25. blessedly\n26. sanctimoniously\n27. consecratedly\n28. consecutively\n29. consecratively\n30. consecratorily"
+  },
+  {
+    "sentence": "Jane usually buys things on [MASK]. Her purchases seem to be driven by some sudden force or desire.",
+    "answer": "impulse",
+    "distractors": [
+      "accident",
+      "compliment",
+      "justification"
+    ],
+    "llm_response": "1. whim\n2. instinct\n3. urge\n4. compulsion\n5. craving\n6. temptation\n7. fancy\n8. caprice\n9. inclination\n10. obsession\n11. passion\n12. addiction\n13. frenzy\n14. frenzy\n15. fixation\n16. tendency\n17. penchant\n18. propensity\n19. habit\n20. reflex\n21. drive\n22. compulsion\n23. yearning\n24. hankering\n25. lust\n26. itch\n27. impulse\n28. longing\n29. appetite\n30. thirst"
+  },
+  {
+    "sentence": "The week-long rainfall has [MASK] landslides and flooding in the mountain areas.",
+    "answer": "broughtabout",
+    "distractors": [
+      "setabout",
+      "comeabout",
+      "putabout"
+    ],
+    "llm_response": "1. caused\n2. triggered\n3. resulted in\n4. led to\n5. initiated\n6. induced\n7. incited\n8. provoked\n9. instigated\n10. produced\n11. engendered\n12. spawned\n13. evoked\n14. prompted\n15. spurred\n16. set off\n17. brought on\n18. created\n19. set in motion\n20. set in\n21. started\n22. occasioned\n23. set up\n24. established\n25. developed\n26. fostered\n27. cultivated\n28. promoted\n29. advanced\n30. encouraged"
+  },
+  {
+    "sentence": "In the cross-lake swimming race, a boat will be [MASK] in case of an emergency.",
+    "answer": "standingby",
+    "distractors": [
+      "turningon",
+      "gettingon",
+      "runningdown"
+    ],
+    "llm_response": "1. ready\n2. available\n3. prepared\n4. on standby\n5. waiting\n6. on call\n7. at the ready\n8. on alert\n9. on standby\n10. on standby mode\n11. on standby duty\n12. on standby status\n13. on standby position\n14. on standby alert\n15. on standby watch\n16. on standby standby\n17. on standby standby mode\n18. on standby standby duty\n19. on standby standby status\n20. on standby standby position\n21. on standby standby alert\n22. on standby standby watch\n23. on standby standby by\n24. on standby standby ready\n25. on standby standby available\n26. on standby standby prepared\n27. on standby standby on call\n28. on standby standby at the ready\n29. on standby standby on alert\n30. on standby standby in place"
+  },
+  {
+    "sentence": "The ground is slippery. Hold onto the rope and don\u2019t [MASK].",
+    "answer": "letgo",
+    "distractors": [
+      "putoff",
+      "turnup",
+      "takeapart"
+    ],
+    "llm_response": "1. slip\n2. fall\n3. release\n4. drop\n5. lose\n6. loosen\n7. relinquish\n8. abandon\n9. release\n10. surrender\n11. give up\n12. release\n13. unhand\n14. free\n15. detach\n16. unclasp\n17. unfasten\n18. unhook\n19. unloose\n20. unbind\n21. untie\n22. unhand\n23. let loose\n24. cast off\n25. set free\n26. liberate\n27. disengage\n28. separate\n29. disconnect\n30. unchain"
+  },
+  {
+    "sentence": "[MASK] the weather, the athletic meetings will be held on time.",
+    "answer": "Regardless of",
+    "distractors": [
+      "Instead of",
+      "In relation to",
+      "On behalf of"
+    ],
+    "llm_response": "1. Despite\n2. In spite of\n3. Irrespective of\n4. Notwithstanding\n5. Regardless\n6. Even with\n7. Even if\n8. Even though\n9. No matter\n10. Even in light of\n11. Even considering\n12. Even given\n13. Even granting\n14. Even supposing\n15. Even when\n16. Even while\n17. Even so\n18. Even though\n19. Even if it\n20. Even if the\n21. Even if they\n22. Even if we\n23. Even if you\n24. Even if he\n25. Even if she\n26. Even if I\n27. Even if one\n28. Even if people\n29. Even if students\n30. Even if athletes"
+  },
+  {
+    "sentence": "If people keep polluting the rivers, no fish there will survive [MASK].",
+    "answer": "in the long run",
+    "distractors": [
+      "at all cost",
+      "for a long while",
+      "by no means"
+    ],
+    "llm_response": "1. ultimately\n2. over time\n3. for the future\n4. in the end\n5. eventually\n6. down the line\n7. in the grand scheme\n8. in the foreseeable future\n9. in the distant future\n10. in the coming years\n11. in the later stages\n12. in the final analysis\n13. in the subsequent years\n14. in the extended period\n15. in the long term\n16. in the far-off future\n17. in the later years\n18. in the forthcoming years\n19. in the extended timeframe\n20. in the long haul\n21. in the distant horizon\n22. in the upcoming years\n23. in the prolonged period\n24. in the extended duration\n25. in the distant outlook\n26. in the long-range\n27. in the extended future\n28. in the distant perspective\n29. in the prolonged timeline\n30. in the extended perspective"
+  }
+]
