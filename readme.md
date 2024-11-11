@@ -1,35 +1,25 @@
-# ISSR
-在ISSR_code.ipynb可以調整各種參數(詳見註解)
+# Code
+- code/ISSR_code.ipynb為框架主程式，直接執行即可，檔案中第一個cell可以調整各種參數(參數涵義詳見裡面註解)
 
-## 例外處理方式
+# 資料集
+位於Dataset中，各檔案說明如下
 
-### 例外1
-當一次distractor select iteration碰到以下狀況時，視為發生異常:
-
-1. 在LLM挑選distractors後做輸出篩選時，沒有得到任何單詞 (有可能是LLM的輸出格式跑掉了，或是LLM生成垃圾--不屬於任何單詞)
-2. LLM挑選的distractors中，有不存在於candidate set的單詞
-3. LLM挑選的distractors包含前面輪次中已經被挑選過的單詞 (由於每次輪替結束會將被挑選過的字從candidate set中移除，所以這種情況發生的時候必定代表2.發生)
-
-目前的distractor selector參數設定是會最多retry 10次，當連續十次挑選都無法進展(仍有這些錯誤發生)，則中斷挑選，此時若挑選的distractor數量不達標，則將1., 2., 3.,中生成的錯誤內容強制加入生成結果中，進入self-review環節(如果有)
-
-### 例外2
-candidate generator生成的詞彙數量超過/未達candidate set指定大小: (由於candidate generator後面有rule-based的篩選，有可能會碰到這種狀況，尤其是nltk的詞性判斷、lemmatization較易誤判導致大多詞彙不合格、詞彙不存在於參考詞彙表中)
-
-1. 若生成詞彙數量超過candidate set大小，
-2. 若生成詞彙數量不到candidate set大小，則放寬rule-base的條件(取消的規則依序是: 詞性相同->長度->難度相近)，直至滿足candidate set size條件
-
-
-### 例外3
-Target word不存在於參考詞彙表中:
-這樣會拿不到詞彙難度，仍會請candidate generator生成candidates，但是會略過rule-based中關於難易度相近的判斷(預設過關)，詞性判斷等等其餘規則則保留
-
-### self-review的二元題目答題判斷方式
-只要LLM的回應中不包含正確答案，則判斷答錯
-
-### 例外4
-Candidate set 大小 <= 需要ISSR生成的distractor數量時:
-會直接輸出candidate set作為最終成果，同時附帶警告信息。
-
+- 高中英文參考詞彙表: 由大考中心提供，用於衡量candidate難易度，欄位包含如下
+    - 詞彙
+    - 詞性
+    - 難易度
+- words_alpha: 包含至今所有的英語詞彙，用於篩選LLM輸出是否是單詞
+- processed_gsat_data: 處理過的學測題目(為下方raw_gsat_data的子集)，僅保留必要欄位，用於模型輸入
+- raw_gsat_data: 收集大考中心釋出資料後的完整的學測資料集，資料包含如下
+    - 題幹
+    - correct_option_en: 目標詞彙(正確答案)
+    - options_en: 原始四選項
+    - options_ch: 收集自三民書局參考書對該選項的翻譯 (Note: 有些年份並未提供中文翻譯)
+    - Ph, Pl, P: 不同程度區間學生的答對率 (Ph: 前25%, Pl:後25%, P:鑑別度=Ph-Pl)
+    - Pa~Pe: 依序是前1%~20%, 20%~40%, 40%~60%, 60%~80%, 80%~99%程度學生的答對率
+    - D1~D4: 不同程度區間學生的鑑別度 (D1計算方式為Pa-Pb, D2為Pb-Pc，以此類推)
+    - *_options_rate: 不同程度區間學生的各選項選擇率(t: 整體學生, h: 前25%學生, l:後25%學生)
+    - *_option_correct: 不同程度區間學生的正確答案選擇率 (可由上面\*_options_rate推出，這欄位是為了方便分析取用新增的)
 
 # Outputs
 存放Experiments Section中各實驗的數據(discusstion跟data analysis的部分則存在Code/discusstion_experiment_code內)，這些都是model raw output，表格分數請搭配Outputs/Evaluator.ipynb重現
