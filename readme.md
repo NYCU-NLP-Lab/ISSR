@@ -24,4 +24,8 @@
 # Outputs
 存放Experiments Section中各實驗的數據(discusstion跟data analysis的部分則存在Code/discusstion_experiment_code內)，這些都是model raw output，表格分數請搭配Outputs/Evaluator.ipynb重現
 
+# 環境
+確保主機已經安裝conda
+請執行`conda env create -f environment.yml`即可安裝執行環境
+
 
