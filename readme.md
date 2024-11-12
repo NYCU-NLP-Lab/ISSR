@@ -26,6 +26,7 @@
 
 # 環境
 確保主機已經安裝conda
+
 請執行`conda env create -f environment.yml`即可安裝執行環境
 
 
