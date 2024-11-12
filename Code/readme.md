@@ -12,7 +12,7 @@
 ## 例外2
 candidate generator生成的詞彙數量超過/未達candidate set指定大小: (由於candidate generator後面有rule-based的篩選，有可能會碰到這種狀況，尤其是nltk的詞性判斷、lemmatization較易誤判導致大多詞彙不合格、詞彙不存在於參考詞彙表中)
 
-1. 若生成詞彙數量超過candidate set大小，
+1. 若生成詞彙數量超過candidate set大小，則取前K個
 2. 若生成詞彙數量不到candidate set大小，則放寬rule-base的條件(取消的規則依序是: 詞性相同->長度->難度相近)，直至滿足candidate set size條件
 
 
