@@ -1,3 +1,40 @@
+# Code  
+- `code/ISSR_code.ipynb` is the main framework script. Run it directly. The first cell allows parameter adjustments (see comments for details).  
+
+# Dataset  
+Located in the `Dataset` folder, with the following files:  
+
+- **High School English Reference Vocabulary List:** Provided by the College Entrance Examination Center, used to assess candidate word difficulty. Fields include:  
+  - Vocabulary  
+  - Part of Speech  
+  - Difficulty Level  
+
+- **words_alpha:** A comprehensive list of English words, used to filter whether LLM outputs are valid words.  
+
+- **processed_gsat_data:** A processed subset of `raw_gsat_data`, retaining only essential fields for model input.  
+
+- **raw_gsat_data:** The complete dataset collected from the College Entrance Examination Center. Fields include:  
+  - **Question Stem**  
+  - `correct_option_en`: Target vocabulary (correct answer)  
+  - `options_en`: Original four answer choices  
+  - `options_ch`: Translations of the choices from Sanmin reference books (*Note: Some years may lack translations.*)  
+  - `Ph, Pl, P`: Accuracy rates for different student groups (*Ph: top 25%, Pl: bottom 25%, P: discrimination index = Ph - Pl*)  
+  - `Pa ~ Pe`: Accuracy rates across five student proficiency levels (1%~20%, 20%~40%, ..., 80%~99%)  
+  - `D1 ~ D4`: Discrimination index for different levels (*D1 = Pa - Pb, D2 = Pb - Pc, etc.*)  
+  - `*_options_rate`: Choice rates for different groups (*t: all students, h: top 25%, l: bottom 25%*)  
+  - `*_option_correct`: Correct answer selection rates for different groups (*Derived from `*_options_rate`, included for convenience in analysis.*)  
+
+# Outputs  
+Stores raw model outputs from various experiments in the **Experiments Section** (*Discussion and data analysis results are in `Code/discussion_experiment_code`*). Use `Outputs/Evaluator.ipynb` to reproduce the evaluation scores.  
+
+# Environment  
+Ensure **Conda** is installed. Run the following command to set up the environment:  
+```bash  
+conda env create -f environment.yml  
+```
+---
+
+
 # Code
 - code/ISSR_code.ipynb為框架主程式，直接執行即可，檔案中第一個cell可以調整各種參數(參數涵義詳見裡面註解)
 
